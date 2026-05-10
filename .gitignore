@@ -1,15 +1,15 @@
-# ====== GitHub Pages 公開用：web/ のみ追跡する戦略 ======
+# ====== GitHub Pages 公開用：docs/ のみ追跡する戦略 ======
 # まず全部を除外し、必要なものだけ ! で許可する
 /*
 
 # 公開するもの
-!/web/
+!/docs/
 !/.gitignore
 !/README.md
 
-# web/ 配下の不要物は再除外
-web/__pycache__/
-web/generate_icons.py
+# docs/ 配下の不要物は再除外
+docs/__pycache__/
+docs/generate_icons.py
 
 # ====== 以下は元の除外設定（残しておく） ======
 # Python
