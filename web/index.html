@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<meta name="theme-color" content="#2c3e50">
+<title>競馬AI予想</title>
+<link rel="stylesheet" href="style.css">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-inner">
+    <h1>競馬AI予想</h1>
+    <div class="meta">
+      <select id="date-select" aria-label="日付選択"></select>
+      <select id="venue-filter" aria-label="会場フィルタ">
+        <option value="">全場</option>
+      </select>
+    </div>
+  </div>
+</header>
+
+<main id="app">
+  <p class="loading">読み込み中...</p>
+</main>
+
+<footer class="footer">
+  <p id="updated-at"></p>
+  <p>純粋アンサンブル予測 (LGB + XGB + CatBoost)</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,50 @@
+# ====== GitHub Pages 公開用：web/ のみ追跡する戦略 ======
+# まず全部を除外し、必要なものだけ ! で許可する
+/*
+
+# 公開するもの
+!/web/
+!/.gitignore
+!/README.md
+
+# web/ 配下の不要物は再除外
+web/__pycache__/
+web/generate_icons.py
+
+# ====== 以下は元の除外設定（残しておく） ======
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+.env
+
+# Data & DB
+data/*.db
+data/*.sqlite
+data/raw/
+data/cache/
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+netkeiba_session.json
+cookies.json
