@@ -1,6 +1,6 @@
 {
   "date": "2026-05-10",
-  "generated_at": "2026-05-11T22:39:28",
+  "generated_at": "2026-05-11T23:04:27",
   "ev_thr": 1.25,
   "odds_cap": 50,
   "n_bets": 12,
@@ -900,7 +900,7 @@
           "horse_number": 12,
           "popularity": 15,
           "p_win": 0.0,
-          "fair_odds": Infinity,
+          "fair_odds": null,
           "odds_win": 232.6,
           "ev": 0.0,
           "is_buy": false
@@ -1183,7 +1183,7 @@
           "horse_number": 4,
           "popularity": 15,
           "p_win": 0.0,
-          "fair_odds": Infinity,
+          "fair_odds": null,
           "odds_win": 341.4,
           "ev": 0.0,
           "is_buy": false
@@ -1329,7 +1329,7 @@
           "horse_number": 7,
           "popularity": 15,
           "p_win": 0.0,
-          "fair_odds": Infinity,
+          "fair_odds": null,
           "odds_win": 185.1,
           "ev": 0.0,
           "is_buy": false
@@ -1466,7 +1466,7 @@
           "horse_number": 1,
           "popularity": 14,
           "p_win": 0.0,
-          "fair_odds": Infinity,
+          "fair_odds": null,
           "odds_win": 221.3,
           "ev": 0.0,
           "is_buy": false
@@ -1868,7 +1868,7 @@
           "horse_number": 2,
           "popularity": 13,
           "p_win": 0.0,
-          "fair_odds": Infinity,
+          "fair_odds": null,
           "odds_win": 152.7,
           "ev": 0.0,
           "is_buy": false
@@ -2270,7 +2270,7 @@
           "horse_number": 3,
           "popularity": 14,
           "p_win": 0.0,
-          "fair_odds": Infinity,
+          "fair_odds": null,
           "odds_win": 158.7,
           "ev": 0.0,
           "is_buy": false
@@ -2279,7 +2279,7 @@
           "horse_number": 5,
           "popularity": 16,
           "p_win": 0.0,
-          "fair_odds": Infinity,
+          "fair_odds": null,
           "odds_win": 301.3,
           "ev": 0.0,
           "is_buy": false
@@ -2288,7 +2288,7 @@
           "horse_number": 15,
           "popularity": 15,
           "p_win": 0.0,
-          "fair_odds": Infinity,
+          "fair_odds": null,
           "odds_win": 231.1,
           "ev": 0.0,
           "is_buy": false
@@ -2398,7 +2398,7 @@
           "horse_number": 2,
           "popularity": 11,
           "p_win": 0.0,
-          "fair_odds": Infinity,
+          "fair_odds": null,
           "odds_win": 167.9,
           "ev": 0.0,
           "is_buy": false
