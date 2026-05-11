@@ -66,12 +66,14 @@ async function init() {
 
 async function loadDate(dateStr) {
   $app.innerHTML = `<p class="loading">読み込み中...</p>`;
+  const url = `data/tansho/${dateStr}.json?t=` + Date.now();
   try {
-    const res = await fetch(`data/tansho/${dateStr}.json?t=` + Date.now());
-    if (!res.ok) throw new Error("not found");
+    const res = await fetch(url);
+    if (!res.ok) throw new Error(`HTTP ${res.status} ${res.statusText} — ${url}`);
     state.payload = await res.json();
   } catch (e) {
-    $app.innerHTML = `<p class="empty">${dateStr} のデータが見つかりません。</p>`;
+    $app.innerHTML = `<p class="empty">${dateStr} のデータが見つかりません。<br><small style="color:#999">${e.message}</small></p>`;
+    console.error("loadDate failed:", e);
     return;
   }
 
