@@ -57,6 +57,33 @@ body {
   font-size: 14px;
 }
 
+/* ====== Tab Bar ====== */
+.tab-bar {
+  display: flex;
+  margin-top: 10px;
+  border-bottom: 1px solid rgba(255,255,255,0.15);
+}
+.tab-item {
+  flex: 1;
+  text-align: center;
+  padding: 7px 8px;
+  color: rgba(255,255,255,0.6);
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+  border-bottom: 3px solid transparent;
+  transition: color 0.15s, border-color 0.15s;
+  white-space: nowrap;
+}
+.tab-item:hover {
+  color: rgba(255,255,255,0.9);
+}
+.tab-item.active {
+  color: #fff;
+  border-bottom-color: var(--accent);
+  font-weight: 700;
+}
+
 /* ====== Main / Cards ====== */
 main {
   max-width: 800px;

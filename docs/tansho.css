@@ -9,23 +9,6 @@
   --ev-bar-mid:   #f39c12;
 }
 
-/* タイトル行 */
-.topbar-title-row {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  margin-bottom: 8px;
-}
-.nav-link {
-  color: rgba(255,255,255,0.85);
-  font-size: 13px;
-  text-decoration: none;
-  padding: 4px 10px;
-  border: 1px solid rgba(255,255,255,0.4);
-  border-radius: 12px;
-  transition: background 0.15s;
-}
-.nav-link:hover { background: rgba(255,255,255,0.15); }
 
 /* ====== 推奨ベットサマリー ====== */
 .summary-section {
