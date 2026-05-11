@@ -16,10 +16,16 @@
 <header class="topbar">
   <div class="topbar-inner">
     <h1>🏇 競馬AI予想</h1>
-    <nav class="tab-bar">
+    <nav class="tab-bar" id="tab-bar">
       <a href="index.html" class="tab-item">🎯 3連複AI</a>
       <a href="tansho.html" class="tab-item active">💴 単勝EV</a>
     </nav>
+    <script>
+    document.getElementById('tab-bar').addEventListener('click',function(e){
+      var a=e.target.closest('a.tab-item');
+      if(a&&!a.classList.contains('active')){e.preventDefault();location.href=a.getAttribute('href')+'?t='+Date.now();}
+    });
+    </script>
     <div class="meta" style="margin-top:8px">
       <select id="date-select" aria-label="日付選択"></select>
       <select id="venue-filter" aria-label="会場フィルタ">
