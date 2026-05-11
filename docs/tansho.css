@@ -1,0 +1,257 @@
+/* ====== 単勝EV専用スタイル ====== */
+
+:root {
+  --ev-buy-bg:    #d4edda;
+  --ev-buy-text:  #155724;
+  --ev-mid-bg:    #fff3cd;
+  --ev-mid-text:  #856404;
+  --ev-bar-max:   #2ecc71;
+  --ev-bar-mid:   #f39c12;
+}
+
+/* タイトル行 */
+.topbar-title-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+.nav-link {
+  color: rgba(255,255,255,0.85);
+  font-size: 13px;
+  text-decoration: none;
+  padding: 4px 10px;
+  border: 1px solid rgba(255,255,255,0.4);
+  border-radius: 12px;
+  transition: background 0.15s;
+}
+.nav-link:hover { background: rgba(255,255,255,0.15); }
+
+/* ====== 推奨ベットサマリー ====== */
+.summary-section {
+  max-width: 800px;
+  margin: 16px auto 0;
+  padding: 0 16px;
+}
+.summary-header {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--primary);
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.summary-header .badge {
+  background: var(--accent);
+  color: #fff;
+  font-size: 12px;
+  padding: 2px 8px;
+  border-radius: 10px;
+}
+.no-bets {
+  text-align: center;
+  color: var(--text-mute);
+  padding: 20px;
+  font-size: 14px;
+}
+
+/* 推奨ベット表 */
+.bet-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+  background: var(--surface);
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+}
+.bet-table th {
+  background: var(--primary);
+  color: #fff;
+  padding: 8px 10px;
+  text-align: right;
+  font-weight: 600;
+  white-space: nowrap;
+}
+.bet-table th:first-child,
+.bet-table th:nth-child(2) { text-align: left; }
+.bet-table td {
+  padding: 8px 10px;
+  border-bottom: 1px solid var(--border);
+  text-align: right;
+  white-space: nowrap;
+}
+.bet-table td:first-child,
+.bet-table td:nth-child(2) { text-align: left; }
+.bet-table tr:last-child td { border-bottom: none; }
+
+.ev-high { background: var(--ev-buy-bg); color: var(--ev-buy-text); }
+.ev-mid  { background: var(--ev-mid-bg); color: var(--ev-mid-text); }
+
+.ev-badge {
+  display: inline-block;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-weight: 700;
+  font-size: 12px;
+}
+.ev-badge.high { background: #28a745; color: #fff; }
+.ev-badge.mid  { background: #ffc107; color: #333; }
+
+/* ====== レース詳細セクション ====== */
+.divider {
+  max-width: 800px;
+  margin: 20px auto 0;
+  padding: 0 16px;
+  border-top: 1px solid var(--border);
+  padding-top: 16px;
+}
+.section-title {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--text-mute);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 12px;
+}
+
+/* 会場グループ */
+.venue-group {
+  max-width: 800px;
+  margin: 0 auto 16px;
+  padding: 0 16px;
+}
+.venue-label {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--primary);
+  margin-bottom: 8px;
+  padding-bottom: 4px;
+  border-bottom: 2px solid var(--accent);
+  display: inline-block;
+}
+
+/* レースカード */
+.race-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  margin-bottom: 8px;
+  overflow: hidden;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+}
+.race-card.has-buy { border-color: #28a745; border-width: 2px; }
+
+.race-card-header {
+  display: flex;
+  align-items: center;
+  padding: 10px 14px;
+  cursor: pointer;
+  gap: 10px;
+  user-select: none;
+}
+.race-card-header:hover { background: #f5f5f5; }
+
+.race-num {
+  font-size: 16px;
+  font-weight: 800;
+  color: var(--primary);
+  min-width: 36px;
+}
+.race-info {
+  flex: 1;
+  font-size: 13px;
+  color: var(--text-mute);
+}
+.race-info strong { color: var(--text); }
+.race-buy-count {
+  font-size: 12px;
+  background: #28a745;
+  color: #fff;
+  padding: 2px 8px;
+  border-radius: 10px;
+  white-space: nowrap;
+}
+.race-expand-icon {
+  font-size: 12px;
+  color: var(--text-mute);
+  transition: transform 0.2s;
+}
+.race-card.expanded .race-expand-icon { transform: rotate(180deg); }
+
+.race-card-body {
+  display: none;
+  padding: 0 14px 12px;
+}
+.race-card.expanded .race-card-body { display: block; }
+
+/* 馬テーブル */
+.horse-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+.horse-table th {
+  background: #f0f2f4;
+  padding: 6px 8px;
+  text-align: right;
+  font-weight: 600;
+  font-size: 12px;
+  color: var(--text-mute);
+  white-space: nowrap;
+}
+.horse-table th:first-child { text-align: center; }
+.horse-table td {
+  padding: 7px 8px;
+  border-bottom: 1px solid #f0f2f4;
+  text-align: right;
+  white-space: nowrap;
+}
+.horse-table td:first-child { text-align: center; }
+.horse-table tr:last-child td { border-bottom: none; }
+
+.horse-table tr.buy-row td { background: var(--ev-buy-bg); }
+.horse-table tr.mid-row td { background: var(--ev-mid-bg); }
+
+/* EV バー */
+.ev-bar-wrap {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  justify-content: flex-end;
+}
+.ev-bar {
+  height: 6px;
+  border-radius: 3px;
+  background: #e0e0e0;
+  width: 48px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.ev-bar-fill {
+  height: 100%;
+  border-radius: 3px;
+  transition: width 0.3s;
+}
+.ev-val { font-weight: 700; min-width: 36px; text-align: right; }
+
+/* 馬番バッジ */
+.hnum-badge {
+  display: inline-block;
+  width: 24px; height: 24px;
+  line-height: 24px;
+  border-radius: 50%;
+  background: var(--primary);
+  color: #fff;
+  font-size: 12px;
+  font-weight: 700;
+  text-align: center;
+}
+.buy-row .hnum-badge { background: #28a745; }
+
+/* ====== レスポンシブ ====== */
+@media (max-width: 480px) {
+  .bet-table th:nth-child(4),
+  .bet-table td:nth-child(4) { display: none; } /* 距離 非表示 */
+}

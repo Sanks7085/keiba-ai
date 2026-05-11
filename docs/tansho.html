@@ -4,8 +4,9 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 <meta name="theme-color" content="#2c3e50">
-<title>競馬AI予想</title>
+<title>単勝EV予測</title>
 <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="tansho.css">
 <link rel="manifest" href="manifest.json">
 <link rel="apple-touch-icon" href="icons/icon-192.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -14,9 +15,9 @@
 <body>
 <header class="topbar">
   <div class="topbar-inner">
-    <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:8px">
-      <h1 style="margin-bottom:0">競馬AI予想</h1>
-      <a href="tansho.html" style="color:rgba(255,255,255,0.85);font-size:13px;text-decoration:none;padding:4px 10px;border:1px solid rgba(255,255,255,0.4);border-radius:12px;">単勝EV →</a>
+    <div class="topbar-title-row">
+      <h1>🏇 単勝EV予測</h1>
+      <a href="index.html" class="nav-link">← 馬券AI予想</a>
     </div>
     <div class="meta">
       <select id="date-select" aria-label="日付選択"></select>
@@ -33,9 +34,9 @@
 
 <footer class="footer">
   <p id="updated-at"></p>
-  <p>純粋アンサンブル予測 (LGB + XGB + CatBoost)</p>
+  <p>LGB + XGB + CatBoost アンサンブル × Isotonic補正  |  EV = 勝率予測 × 単勝オッズ</p>
 </footer>
 
-<script src="app.js"></script>
+<script src="tansho.js"></script>
 </body>
 </html>
