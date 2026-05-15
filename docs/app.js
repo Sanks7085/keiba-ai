@@ -140,7 +140,10 @@ function renderList() {
 
   const html = races.map(r => {
     const skipped = r.skipped;
-    const cardCls = skipped ? "race-card skipped" : "race-card";
+    const f4out = (r.in_f4 === false);
+    const cardCls = f4out ? "race-card f4-out"
+                  : skipped ? "race-card skipped"
+                  : "race-card";
     const start = escape(r.start_time || "--:--");
     const venue = escape(r.venue_name || "?");
     const rnum = r.race_number;
@@ -153,9 +156,14 @@ function renderList() {
     const cost = r.total_stake;
     const thr = r.threshold ? r.threshold.toFixed(1) : "?";
 
-    const summary = skipped
-      ? `<span class="skip-pill">不参加</span> 閾値${thr}% 相手不足`
-      : `<span class="axis-pill">軸 ${r.axis}</span>${axisHorseName} ／ ${tickets}点 ${cost.toLocaleString()}円`;
+    let summary;
+    if (f4out) {
+      summary = `<span class="f4-pill">対象外</span> ${surface}×${cls} は黒字組合せ外`;
+    } else if (skipped) {
+      summary = `<span class="skip-pill">不参加</span> 閾値${thr}% 相手不足`;
+    } else {
+      summary = `<span class="axis-pill">軸 ${r.axis}</span>${axisHorseName} ／ ${tickets}点 ${cost.toLocaleString()}円`;
+    }
 
     return `
       <div class="${cardCls}" data-race-id="${escape(r.race_id)}">

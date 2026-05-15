@@ -118,6 +118,19 @@ main {
   opacity: 0.55;
   border-left: 4px solid var(--skip);
 }
+.race-card.f4-out {
+  opacity: 0.35;
+  border-left: 4px solid #95a5a6;
+}
+.race-card .f4-pill {
+  display: inline-block;
+  background: #7f8c8d;
+  color: #fff;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: 600;
+}
 .race-card .row1 {
   display: flex;
   justify-content: space-between;
