@@ -1,7 +1,7 @@
 {
   "date": "2026-05-02",
   "venue_filter": null,
-  "generated_at": "2026-05-15T23:12:43.593155",
+  "generated_at": "2026-05-15T23:25:53.191423",
   "n_races": 8,
   "races": [
     {
@@ -25,6 +25,9 @@
       "skip_reason": "相手0頭<4点",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 45.0494,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 6,
@@ -255,6 +258,9 @@
       "skip_reason": "相手3頭<4点",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 15.2648,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 7,
@@ -364,6 +370,9 @@
       "skip_reason": "相手3頭<4点",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 16.1451,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 3,
@@ -573,6 +582,9 @@
       "skip_reason": null,
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 27.6298,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 6,
@@ -771,6 +783,9 @@
       "skip_reason": null,
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 20.403,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 2,
@@ -1036,6 +1051,9 @@
       "skip_reason": null,
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 11.9346,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 6,
@@ -1278,6 +1296,9 @@
       "skip_reason": "相手1頭<4点",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 68.7877,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 17,
@@ -1510,6 +1531,9 @@
       "skip_reason": null,
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 22.5083,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 2,

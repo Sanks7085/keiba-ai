@@ -1,7 +1,7 @@
 {
   "date": "2026-05-09",
   "venue_filter": null,
-  "generated_at": "2026-05-15T23:12:33.944249",
+  "generated_at": "2026-05-15T23:25:44.889031",
   "n_races": 21,
   "races": [
     {
@@ -30,6 +30,9 @@
       "skip_reason": null,
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 14.839,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 2,
@@ -201,6 +204,9 @@
       "skip_reason": "相手0頭<4点",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 7.2929,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 7,
@@ -410,6 +416,9 @@
       "skip_reason": null,
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 29.7273,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 12,
@@ -625,6 +634,9 @@
       "skip_reason": "相手0頭<4点",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 16.4566,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 12,
@@ -821,6 +833,9 @@
       "skip_reason": "相手2頭<4点",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 18.8029,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 11,
@@ -973,6 +988,9 @@
       "skip_reason": "相手2頭<4点",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 9.8503,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 3,
@@ -1157,6 +1175,9 @@
       "skip_reason": "相手1頭<4点",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 108.6603,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 15,
@@ -1350,6 +1371,9 @@
       "skip_reason": "相手0頭<4点",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 20.8075,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 1,
@@ -1559,6 +1583,9 @@
       "skip_reason": null,
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 14.6749,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 6,
@@ -1733,6 +1760,9 @@
       "skip_reason": "相手2頭<4点",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 71.7547,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 11,
@@ -1920,6 +1950,9 @@
       "skip_reason": null,
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 10.3463,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 7,
@@ -2129,6 +2162,9 @@
       "skip_reason": null,
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 3.7255,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 7,
@@ -2348,6 +2384,9 @@
       "skip_reason": "相手3頭<4点",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 26.7623,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 9,
@@ -2523,6 +2562,9 @@
       "skip_reason": "相手3頭<4点",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 8.1905,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 1,
@@ -2648,6 +2690,9 @@
       "skip_reason": null,
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 6.2297,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 2,
@@ -3096,6 +3141,9 @@
       "skip_reason": "相手1頭<4点",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 19.8962,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 5,
@@ -3304,10 +3352,13 @@
       ],
       "threshold": 5.5,
       "threshold_reason": "グレード [OP]",
-      "skipped": false,
-      "skip_reason": null,
+      "skipped": true,
+      "skip_reason": "EVフィルタ: max_EV 0.00 < 2.5",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 0.0,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": false,
       "horses": [
         {
           "horse_number": 8,
@@ -3486,199 +3537,9 @@
           "horse_name": "ティラーノ"
         }
       ],
-      "buys": [
-        {
-          "combo": [
-            2,
-            8,
-            15
-          ],
-          "prob": 1.093,
-          "payout_yen": null
-        },
-        {
-          "combo": [
-            1,
-            2,
-            8
-          ],
-          "prob": 1.064,
-          "payout_yen": null
-        },
-        {
-          "combo": [
-            2,
-            3,
-            8
-          ],
-          "prob": 1.007,
-          "payout_yen": null
-        },
-        {
-          "combo": [
-            1,
-            8,
-            15
-          ],
-          "prob": 0.92,
-          "payout_yen": null
-        },
-        {
-          "combo": [
-            3,
-            8,
-            15
-          ],
-          "prob": 0.87,
-          "payout_yen": null
-        },
-        {
-          "combo": [
-            1,
-            3,
-            8
-          ],
-          "prob": 0.847,
-          "payout_yen": null
-        },
-        {
-          "combo": [
-            2,
-            8,
-            10
-          ],
-          "prob": 0.835,
-          "payout_yen": null
-        },
-        {
-          "combo": [
-            2,
-            8,
-            9
-          ],
-          "prob": 0.807,
-          "payout_yen": null
-        },
-        {
-          "combo": [
-            2,
-            5,
-            8
-          ],
-          "prob": 0.749,
-          "payout_yen": null
-        },
-        {
-          "combo": [
-            8,
-            10,
-            15
-          ],
-          "prob": 0.722,
-          "payout_yen": null
-        },
-        {
-          "combo": [
-            1,
-            8,
-            10
-          ],
-          "prob": 0.703,
-          "payout_yen": null
-        },
-        {
-          "combo": [
-            8,
-            9,
-            15
-          ],
-          "prob": 0.697,
-          "payout_yen": null
-        },
-        {
-          "combo": [
-            1,
-            8,
-            9
-          ],
-          "prob": 0.679,
-          "payout_yen": null
-        },
-        {
-          "combo": [
-            3,
-            8,
-            10
-          ],
-          "prob": 0.665,
-          "payout_yen": null
-        },
-        {
-          "combo": [
-            5,
-            8,
-            15
-          ],
-          "prob": 0.648,
-          "payout_yen": null
-        },
-        {
-          "combo": [
-            3,
-            8,
-            9
-          ],
-          "prob": 0.642,
-          "payout_yen": null
-        },
-        {
-          "combo": [
-            1,
-            5,
-            8
-          ],
-          "prob": 0.631,
-          "payout_yen": null
-        },
-        {
-          "combo": [
-            3,
-            5,
-            8
-          ],
-          "prob": 0.597,
-          "payout_yen": null
-        },
-        {
-          "combo": [
-            8,
-            9,
-            10
-          ],
-          "prob": 0.533,
-          "payout_yen": null
-        },
-        {
-          "combo": [
-            5,
-            8,
-            10
-          ],
-          "prob": 0.495,
-          "payout_yen": null
-        },
-        {
-          "combo": [
-            5,
-            8,
-            9
-          ],
-          "prob": 0.478,
-          "payout_yen": null
-        }
-      ],
-      "n_tickets": 21,
-      "total_stake": 2100,
+      "buys": [],
+      "n_tickets": 0,
+      "total_stake": 0,
       "axis_name": "バドリナート"
     },
     {
@@ -3711,6 +3572,9 @@
       "skip_reason": null,
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 9.5051,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 14,
@@ -4183,6 +4047,9 @@
       "skip_reason": "相手3頭<4点",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 10.085,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 2,
@@ -4343,9 +4210,12 @@
       "threshold": 11.0,
       "threshold_reason": "芝/ダート×馬場 [ダート×良]",
       "skipped": true,
-      "skip_reason": "相手2頭<4点",
+      "skip_reason": "EVフィルタ: max_EV 0.00 < 2.5",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 0.0,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": false,
       "horses": [
         {
           "horse_number": 2,
@@ -4516,9 +4386,12 @@
       "threshold": 11.0,
       "threshold_reason": "芝/ダート×馬場 [ダート×良]",
       "skipped": true,
-      "skip_reason": "相手1頭<4点",
+      "skip_reason": "EVフィルタ: max_EV 0.00 < 2.5",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 0.0,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": false,
       "horses": [
         {
           "horse_number": 7,

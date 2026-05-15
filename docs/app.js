@@ -156,9 +156,14 @@ function renderList() {
     const cost = r.total_stake;
     const thr = r.threshold ? r.threshold.toFixed(1) : "?";
 
+    const evFiltered = (r.passes_ev_filter === false);
     let summary;
     if (f4out) {
       summary = `<span class="f4-pill">対象外</span> ${surface}×${cls} は黒字組合せ外`;
+    } else if (evFiltered && skipped) {
+      const maxEv = r.max_ev != null ? r.max_ev.toFixed(2) : "?";
+      const thT = r.race_ev_threshold != null ? r.race_ev_threshold.toFixed(1) : "?";
+      summary = `<span class="f4-pill">EV不足</span> 最大EV ${maxEv} < ${thT}（自信なし）`;
     } else if (skipped) {
       summary = `<span class="skip-pill">不参加</span> 閾値${thr}% 相手不足`;
     } else {

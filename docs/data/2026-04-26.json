@@ -1,7 +1,7 @@
 {
   "date": "2026-04-26",
   "venue_filter": null,
-  "generated_at": "2026-05-15T23:12:48.900755",
+  "generated_at": "2026-05-15T23:25:58.150624",
   "n_races": 21,
   "races": [
     {
@@ -31,6 +31,9 @@
       "skip_reason": null,
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 63.1955,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 2,
@@ -243,6 +246,9 @@
       "skip_reason": null,
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 18.4941,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 14,
@@ -506,6 +512,9 @@
       "skip_reason": "相手3頭<4点",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 15.0027,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 3,
@@ -658,6 +667,9 @@
       "skip_reason": "相手2頭<4点",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 5.733,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 1,
@@ -866,6 +878,9 @@
       "skip_reason": "相手3頭<4点",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 11.6626,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 3,
@@ -1073,6 +1088,9 @@
       "skip_reason": "相手2頭<4点",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 18.2268,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 1,
@@ -1248,6 +1266,9 @@
       "skip_reason": "相手3頭<4点",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 81.3785,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 9,
@@ -1456,6 +1477,9 @@
       "skip_reason": "相手3頭<4点",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 8.869,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 5,
@@ -1629,6 +1653,9 @@
       "skip_reason": "相手1頭<4点",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 13.1465,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 10,
@@ -1826,6 +1853,9 @@
       "skip_reason": "相手3頭<4点",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 71.2774,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 8,
@@ -2024,6 +2054,9 @@
       "skip_reason": null,
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 7.9931,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 6,
@@ -2252,6 +2285,9 @@
       "skip_reason": "相手1頭<4点",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 15.4571,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 3,
@@ -2454,6 +2490,9 @@
       "skip_reason": null,
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 7.4521,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 6,
@@ -2911,6 +2950,9 @@
       "skip_reason": "相手0頭<4点",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 38.4472,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 5,
@@ -3120,6 +3162,9 @@
       "skip_reason": null,
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 30.6885,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 8,
@@ -3328,6 +3373,9 @@
       "skip_reason": "相手3頭<4点",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 45.818,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 9,
@@ -3512,6 +3560,9 @@
       "skip_reason": "相手1頭<4点",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 13.3424,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 11,
@@ -3709,6 +3760,9 @@
       "skip_reason": "相手3頭<4点",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 6.216,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 2,
@@ -3858,6 +3912,9 @@
       "skip_reason": "相手0頭<4点",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 26.8444,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 18,
@@ -4086,6 +4143,9 @@
       "skip_reason": "相手1頭<4点",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 20.129,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 10,
@@ -4316,6 +4376,9 @@
       "skip_reason": "相手3頭<4点",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 16.7251,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 10,
