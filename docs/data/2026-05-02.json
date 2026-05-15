@@ -1,7 +1,7 @@
 {
   "date": "2026-05-02",
   "venue_filter": null,
-  "generated_at": "2026-05-15T20:50:11.104902",
+  "generated_at": "2026-05-15T21:48:49.638379",
   "n_races": 8,
   "races": [
     {
@@ -24,7 +24,7 @@
       "skipped": true,
       "skip_reason": "相手0頭<4点",
       "in_f4": true,
-      "f4_reason": "黒字組合せ",
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
       "horses": [
         {
           "horse_number": 6,
@@ -254,7 +254,7 @@
       "skipped": true,
       "skip_reason": "相手3頭<4点",
       "in_f4": true,
-      "f4_reason": "黒字組合せ",
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
       "horses": [
         {
           "horse_number": 7,
@@ -361,9 +361,9 @@
       "threshold": 9.0,
       "threshold_reason": "芝/ダート×馬場 [ダート×重]",
       "skipped": true,
-      "skip_reason": "F4対象外: ダート×1勝クラス",
-      "in_f4": false,
-      "f4_reason": "対象外 (ダート×1勝クラス)",
+      "skip_reason": "相手3頭<4点",
+      "in_f4": true,
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
       "horses": [
         {
           "horse_number": 3,
@@ -569,10 +569,10 @@
       ],
       "threshold": 10.0,
       "threshold_reason": "芝/ダート×馬場 [芝×良]",
-      "skipped": true,
-      "skip_reason": "F4対象外: 芝×2勝クラス",
-      "in_f4": false,
-      "f4_reason": "対象外 (芝×2勝クラス)",
+      "skipped": false,
+      "skip_reason": null,
+      "in_f4": true,
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
       "horses": [
         {
           "horse_number": 6,
@@ -685,9 +685,64 @@
           "horse_name": "サトノトルネード"
         }
       ],
-      "buys": [],
-      "n_tickets": 0,
-      "total_stake": 0,
+      "buys": [
+        {
+          "combo": [
+            3,
+            6,
+            8
+          ],
+          "prob": 4.859,
+          "payout_yen": 2910.0
+        },
+        {
+          "combo": [
+            2,
+            3,
+            6
+          ],
+          "prob": 4.396,
+          "payout_yen": 4280.0
+        },
+        {
+          "combo": [
+            2,
+            6,
+            8
+          ],
+          "prob": 4.014,
+          "payout_yen": 2180.0
+        },
+        {
+          "combo": [
+            3,
+            5,
+            6
+          ],
+          "prob": 3.471,
+          "payout_yen": 1390.0
+        },
+        {
+          "combo": [
+            5,
+            6,
+            8
+          ],
+          "prob": 3.169,
+          "payout_yen": 1170.0
+        },
+        {
+          "combo": [
+            2,
+            5,
+            6
+          ],
+          "prob": 2.867,
+          "payout_yen": 1580.0
+        }
+      ],
+      "n_tickets": 6,
+      "total_stake": 600,
       "axis_name": "ノラリクラリ"
     },
     {
@@ -712,10 +767,10 @@
       ],
       "threshold": 8.5,
       "threshold_reason": "芝/ダート×馬場 [ダート×稍重]",
-      "skipped": true,
-      "skip_reason": "F4対象外: ダート×3勝クラス",
-      "in_f4": false,
-      "f4_reason": "対象外 (ダート×3勝クラス)",
+      "skipped": false,
+      "skip_reason": null,
+      "in_f4": true,
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
       "horses": [
         {
           "horse_number": 2,
@@ -894,9 +949,64 @@
           "horse_name": "メイショウフジ"
         }
       ],
-      "buys": [],
-      "n_tickets": 0,
-      "total_stake": 0,
+      "buys": [
+        {
+          "combo": [
+            2,
+            5,
+            12
+          ],
+          "prob": 1.148,
+          "payout_yen": 10750.0
+        },
+        {
+          "combo": [
+            2,
+            12,
+            14
+          ],
+          "prob": 1.148,
+          "payout_yen": 800.0
+        },
+        {
+          "combo": [
+            2,
+            3,
+            12
+          ],
+          "prob": 1.084,
+          "payout_yen": 4020.0000000000005
+        },
+        {
+          "combo": [
+            2,
+            5,
+            14
+          ],
+          "prob": 0.961,
+          "payout_yen": 4130.0
+        },
+        {
+          "combo": [
+            2,
+            3,
+            5
+          ],
+          "prob": 0.907,
+          "payout_yen": 12270.0
+        },
+        {
+          "combo": [
+            2,
+            3,
+            14
+          ],
+          "prob": 0.907,
+          "payout_yen": 1520.0
+        }
+      ],
+      "n_tickets": 6,
+      "total_stake": 600,
       "axis_name": "ギュルヴィ"
     },
     {
@@ -925,7 +1035,7 @@
       "skipped": false,
       "skip_reason": null,
       "in_f4": true,
-      "f4_reason": "黒字組合せ",
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
       "horses": [
         {
           "horse_number": 6,
@@ -1165,9 +1275,9 @@
       "threshold": 10.0,
       "threshold_reason": "グレード [G2]",
       "skipped": true,
-      "skip_reason": "F4対象外: 芝×G2",
-      "in_f4": false,
-      "f4_reason": "対象外 (芝×G2)",
+      "skip_reason": "相手1頭<4点",
+      "in_f4": true,
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
       "horses": [
         {
           "horse_number": 17,
@@ -1399,7 +1509,7 @@
       "skipped": false,
       "skip_reason": null,
       "in_f4": true,
-      "f4_reason": "黒字組合せ",
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
       "horses": [
         {
           "horse_number": 2,

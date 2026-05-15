@@ -1,7 +1,7 @@
 {
   "date": "2026-04-26",
   "venue_filter": null,
-  "generated_at": "2026-05-15T20:50:17.849732",
+  "generated_at": "2026-05-15T21:48:55.899133",
   "n_races": 21,
   "races": [
     {
@@ -29,7 +29,7 @@
       "skipped": false,
       "skip_reason": null,
       "in_f4": true,
-      "f4_reason": "黒字組合せ",
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
       "horses": [
         {
           "horse_number": 2,
@@ -202,10 +202,10 @@
       ],
       "threshold": 8.5,
       "threshold_reason": "芝/ダート×馬場 [ダート×稍重]",
-      "skipped": true,
-      "skip_reason": "F4対象外: ダート×1勝クラス",
-      "in_f4": false,
-      "f4_reason": "対象外 (ダート×1勝クラス)",
+      "skipped": false,
+      "skip_reason": null,
+      "in_f4": true,
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
       "horses": [
         {
           "horse_number": 14,
@@ -384,9 +384,64 @@
           "horse_name": "カーマンライン"
         }
       ],
-      "buys": [],
-      "n_tickets": 0,
-      "total_stake": 0,
+      "buys": [
+        {
+          "combo": [
+            9,
+            14,
+            15
+          ],
+          "prob": 0.948,
+          "payout_yen": 660.0
+        },
+        {
+          "combo": [
+            12,
+            14,
+            15
+          ],
+          "prob": 0.897,
+          "payout_yen": 620.0
+        },
+        {
+          "combo": [
+            9,
+            12,
+            14
+          ],
+          "prob": 0.851,
+          "payout_yen": 1270.0
+        },
+        {
+          "combo": [
+            3,
+            14,
+            15
+          ],
+          "prob": 0.846,
+          "payout_yen": 1560.0
+        },
+        {
+          "combo": [
+            3,
+            9,
+            14
+          ],
+          "prob": 0.802,
+          "payout_yen": 2330.0
+        },
+        {
+          "combo": [
+            3,
+            12,
+            14
+          ],
+          "prob": 0.759,
+          "payout_yen": 3000.0
+        }
+      ],
+      "n_tickets": 6,
+      "total_stake": 600,
       "axis_name": "セブンマイスター"
     },
     {
@@ -411,9 +466,9 @@
       "threshold": 10.0,
       "threshold_reason": "芝/ダート×馬場 [芝×良]",
       "skipped": true,
-      "skip_reason": "F4対象外: 芝×2勝クラス",
-      "in_f4": false,
-      "f4_reason": "対象外 (芝×2勝クラス)",
+      "skip_reason": "相手3頭<4点",
+      "in_f4": true,
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
       "horses": [
         {
           "horse_number": 2,
@@ -563,9 +618,9 @@
       "threshold": 10.0,
       "threshold_reason": "芝/ダート×馬場 [芝×良]",
       "skipped": true,
-      "skip_reason": "F4対象外: 芝×3勝クラス",
-      "in_f4": false,
-      "f4_reason": "対象外 (芝×3勝クラス)",
+      "skip_reason": "相手2頭<4点",
+      "in_f4": true,
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
       "horses": [
         {
           "horse_number": 1,
@@ -773,7 +828,7 @@
       "skipped": true,
       "skip_reason": "相手3頭<4点",
       "in_f4": true,
-      "f4_reason": "黒字組合せ",
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
       "horses": [
         {
           "horse_number": 3,
@@ -978,9 +1033,9 @@
       "threshold": 10.0,
       "threshold_reason": "グレード [G2]",
       "skipped": true,
-      "skip_reason": "F4対象外: 芝×G2",
-      "in_f4": false,
-      "f4_reason": "対象外 (芝×G2)",
+      "skip_reason": "相手2頭<4点",
+      "in_f4": true,
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
       "horses": [
         {
           "horse_number": 1,
@@ -1155,7 +1210,7 @@
       "skipped": true,
       "skip_reason": "相手3頭<4点",
       "in_f4": true,
-      "f4_reason": "黒字組合せ",
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
       "horses": [
         {
           "horse_number": 9,
@@ -1363,7 +1418,7 @@
       "skipped": true,
       "skip_reason": "相手3頭<4点",
       "in_f4": true,
-      "f4_reason": "黒字組合せ",
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
       "horses": [
         {
           "horse_number": 5,
@@ -1534,9 +1589,9 @@
       "threshold": 11.0,
       "threshold_reason": "芝/ダート×馬場 [ダート×良]",
       "skipped": true,
-      "skip_reason": "F4対象外: ダート×1勝クラス",
-      "in_f4": false,
-      "f4_reason": "対象外 (ダート×1勝クラス)",
+      "skip_reason": "相手1頭<4点",
+      "in_f4": true,
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
       "horses": [
         {
           "horse_number": 10,
@@ -1733,7 +1788,7 @@
       "skipped": true,
       "skip_reason": "相手3頭<4点",
       "in_f4": true,
-      "f4_reason": "黒字組合せ",
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
       "horses": [
         {
           "horse_number": 8,
@@ -1931,7 +1986,7 @@
       "skipped": false,
       "skip_reason": null,
       "in_f4": true,
-      "f4_reason": "黒字組合せ",
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
       "horses": [
         {
           "horse_number": 6,
@@ -2160,7 +2215,7 @@
       "skipped": true,
       "skip_reason": "相手2頭<4点",
       "in_f4": true,
-      "f4_reason": "黒字組合せ",
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
       "horses": [
         {
           "horse_number": 3,
@@ -2359,10 +2414,10 @@
       ],
       "threshold": 5.5,
       "threshold_reason": "グレード [OP]",
-      "skipped": true,
-      "skip_reason": "F4対象外: 芝×OP",
-      "in_f4": false,
-      "f4_reason": "対象外 (芝×OP)",
+      "skipped": false,
+      "skip_reason": null,
+      "in_f4": true,
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
       "horses": [
         {
           "horse_number": 6,
@@ -2541,9 +2596,262 @@
           "horse_name": "ユキノファラオ"
         }
       ],
-      "buys": [],
-      "n_tickets": 0,
-      "total_stake": 0,
+      "buys": [
+        {
+          "combo": [
+            6,
+            12,
+            14
+          ],
+          "prob": 1.042,
+          "payout_yen": 6290.0
+        },
+        {
+          "combo": [
+            6,
+            8,
+            12
+          ],
+          "prob": 0.96,
+          "payout_yen": 7009.999999999999
+        },
+        {
+          "combo": [
+            6,
+            8,
+            14
+          ],
+          "prob": 0.96,
+          "payout_yen": 4680.0
+        },
+        {
+          "combo": [
+            5,
+            6,
+            12
+          ],
+          "prob": 0.932,
+          "payout_yen": 4320.0
+        },
+        {
+          "combo": [
+            5,
+            6,
+            14
+          ],
+          "prob": 0.932,
+          "payout_yen": 3030.0
+        },
+        {
+          "combo": [
+            5,
+            6,
+            8
+          ],
+          "prob": 0.859,
+          "payout_yen": 3150.0
+        },
+        {
+          "combo": [
+            6,
+            7,
+            12
+          ],
+          "prob": 0.74,
+          "payout_yen": 46440.0
+        },
+        {
+          "combo": [
+            6,
+            7,
+            14
+          ],
+          "prob": 0.74,
+          "payout_yen": 29780.0
+        },
+        {
+          "combo": [
+            6,
+            12,
+            13
+          ],
+          "prob": 0.713,
+          "payout_yen": 16570.0
+        },
+        {
+          "combo": [
+            6,
+            13,
+            14
+          ],
+          "prob": 0.713,
+          "payout_yen": 10180.0
+        },
+        {
+          "combo": [
+            6,
+            7,
+            8
+          ],
+          "prob": 0.682,
+          "payout_yen": 28939.999999999996
+        },
+        {
+          "combo": [
+            5,
+            6,
+            7
+          ],
+          "prob": 0.662,
+          "payout_yen": 15960.0
+        },
+        {
+          "combo": [
+            6,
+            9,
+            12
+          ],
+          "prob": 0.658,
+          "payout_yen": 76040.0
+        },
+        {
+          "combo": [
+            6,
+            10,
+            12
+          ],
+          "prob": 0.658,
+          "payout_yen": 23300.0
+        },
+        {
+          "combo": [
+            6,
+            9,
+            14
+          ],
+          "prob": 0.658,
+          "payout_yen": 25140.0
+        },
+        {
+          "combo": [
+            6,
+            10,
+            14
+          ],
+          "prob": 0.658,
+          "payout_yen": 16740.0
+        },
+        {
+          "combo": [
+            6,
+            8,
+            13
+          ],
+          "prob": 0.657,
+          "payout_yen": 12030.0
+        },
+        {
+          "combo": [
+            5,
+            6,
+            13
+          ],
+          "prob": 0.638,
+          "payout_yen": 6050.0
+        },
+        {
+          "combo": [
+            6,
+            8,
+            9
+          ],
+          "prob": 0.606,
+          "payout_yen": 42810.0
+        },
+        {
+          "combo": [
+            6,
+            8,
+            10
+          ],
+          "prob": 0.606,
+          "payout_yen": 16860.0
+        },
+        {
+          "combo": [
+            5,
+            6,
+            9
+          ],
+          "prob": 0.589,
+          "payout_yen": 21250.0
+        },
+        {
+          "combo": [
+            5,
+            6,
+            10
+          ],
+          "prob": 0.589,
+          "payout_yen": 9730.0
+        },
+        {
+          "combo": [
+            6,
+            7,
+            13
+          ],
+          "prob": 0.507,
+          "payout_yen": 59640.0
+        },
+        {
+          "combo": [
+            6,
+            7,
+            9
+          ],
+          "prob": 0.468,
+          "payout_yen": 171280.0
+        },
+        {
+          "combo": [
+            6,
+            7,
+            10
+          ],
+          "prob": 0.468,
+          "payout_yen": 63920.00000000001
+        },
+        {
+          "combo": [
+            6,
+            9,
+            13
+          ],
+          "prob": 0.45,
+          "payout_yen": 46500.0
+        },
+        {
+          "combo": [
+            6,
+            10,
+            13
+          ],
+          "prob": 0.45,
+          "payout_yen": 28300.0
+        },
+        {
+          "combo": [
+            6,
+            9,
+            10
+          ],
+          "prob": 0.416,
+          "payout_yen": 66410.0
+        }
+      ],
+      "n_tickets": 28,
+      "total_stake": 2800,
       "axis_name": "サウンドモリアーナ"
     },
     {
@@ -2564,9 +2872,9 @@
       "threshold": 11.0,
       "threshold_reason": "芝/ダート×馬場 [ダート×良]",
       "skipped": true,
-      "skip_reason": "F4対象外: ダート×1勝クラス",
-      "in_f4": false,
-      "f4_reason": "対象外 (ダート×1勝クラス)",
+      "skip_reason": "相手0頭<4点",
+      "in_f4": true,
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
       "horses": [
         {
           "horse_number": 5,
@@ -2772,10 +3080,10 @@
       ],
       "threshold": 11.0,
       "threshold_reason": "芝/ダート×馬場 [ダート×良]",
-      "skipped": true,
-      "skip_reason": "F4対象外: ダート×1勝クラス",
-      "in_f4": false,
-      "f4_reason": "対象外 (ダート×1勝クラス)",
+      "skipped": false,
+      "skip_reason": null,
+      "in_f4": true,
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
       "horses": [
         {
           "horse_number": 8,
@@ -2899,9 +3207,64 @@
           "horse_name": "クリノセーラーマン"
         }
       ],
-      "buys": [],
-      "n_tickets": 0,
-      "total_stake": 0,
+      "buys": [
+        {
+          "combo": [
+            2,
+            6,
+            8
+          ],
+          "prob": 2.259,
+          "payout_yen": 19720.0
+        },
+        {
+          "combo": [
+            2,
+            7,
+            8
+          ],
+          "prob": 2.156,
+          "payout_yen": 2450.0
+        },
+        {
+          "combo": [
+            6,
+            7,
+            8
+          ],
+          "prob": 2.156,
+          "payout_yen": 44010.0
+        },
+        {
+          "combo": [
+            2,
+            8,
+            10
+          ],
+          "prob": 1.951,
+          "payout_yen": 3479.9999999999995
+        },
+        {
+          "combo": [
+            6,
+            8,
+            10
+          ],
+          "prob": 1.951,
+          "payout_yen": 42960.0
+        },
+        {
+          "combo": [
+            7,
+            8,
+            10
+          ],
+          "prob": 1.862,
+          "payout_yen": 8860.0
+        }
+      ],
+      "n_tickets": 6,
+      "total_stake": 600,
       "axis_name": "ムテキシャチョウ"
     },
     {
@@ -2928,7 +3291,7 @@
       "skipped": true,
       "skip_reason": "相手3頭<4点",
       "in_f4": true,
-      "f4_reason": "黒字組合せ",
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
       "horses": [
         {
           "horse_number": 9,
@@ -3110,9 +3473,9 @@
       "threshold": 11.0,
       "threshold_reason": "芝/ダート×馬場 [ダート×良]",
       "skipped": true,
-      "skip_reason": "F4対象外: ダート×1勝クラス",
-      "in_f4": false,
-      "f4_reason": "対象外 (ダート×1勝クラス)",
+      "skip_reason": "相手1頭<4点",
+      "in_f4": true,
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
       "horses": [
         {
           "horse_number": 3,
@@ -3307,9 +3670,9 @@
       "threshold": 10.0,
       "threshold_reason": "芝/ダート×馬場 [芝×良]",
       "skipped": true,
-      "skip_reason": "F4対象外: 芝×2勝クラス",
-      "in_f4": false,
-      "f4_reason": "対象外 (芝×2勝クラス)",
+      "skip_reason": "相手3頭<4点",
+      "in_f4": true,
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
       "horses": [
         {
           "horse_number": 2,
@@ -3458,9 +3821,9 @@
       "threshold": 10.0,
       "threshold_reason": "芝/ダート×馬場 [芝×良]",
       "skipped": true,
-      "skip_reason": "F4対象外: 芝×3勝クラス",
-      "in_f4": false,
-      "f4_reason": "対象外 (芝×3勝クラス)",
+      "skip_reason": "相手1頭<4点",
+      "in_f4": true,
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
       "horses": [
         {
           "horse_number": 18,
@@ -3686,9 +4049,9 @@
       "threshold": 10.0,
       "threshold_reason": "グレード [G2]",
       "skipped": true,
-      "skip_reason": "F4対象外: 芝×G2",
-      "in_f4": false,
-      "f4_reason": "対象外 (芝×G2)",
+      "skip_reason": "相手1頭<4点",
+      "in_f4": true,
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
       "horses": [
         {
           "horse_number": 10,
@@ -3918,7 +4281,7 @@
       "skipped": true,
       "skip_reason": "相手3頭<4点",
       "in_f4": true,
-      "f4_reason": "黒字組合せ",
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
       "horses": [
         {
           "horse_number": 10,
