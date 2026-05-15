@@ -1,7 +1,7 @@
 {
   "date": "2026-05-02",
   "venue_filter": null,
-  "generated_at": "2026-05-15T23:25:53.191423",
+  "generated_at": "2026-05-15T23:44:05.811655",
   "n_races": 8,
   "races": [
     {
@@ -22,7 +22,7 @@
       "threshold": 10.0,
       "threshold_reason": "芝/ダート×馬場 [芝×良]",
       "skipped": true,
-      "skip_reason": "相手0頭<4点",
+      "skip_reason": "相手0頭<3点",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
       "max_ev": 45.0494,
@@ -231,6 +231,8 @@
       "buys": [],
       "n_tickets": 0,
       "total_stake": 0,
+      "kelly_total_stake": 0,
+      "kelly_n_tickets": 0,
       "axis_name": "レオアジャイル"
     },
     {
@@ -254,8 +256,8 @@
       ],
       "threshold": 10.0,
       "threshold_reason": "芝/ダート×馬場 [芝×良]",
-      "skipped": true,
-      "skip_reason": "相手3頭<4点",
+      "skipped": false,
+      "skip_reason": null,
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
       "max_ev": 15.2648,
@@ -340,9 +342,42 @@
           "horse_name": "チャイボーグ"
         }
       ],
-      "buys": [],
-      "n_tickets": 0,
-      "total_stake": 0,
+      "buys": [
+        {
+          "combo": [
+            4,
+            6,
+            7
+          ],
+          "prob": 15.758,
+          "payout_yen": 190.0,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            5,
+            6,
+            7
+          ],
+          "prob": 9.98,
+          "payout_yen": 2700.0,
+          "kelly_stake": 1400
+        },
+        {
+          "combo": [
+            4,
+            5,
+            7
+          ],
+          "prob": 7.905,
+          "payout_yen": 19310.0,
+          "kelly_stake": 1500
+        }
+      ],
+      "n_tickets": 3,
+      "total_stake": 300,
+      "kelly_total_stake": 2900,
+      "kelly_n_tickets": 2,
       "axis_name": "リポサンテ"
     },
     {
@@ -366,8 +401,8 @@
       ],
       "threshold": 9.0,
       "threshold_reason": "芝/ダート×馬場 [ダート×重]",
-      "skipped": true,
-      "skip_reason": "相手3頭<4点",
+      "skipped": false,
+      "skip_reason": null,
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
       "max_ev": 16.1451,
@@ -551,9 +586,42 @@
           "horse_name": "ブルーリヴァーサル"
         }
       ],
-      "buys": [],
-      "n_tickets": 0,
-      "total_stake": 0,
+      "buys": [
+        {
+          "combo": [
+            3,
+            13,
+            15
+          ],
+          "prob": 1.1,
+          "payout_yen": 4570.0,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            3,
+            12,
+            15
+          ],
+          "prob": 1.067,
+          "payout_yen": 1580.0,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            3,
+            12,
+            13
+          ],
+          "prob": 1.064,
+          "payout_yen": 6180.0,
+          "kelly_stake": 0
+        }
+      ],
+      "n_tickets": 3,
+      "total_stake": 300,
+      "kelly_total_stake": 0,
+      "kelly_n_tickets": 0,
       "axis_name": "ソナタン"
     },
     {
@@ -705,7 +773,8 @@
             8
           ],
           "prob": 4.69,
-          "payout_yen": 2910.0
+          "payout_yen": 2910.0,
+          "kelly_stake": 1100
         },
         {
           "combo": [
@@ -714,7 +783,8 @@
             6
           ],
           "prob": 4.299,
-          "payout_yen": 4280.0
+          "payout_yen": 4280.0,
+          "kelly_stake": 1800
         },
         {
           "combo": [
@@ -723,7 +793,8 @@
             8
           ],
           "prob": 3.968,
-          "payout_yen": 2180.0
+          "payout_yen": 2180.0,
+          "kelly_stake": 0
         },
         {
           "combo": [
@@ -732,7 +803,8 @@
             6
           ],
           "prob": 3.484,
-          "payout_yen": 1390.0
+          "payout_yen": 1390.0,
+          "kelly_stake": 0
         },
         {
           "combo": [
@@ -741,7 +813,8 @@
             8
           ],
           "prob": 3.216,
-          "payout_yen": 1170.0
+          "payout_yen": 1170.0,
+          "kelly_stake": 0
         },
         {
           "combo": [
@@ -750,11 +823,14 @@
             6
           ],
           "prob": 2.948,
-          "payout_yen": 1580.0
+          "payout_yen": 1580.0,
+          "kelly_stake": 0
         }
       ],
       "n_tickets": 6,
       "total_stake": 600,
+      "kelly_total_stake": 2900,
+      "kelly_n_tickets": 2,
       "axis_name": "ノラリクラリ"
     },
     {
@@ -972,7 +1048,8 @@
             14
           ],
           "prob": 1.15,
-          "payout_yen": 800.0
+          "payout_yen": 800.0,
+          "kelly_stake": 0
         },
         {
           "combo": [
@@ -981,7 +1058,8 @@
             12
           ],
           "prob": 1.131,
-          "payout_yen": 10750.0
+          "payout_yen": 10750.0,
+          "kelly_stake": 2100
         },
         {
           "combo": [
@@ -990,7 +1068,8 @@
             12
           ],
           "prob": 1.076,
-          "payout_yen": 4020.0000000000005
+          "payout_yen": 4020.0000000000005,
+          "kelly_stake": 0
         },
         {
           "combo": [
@@ -999,7 +1078,8 @@
             14
           ],
           "prob": 0.96,
-          "payout_yen": 4130.0
+          "payout_yen": 4130.0,
+          "kelly_stake": 0
         },
         {
           "combo": [
@@ -1008,7 +1088,8 @@
             14
           ],
           "prob": 0.913,
-          "payout_yen": 1520.0
+          "payout_yen": 1520.0,
+          "kelly_stake": 0
         },
         {
           "combo": [
@@ -1017,11 +1098,14 @@
             5
           ],
           "prob": 0.898,
-          "payout_yen": 12270.0
+          "payout_yen": 12270.0,
+          "kelly_stake": 800
         }
       ],
       "n_tickets": 6,
       "total_stake": 600,
+      "kelly_total_stake": 2900,
+      "kelly_n_tickets": 2,
       "axis_name": "ギュルヴィ"
     },
     {
@@ -1185,7 +1269,8 @@
             8
           ],
           "prob": 3.277,
-          "payout_yen": 9040.0
+          "payout_yen": 9040.0,
+          "kelly_stake": 700
         },
         {
           "combo": [
@@ -1194,7 +1279,8 @@
             11
           ],
           "prob": 3.094,
-          "payout_yen": 880.0000000000001
+          "payout_yen": 880.0000000000001,
+          "kelly_stake": 0
         },
         {
           "combo": [
@@ -1203,7 +1289,8 @@
             9
           ],
           "prob": 2.719,
-          "payout_yen": 2200.0
+          "payout_yen": 2200.0,
+          "kelly_stake": 0
         },
         {
           "combo": [
@@ -1212,7 +1299,8 @@
             11
           ],
           "prob": 2.342,
-          "payout_yen": 10170.0
+          "payout_yen": 10170.0,
+          "kelly_stake": 400
         },
         {
           "combo": [
@@ -1221,7 +1309,8 @@
             8
           ],
           "prob": 2.32,
-          "payout_yen": 7890.000000000001
+          "payout_yen": 7890.000000000001,
+          "kelly_stake": 300
         },
         {
           "combo": [
@@ -1230,7 +1319,8 @@
             9
           ],
           "prob": 2.058,
-          "payout_yen": 15730.000000000002
+          "payout_yen": 15730.000000000002,
+          "kelly_stake": 400
         },
         {
           "combo": [
@@ -1239,7 +1329,8 @@
             11
           ],
           "prob": 1.943,
-          "payout_yen": 2230.0
+          "payout_yen": 2230.0,
+          "kelly_stake": 0
         },
         {
           "combo": [
@@ -1248,7 +1339,8 @@
             6
           ],
           "prob": 1.756,
-          "payout_yen": 51679.99999999999
+          "payout_yen": 51679.99999999999,
+          "kelly_stake": 500
         },
         {
           "combo": [
@@ -1257,7 +1349,8 @@
             11
           ],
           "prob": 1.658,
-          "payout_yen": 8550.0
+          "payout_yen": 8550.0,
+          "kelly_stake": 100
         },
         {
           "combo": [
@@ -1266,11 +1359,14 @@
             9
           ],
           "prob": 1.457,
-          "payout_yen": 18510.0
+          "payout_yen": 18510.0,
+          "kelly_stake": 300
         }
       ],
       "n_tickets": 10,
       "total_stake": 1000,
+      "kelly_total_stake": 2700,
+      "kelly_n_tickets": 7,
       "axis_name": "モートンアイランド"
     },
     {
@@ -1293,7 +1389,7 @@
       "threshold": 10.0,
       "threshold_reason": "グレード [G2]",
       "skipped": true,
-      "skip_reason": "相手1頭<4点",
+      "skip_reason": "相手1頭<3点",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
       "max_ev": 68.7877,
@@ -1502,6 +1598,8 @@
       "buys": [],
       "n_tickets": 0,
       "total_stake": 0,
+      "kelly_total_stake": 0,
+      "kelly_n_tickets": 0,
       "axis_name": "ダノンマッキンリー"
     },
     {
@@ -1698,7 +1796,8 @@
             14
           ],
           "prob": 1.602,
-          "payout_yen": 2680.0
+          "payout_yen": 2680.0,
+          "kelly_stake": 0
         },
         {
           "combo": [
@@ -1707,7 +1806,8 @@
             14
           ],
           "prob": 1.559,
-          "payout_yen": 1080.0
+          "payout_yen": 1080.0,
+          "kelly_stake": 0
         },
         {
           "combo": [
@@ -1716,7 +1816,8 @@
             14
           ],
           "prob": 1.472,
-          "payout_yen": 40390.0
+          "payout_yen": 40390.0,
+          "kelly_stake": 900
         },
         {
           "combo": [
@@ -1725,7 +1826,8 @@
             9
           ],
           "prob": 1.391,
-          "payout_yen": 990.0
+          "payout_yen": 990.0,
+          "kelly_stake": 0
         },
         {
           "combo": [
@@ -1734,7 +1836,8 @@
             14
           ],
           "prob": 1.368,
-          "payout_yen": 4630.0
+          "payout_yen": 4630.0,
+          "kelly_stake": 0
         },
         {
           "combo": [
@@ -1743,7 +1846,8 @@
             9
           ],
           "prob": 1.313,
-          "payout_yen": 37380.0
+          "payout_yen": 37380.0,
+          "kelly_stake": 800
         },
         {
           "combo": [
@@ -1752,7 +1856,8 @@
             6
           ],
           "prob": 1.278,
-          "payout_yen": 13400.0
+          "payout_yen": 13400.0,
+          "kelly_stake": 400
         },
         {
           "combo": [
@@ -1761,7 +1866,8 @@
             11
           ],
           "prob": 1.22,
-          "payout_yen": 8520.0
+          "payout_yen": 8520.0,
+          "kelly_stake": 100
         },
         {
           "combo": [
@@ -1770,7 +1876,8 @@
             11
           ],
           "prob": 1.188,
-          "payout_yen": 3500.0
+          "payout_yen": 3500.0,
+          "kelly_stake": 0
         },
         {
           "combo": [
@@ -1779,11 +1886,14 @@
             11
           ],
           "prob": 1.121,
-          "payout_yen": 116080.0
+          "payout_yen": 116080.0,
+          "kelly_stake": 700
         }
       ],
       "n_tickets": 10,
       "total_stake": 1000,
+      "kelly_total_stake": 2900,
+      "kelly_n_tickets": 5,
       "axis_name": "ヘリオトロープ"
     }
   ]

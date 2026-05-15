@@ -277,17 +277,29 @@ function renderDetail(raceId) {
       </div>
     `;
   } else {
+    const hasKelly = (r.kelly_total_stake || 0) > 0;
+    const kellySummary = hasKelly
+      ? `<div class="buys-summary">
+          📊 <strong>Kelly推奨</strong>: ${r.kelly_n_tickets}点 ／ 合計 ${r.kelly_total_stake.toLocaleString()}円<br>
+          <small>※ 期待値ベース。Held-Out バックテスト ROI 106.5% 達成戦略</small>
+         </div>`
+      : `<div class="buys-summary">
+          ⚠️ <strong>Kelly推奨</strong>: 全 combo が EV ≤ 1.00 → 見送り推奨
+         </div>`;
+
     buysHtml = `
       <div class="section-title">💰 買い目（3連複1頭軸流し）</div>
       <div class="buys-summary">
-        ${r.n_tickets}点 ／ 各100円 ／ 合計 ${r.total_stake.toLocaleString()}円
+        均等100円買いの場合: ${r.n_tickets}点 ／ 合計 ${r.total_stake.toLocaleString()}円
       </div>
+      ${kellySummary}
       <table class="buys-table">
         <thead>
           <tr>
             <th>組合せ</th>
             <th>確率</th>
             <th>払戻(円)</th>
+            <th>Kelly</th>
           </tr>
         </thead>
         <tbody>
@@ -296,7 +308,10 @@ function renderDetail(raceId) {
           const payout = b.payout_yen != null
             ? b.payout_yen.toLocaleString()
             : "-";
-          return `<tr><td>${combo}</td><td>${b.prob.toFixed(2)}%</td><td>${payout}</td></tr>`;
+          const kelly = (b.kelly_stake || 0) > 0
+            ? `<strong>${b.kelly_stake}円</strong>`
+            : `<span style="color:#999">-</span>`;
+          return `<tr><td>${combo}</td><td>${b.prob.toFixed(2)}%</td><td>${payout}</td><td>${kelly}</td></tr>`;
         }).join("")}
         </tbody>
       </table>
