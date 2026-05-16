@@ -1,7 +1,7 @@
 {
   "date": "2026-05-16",
   "venue_filter": null,
-  "generated_at": "2026-05-16T12:25:34.951702",
+  "generated_at": "2026-05-16T12:30:16.082864",
   "n_races": 19,
   "races": [
     {
@@ -205,132 +205,6 @@
       "axis_name": "トッレブランカ"
     },
     {
-      "race_id": "202605020706",
-      "race_number": 6,
-      "race_name": "3歳1勝クラス",
-      "race_class": "1勝クラス",
-      "race_level": "1勝クラス",
-      "surface": "芝",
-      "distance_m": 2400,
-      "track_condition": "良",
-      "weather": "晴",
-      "num_runners": 8,
-      "start_time": null,
-      "venue_name": "東京",
-      "axis": 4,
-      "partners": [
-        7,
-        8,
-        3,
-        1
-      ],
-      "threshold": 10.0,
-      "threshold_reason": "芝/ダート×馬場 [芝×良]",
-      "skipped": true,
-      "skip_reason": "EVフィルタ: max_EV 0.00 < 2.5",
-      "in_f4": true,
-      "f4_reason": "F4撤回(撤回後は全レース対象)",
-      "max_ev": 0.0,
-      "race_ev_threshold": 2.5,
-      "passes_ev_filter": false,
-      "horses": [
-        {
-          "horse_number": 7,
-          "jockey_name": "レーン",
-          "trainer_name": "美浦黒岩",
-          "odds_win": null,
-          "popularity": null,
-          "rel_prob": 19.85,
-          "combo_total": 54.901,
-          "jockey_top3_rate": 0.483,
-          "horse_name": "ガローファノ"
-        },
-        {
-          "horse_number": 4,
-          "jockey_name": "原",
-          "trainer_name": "美浦矢野",
-          "odds_win": null,
-          "popularity": null,
-          "rel_prob": 19.85,
-          "combo_total": 54.901,
-          "jockey_top3_rate": null,
-          "horse_name": "イブキ"
-        },
-        {
-          "horse_number": 8,
-          "jockey_name": "津村",
-          "trainer_name": "美浦林",
-          "odds_win": null,
-          "popularity": null,
-          "rel_prob": 19.85,
-          "combo_total": 54.901,
-          "jockey_top3_rate": null,
-          "horse_name": "ブラウンバナナ"
-        },
-        {
-          "horse_number": 3,
-          "jockey_name": "戸崎圭",
-          "trainer_name": "栗東友道",
-          "odds_win": null,
-          "popularity": null,
-          "rel_prob": 17.59,
-          "combo_total": 51.325,
-          "jockey_top3_rate": null,
-          "horse_name": "マジョレルブルー"
-        },
-        {
-          "horse_number": 1,
-          "jockey_name": "ディー",
-          "trainer_name": "美浦田村",
-          "odds_win": null,
-          "popularity": null,
-          "rel_prob": 10.8,
-          "combo_total": 37.175,
-          "jockey_top3_rate": 0.203,
-          "horse_name": "パッセージピーク"
-        },
-        {
-          "horse_number": 5,
-          "jockey_name": "北村宏",
-          "trainer_name": "栗東加藤公",
-          "odds_win": null,
-          "popularity": null,
-          "rel_prob": 7.41,
-          "combo_total": 27.714,
-          "jockey_top3_rate": null,
-          "horse_name": "ソラーロ"
-        },
-        {
-          "horse_number": 6,
-          "jockey_name": "▲佐藤",
-          "trainer_name": "美浦和田雄",
-          "odds_win": null,
-          "popularity": null,
-          "rel_prob": 4.02,
-          "combo_total": 16.326,
-          "jockey_top3_rate": null,
-          "horse_name": "スチールナイト"
-        },
-        {
-          "horse_number": 2,
-          "jockey_name": "松本",
-          "trainer_name": "栗東大久保",
-          "odds_win": null,
-          "popularity": null,
-          "rel_prob": 0.63,
-          "combo_total": 2.757,
-          "jockey_top3_rate": null,
-          "horse_name": "ダノンシーホーク"
-        }
-      ],
-      "buys": [],
-      "n_tickets": 0,
-      "total_stake": 0,
-      "kelly_total_stake": 0,
-      "kelly_n_tickets": 0,
-      "axis_name": "イブキ"
-    },
-    {
       "race_id": "202608030707",
       "race_number": 7,
       "race_name": "4歳以上1勝クラス",
@@ -341,7 +215,7 @@
       "track_condition": "良",
       "weather": "晴",
       "num_runners": 11,
-      "start_time": "13:00",
+      "start_time": null,
       "venue_name": "京都",
       "axis": 1,
       "partners": [
@@ -488,6 +362,132 @@
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
       "axis_name": "シャンパンライフ"
+    },
+    {
+      "race_id": "202605020706",
+      "race_number": 6,
+      "race_name": "3歳1勝クラス",
+      "race_class": "1勝クラス",
+      "race_level": "1勝クラス",
+      "surface": "芝",
+      "distance_m": 2400,
+      "track_condition": "良",
+      "weather": "晴",
+      "num_runners": 8,
+      "start_time": null,
+      "venue_name": "東京",
+      "axis": 4,
+      "partners": [
+        7,
+        8,
+        3,
+        1
+      ],
+      "threshold": 10.0,
+      "threshold_reason": "芝/ダート×馬場 [芝×良]",
+      "skipped": true,
+      "skip_reason": "EVフィルタ: max_EV 0.00 < 2.5",
+      "in_f4": true,
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 0.0,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": false,
+      "horses": [
+        {
+          "horse_number": 7,
+          "jockey_name": "レーン",
+          "trainer_name": "美浦黒岩",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 19.85,
+          "combo_total": 54.901,
+          "jockey_top3_rate": 0.483,
+          "horse_name": "ガローファノ"
+        },
+        {
+          "horse_number": 4,
+          "jockey_name": "原",
+          "trainer_name": "美浦矢野",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 19.85,
+          "combo_total": 54.901,
+          "jockey_top3_rate": null,
+          "horse_name": "イブキ"
+        },
+        {
+          "horse_number": 8,
+          "jockey_name": "津村",
+          "trainer_name": "美浦林",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 19.85,
+          "combo_total": 54.901,
+          "jockey_top3_rate": null,
+          "horse_name": "ブラウンバナナ"
+        },
+        {
+          "horse_number": 3,
+          "jockey_name": "戸崎圭",
+          "trainer_name": "栗東友道",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 17.59,
+          "combo_total": 51.325,
+          "jockey_top3_rate": null,
+          "horse_name": "マジョレルブルー"
+        },
+        {
+          "horse_number": 1,
+          "jockey_name": "ディー",
+          "trainer_name": "美浦田村",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 10.8,
+          "combo_total": 37.175,
+          "jockey_top3_rate": 0.203,
+          "horse_name": "パッセージピーク"
+        },
+        {
+          "horse_number": 5,
+          "jockey_name": "北村宏",
+          "trainer_name": "栗東加藤公",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 7.41,
+          "combo_total": 27.714,
+          "jockey_top3_rate": null,
+          "horse_name": "ソラーロ"
+        },
+        {
+          "horse_number": 6,
+          "jockey_name": "▲佐藤",
+          "trainer_name": "美浦和田雄",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 4.02,
+          "combo_total": 16.326,
+          "jockey_top3_rate": null,
+          "horse_name": "スチールナイト"
+        },
+        {
+          "horse_number": 2,
+          "jockey_name": "松本",
+          "trainer_name": "栗東大久保",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 0.63,
+          "combo_total": 2.757,
+          "jockey_top3_rate": null,
+          "horse_name": "ダノンシーホーク"
+        }
+      ],
+      "buys": [],
+      "n_tickets": 0,
+      "total_stake": 0,
+      "kelly_total_stake": 0,
+      "kelly_n_tickets": 0,
+      "axis_name": "イブキ"
     },
     {
       "race_id": "202605020707",
