@@ -224,7 +224,7 @@ function renderDetail(raceId) {
       </div>
       <div class="axis-summary">
         ${r.skipped
-          ? `<span class="skip-pill">不参加</span> 相手${r.partners.length}頭 → 6点未満のため見送り`
+          ? `<span class="skip-pill">不参加</span> ${escape(r.skip_reason || `相手${r.partners.length}頭（不足）`)}`
           : `<span class="axis-pill">軸 ${r.axis}</span>${escape(r.axis_name || "")} ／ 相手 ${r.partners.length}頭 ／ 計 ${r.n_tickets}点 ${r.total_stake.toLocaleString()}円`
         }
       </div>
@@ -272,8 +272,7 @@ function renderDetail(raceId) {
     buysHtml = `
       <div class="section-title">💰 買い目</div>
       <div class="buys-summary">
-        閾値${r.threshold?.toFixed(1)}%を満たす相手が${r.partners.length}頭のみ。<br>
-        6点未満のため不参加。
+        ${escape(r.skip_reason || `相手${r.partners.length}頭のみ`)} → 不参加
       </div>
     `;
   } else {
