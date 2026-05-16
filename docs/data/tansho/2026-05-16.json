@@ -1,6 +1,6 @@
 {
   "date": "2026-05-16",
-  "generated_at": "2026-05-16T09:45:24",
+  "generated_at": "2026-05-16T13:16:49",
   "ev_thr": 1.25,
   "odds_cap": 50,
   "n_bets": 0,
@@ -11,7 +11,7 @@
       "venue": "京都",
       "race_number": 6,
       "race_class": "1勝クラス",
-      "start_time": "12:30",
+      "start_time": "nan",
       "distance_m": 1200,
       "surface": "ダート",
       "horses": [
@@ -157,7 +157,7 @@
       "venue": "京都",
       "race_number": 7,
       "race_class": "1勝クラス",
-      "start_time": "13:00",
+      "start_time": "nan",
       "distance_m": 1600,
       "surface": "芝",
       "horses": [
@@ -568,7 +568,7 @@
       "venue": "新潟",
       "race_number": 7,
       "race_class": "1勝クラス",
-      "start_time": "13:25",
+      "start_time": "nan",
       "distance_m": 1200,
       "surface": "ダート",
       "horses": [
@@ -1089,7 +1089,7 @@
       "venue": "東京",
       "race_number": 6,
       "race_class": "1勝クラス",
-      "start_time": "12:40",
+      "start_time": "nan",
       "distance_m": 2400,
       "surface": "芝",
       "horses": [
@@ -1172,7 +1172,7 @@
       "venue": "東京",
       "race_number": 7,
       "race_class": "1勝クラス",
-      "start_time": "13:10",
+      "start_time": "nan",
       "distance_m": 1400,
       "surface": "ダート",
       "horses": [
@@ -1327,7 +1327,7 @@
       "venue": "東京",
       "race_number": 8,
       "race_class": "1勝クラス",
-      "start_time": "13:45",
+      "start_time": "nan",
       "distance_m": 1600,
       "surface": "ダート",
       "horses": [
