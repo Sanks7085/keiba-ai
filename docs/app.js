@@ -160,6 +160,19 @@ function renderList() {
     const thr = r.threshold ? r.threshold.toFixed(1) : "?";
 
     const evFiltered = (r.passes_ev_filter === false);
+    const top3 = r.result_top3 || [];
+    const hasResult = top3.length === 3;
+    // 的中判定: 買い目のいずれかが実際の3連複と一致
+    const hit = hasResult && !skipped && (r.buys || []).some(b => {
+      const s = new Set(top3);
+      return b.combo.length === 3 && b.combo.every(n => s.has(n));
+    });
+    const resultBadge = hasResult
+      ? (hit
+          ? `<span class="result-hit">🎯 的中！ ${top3.join("-")}</span>`
+          : `<span class="result-miss">✗ 結果 ${top3.join("-")}</span>`)
+      : "";
+
     let summary;
     if (f4out) {
       summary = `<span class="f4-pill">対象外</span> ${surface}×${cls} は黒字組合せ外`;
@@ -169,9 +182,12 @@ function renderList() {
       summary = `<span class="f4-pill">EV不足</span> 最大EV ${maxEv} < ${thT}（自信なし）`;
     } else if (skipped) {
       summary = `<span class="skip-pill">不参加</span> 閾値${thr}% 相手不足`;
+    } else if (hit) {
+      summary = `<span class="axis-pill hit">軸 ${r.axis}</span>${axisHorseName} ／ ${tickets}点 ${cost.toLocaleString()}円`;
     } else {
       summary = `<span class="axis-pill">軸 ${r.axis}</span>${axisHorseName} ／ ${tickets}点 ${cost.toLocaleString()}円`;
     }
+    if (resultBadge) summary += `　${resultBadge}`;
 
     return `
       <div class="${cardCls}" data-race-id="${escape(r.race_id)}">
@@ -227,10 +243,24 @@ function renderDetail(raceId) {
         <small>(${escape(r.threshold_reason || "")})</small>
       </div>
       <div class="axis-summary">
-        ${r.skipped
-          ? `<span class="skip-pill">不参加</span> ${escape(r.skip_reason || `相手${r.partners.length}頭（不足）`)}`
-          : `<span class="axis-pill">軸 ${r.axis}</span>${escape(r.axis_name || "")} ／ 相手 ${r.partners.length}頭 ／ 計 ${r.n_tickets}点 ${r.total_stake.toLocaleString()}円`
-        }
+        ${(() => {
+          const top3d = r.result_top3 || [];
+          const hasResultD = top3d.length === 3;
+          const hitD = hasResultD && !r.skipped && (r.buys || []).some(b => {
+            const s = new Set(top3d);
+            return b.combo.length === 3 && b.combo.every(n => s.has(n));
+          });
+          const resultLine = hasResultD
+            ? (hitD
+                ? `　<span class="result-hit">🎯 的中！ ${top3d.join("-")}</span>`
+                : `　<span class="result-miss">✗ 結果 ${top3d.join("-")}</span>`)
+            : "";
+          if (r.skipped) {
+            return `<span class="skip-pill">不参加</span> ${escape(r.skip_reason || `相手${r.partners.length}頭（不足）`)}${resultLine}`;
+          }
+          const axisClass = hitD ? "axis-pill hit" : "axis-pill";
+          return `<span class="${axisClass}">軸 ${r.axis}</span>${escape(r.axis_name || "")} ／ 相手 ${r.partners.length}頭 ／ 計 ${r.n_tickets}点 ${r.total_stake.toLocaleString()}円${resultLine}`;
+        })()}
       </div>
     </div>
   `;

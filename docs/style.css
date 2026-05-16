@@ -175,6 +175,25 @@ main {
   font-weight: 600;
 }
 
+/* ====== 的中・外れ表示 ====== */
+.axis-pill.hit {
+  background: var(--partner);  /* 緑 */
+}
+.result-hit {
+  display: inline-block;
+  background: #d4edda;
+  color: #155724;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: 600;
+}
+.result-miss {
+  display: inline-block;
+  color: var(--text-mute);
+  font-size: 12px;
+}
+
 /* ====== Race Detail ====== */
 .detail-back {
   display: inline-block;
