@@ -6,6 +6,7 @@ const state = {
   view: "list",        // "list" | "detail"
   detailRaceId: null,
   venueFilter: "",
+  listScrollY: 0,      // 一覧のスクロール位置を記憶
 };
 
 const $app = document.getElementById("app");
@@ -116,10 +117,12 @@ async function loadDate(dateStr) {
 function render() {
   if (state.view === "detail" && state.detailRaceId) {
     renderDetail(state.detailRaceId);
+    window.scrollTo({ top: 0, behavior: "instant" });
   } else {
     renderList();
+    // 戻るボタン以外からの一覧表示はトップへ（日付変更など）
+    window.scrollTo({ top: 0, behavior: "instant" });
   }
-  window.scrollTo({ top: 0, behavior: "instant" });
 }
 
 function renderList() {
@@ -188,9 +191,10 @@ function renderList() {
 
   $app.innerHTML = html;
 
-  // クリックで詳細へ
+  // クリックで詳細へ（スクロール位置を保存）
   $app.querySelectorAll(".race-card").forEach(card => {
     card.addEventListener("click", () => {
+      state.listScrollY = window.scrollY;
       state.detailRaceId = card.dataset.raceId;
       state.view = "detail";
       updateHash();
@@ -322,10 +326,15 @@ function renderDetail(raceId) {
 
 // ====== Helpers ======
 function goBack() {
+  const savedY = state.listScrollY;
   state.view = "list";
   state.detailRaceId = null;
   updateHash();
-  render();
+  renderList();
+  // レンダリング完了後にスクロール位置を復元
+  requestAnimationFrame(() => {
+    window.scrollTo({ top: savedY, behavior: "instant" });
+  });
 }
 window.goBack = goBack;
 
