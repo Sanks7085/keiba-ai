@@ -1,7 +1,7 @@
 {
   "date": "2026-05-16",
   "venue_filter": null,
-  "generated_at": "2026-05-16T11:55:32.412232",
+  "generated_at": "2026-05-16T12:00:12.488986",
   "n_races": 19,
   "races": [
     {
@@ -15,7 +15,7 @@
       "track_condition": "良",
       "weather": "晴",
       "num_runners": 15,
-      "start_time": "12:30",
+      "start_time": null,
       "venue_name": "京都",
       "axis": 10,
       "partners": [
