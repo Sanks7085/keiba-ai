@@ -1,7 +1,7 @@
 {
   "date": "2026-05-09",
   "venue_filter": null,
-  "generated_at": "2026-05-17T10:10:33.665216",
+  "generated_at": "2026-05-17T12:33:37.641862",
   "n_races": 21,
   "races": [
     {
@@ -194,6 +194,7 @@
         3,
         1
       ],
+      "result_payout": null,
       "axis_name": "ルートサーティーン"
     },
     {
@@ -408,6 +409,7 @@
         7,
         5
       ],
+      "result_payout": null,
       "axis_name": "マメタンク"
     },
     {
@@ -570,6 +572,7 @@
         6,
         11
       ],
+      "result_payout": null,
       "axis_name": "メイショウコナン"
     },
     {
@@ -786,6 +789,7 @@
         1,
         14
       ],
+      "result_payout": null,
       "axis_name": "ララバッカナール"
     },
     {
@@ -1011,6 +1015,7 @@
         8,
         10
       ],
+      "result_payout": null,
       "axis_name": "ウォータークラーク"
     },
     {
@@ -1141,6 +1146,7 @@
         2,
         5
       ],
+      "result_payout": null,
       "axis_name": "クラヴァンス"
     },
     {
@@ -1359,6 +1365,7 @@
         15,
         6
       ],
+      "result_payout": null,
       "axis_name": "バドリナート"
     },
     {
@@ -1543,6 +1550,7 @@
         10,
         13
       ],
+      "result_payout": null,
       "axis_name": "エリカヴェネチア"
     },
     {
@@ -1853,6 +1861,7 @@
         3,
         7
       ],
+      "result_payout": null,
       "axis_name": "ピコテンダー"
     },
     {
@@ -2060,6 +2069,7 @@
         4,
         2
       ],
+      "result_payout": null,
       "axis_name": "サラサラヘアー"
     },
     {
@@ -2255,6 +2265,7 @@
         12,
         8
       ],
+      "result_payout": null,
       "axis_name": "トップアタック"
     },
     {
@@ -2440,6 +2451,7 @@
         8,
         7
       ],
+      "result_payout": null,
       "axis_name": "テンドリームガール"
     },
     {
@@ -2656,6 +2668,7 @@
         12,
         15
       ],
+      "result_payout": null,
       "axis_name": "カウンターセブン"
     },
     {
@@ -2933,6 +2946,7 @@
         8,
         3
       ],
+      "result_payout": null,
       "axis_name": "トーアケルキラ"
     },
     {
@@ -3169,6 +3183,7 @@
         6,
         12
       ],
+      "result_payout": null,
       "axis_name": "アメテュストス"
     },
     {
@@ -3364,6 +3379,7 @@
         14,
         11
       ],
+      "result_payout": null,
       "axis_name": "タマモトリノ"
     },
     {
@@ -3556,6 +3572,7 @@
         2,
         6
       ],
+      "result_payout": null,
       "axis_name": "カリーニョ"
     },
     {
@@ -3792,6 +3809,7 @@
         8,
         3
       ],
+      "result_payout": null,
       "axis_name": "アンパドゥ"
     },
     {
@@ -4285,6 +4303,7 @@
         2,
         4
       ],
+      "result_payout": null,
       "axis_name": "マクリール"
     },
     {
@@ -4514,6 +4533,7 @@
         16,
         17
       ],
+      "result_payout": null,
       "axis_name": "サクラファレル"
     },
     {
@@ -4730,6 +4750,7 @@
         11,
         12
       ],
+      "result_payout": null,
       "axis_name": "ヴィンブルレー"
     }
   ]
