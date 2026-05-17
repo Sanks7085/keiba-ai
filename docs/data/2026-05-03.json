@@ -1,7 +1,7 @@
 {
   "date": "2026-05-03",
   "venue_filter": null,
-  "generated_at": "2026-05-17T12:17:16.970780",
+  "generated_at": "2026-05-17T12:33:29.211996",
   "n_races": 21,
   "races": [
     {
@@ -341,6 +341,7 @@
         3,
         8
       ],
+      "result_payout": null,
       "axis_name": "ラストレガシー"
     },
     {
@@ -621,6 +622,7 @@
         15,
         11
       ],
+      "result_payout": null,
       "axis_name": "フルミネブル"
     },
     {
@@ -942,6 +944,7 @@
         12,
         11
       ],
+      "result_payout": null,
       "axis_name": "ヘリテージブルーム"
     },
     {
@@ -1159,6 +1162,7 @@
         9,
         11
       ],
+      "result_payout": null,
       "axis_name": "ベルサ"
     },
     {
@@ -1469,6 +1473,7 @@
         12,
         7
       ],
+      "result_payout": null,
       "axis_name": "ビービーバザーク"
     },
     {
@@ -1661,6 +1666,7 @@
         4,
         5
       ],
+      "result_payout": null,
       "axis_name": "サラコスティ"
     },
     {
@@ -1897,6 +1903,7 @@
         6,
         5
       ],
+      "result_payout": null,
       "axis_name": "アンドローゼス"
     },
     {
@@ -2100,6 +2107,7 @@
         7,
         1
       ],
+      "result_payout": null,
       "axis_name": "ダノンエンブレム"
     },
     {
@@ -2307,6 +2315,7 @@
         8,
         5
       ],
+      "result_payout": null,
       "axis_name": "メイショウミリオレ"
     },
     {
@@ -2584,6 +2593,7 @@
         3,
         8
       ],
+      "result_payout": null,
       "axis_name": "シンボリノエル"
     },
     {
@@ -2820,6 +2830,7 @@
         17,
         7
       ],
+      "result_payout": null,
       "axis_name": "キュクヌス"
     },
     {
@@ -3023,6 +3034,7 @@
         8,
         3
       ],
+      "result_payout": null,
       "axis_name": "テーオーライマン"
     },
     {
@@ -3241,6 +3253,7 @@
         8,
         7
       ],
+      "result_payout": null,
       "axis_name": "リリーフィールド"
     },
     {
@@ -3521,6 +3534,7 @@
         7,
         15
       ],
+      "result_payout": null,
       "axis_name": "ハギノサステナブル"
     },
     {
@@ -3757,6 +3771,7 @@
         2,
         4
       ],
+      "result_payout": null,
       "axis_name": "コウセキ"
     },
     {
@@ -4250,6 +4265,7 @@
         10,
         3
       ],
+      "result_payout": null,
       "axis_name": "ルディック"
     },
     {
@@ -4519,6 +4535,7 @@
         13,
         10
       ],
+      "result_payout": null,
       "axis_name": "ヘイジュード"
     },
     {
@@ -4829,6 +4846,7 @@
         15,
         3
       ],
+      "result_payout": null,
       "axis_name": "クロワデュノール"
     },
     {
@@ -5139,6 +5157,7 @@
         10,
         4
       ],
+      "result_payout": null,
       "axis_name": "タケルハーロック"
     },
     {
@@ -5386,6 +5405,7 @@
         10,
         13
       ],
+      "result_payout": null,
       "axis_name": "シルフズミスチーフ"
     },
     {
@@ -5666,6 +5686,7 @@
         10,
         16
       ],
+      "result_payout": null,
       "axis_name": "マッシャーブルム"
     }
   ]
