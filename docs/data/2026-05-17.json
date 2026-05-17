@@ -1,7 +1,7 @@
 {
   "date": "2026-05-17",
   "venue_filter": null,
-  "generated_at": "2026-05-17T12:42:58.136353",
+  "generated_at": "2026-05-17T12:43:12.494875",
   "n_races": 20,
   "races": [
     {
@@ -15,7 +15,7 @@
       "track_condition": "良",
       "weather": "晴",
       "num_runners": 16,
-      "start_time": "12:45",
+      "start_time": null,
       "venue_name": "京都",
       "axis": 1,
       "partners": [],
@@ -108,13 +108,13 @@
         },
         {
           "horse_number": 12,
-          "jockey_name": "岩田康",
+          "jockey_name": "角田大和",
           "trainer_name": "美浦中舘",
           "odds_win": null,
           "popularity": null,
           "rel_prob": 7.17,
           "combo_total": 21.932,
-          "jockey_top3_rate": 0.333,
+          "jockey_top3_rate": 0.175,
           "horse_name": "ベルウッドピース"
         },
         {
