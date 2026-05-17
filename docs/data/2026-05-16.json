@@ -1,7 +1,7 @@
 {
   "date": "2026-05-16",
   "venue_filter": null,
-  "generated_at": "2026-05-16T23:52:53.879235",
+  "generated_at": "2026-05-17T09:32:58.747850",
   "n_races": 19,
   "races": [
     {
@@ -202,6 +202,7 @@
       "total_stake": 0,
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
+      "result_top3": [],
       "axis_name": "トッレブランカ"
     },
     {
@@ -389,6 +390,7 @@
       "total_stake": 600,
       "kelly_total_stake": 2800,
       "kelly_n_tickets": 3,
+      "result_top3": [],
       "axis_name": "イブキ"
     },
     {
@@ -609,6 +611,7 @@
       "total_stake": 600,
       "kelly_total_stake": 3000,
       "kelly_n_tickets": 1,
+      "result_top3": [],
       "axis_name": "シャンパンライフ"
     },
     {
@@ -820,6 +823,7 @@
       "total_stake": 0,
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
+      "result_top3": [],
       "axis_name": "ムテキシャチョウ"
     },
     {
@@ -999,6 +1003,7 @@
       "total_stake": 0,
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
+      "result_top3": [],
       "axis_name": "ペイシャマリーン"
     },
     {
@@ -1211,6 +1216,7 @@
       "total_stake": 0,
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
+      "result_top3": [],
       "axis_name": "ハクシンブライアン"
     },
     {
@@ -1409,6 +1415,7 @@
       "total_stake": 600,
       "kelly_total_stake": 2800,
       "kelly_n_tickets": 3,
+      "result_top3": [],
       "axis_name": "ソナタン"
     },
     {
@@ -1618,6 +1625,7 @@
       "total_stake": 600,
       "kelly_total_stake": 2800,
       "kelly_n_tickets": 3,
+      "result_top3": [],
       "axis_name": "エチゴドラゴン"
     },
     {
@@ -1756,6 +1764,7 @@
       "total_stake": 0,
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
+      "result_top3": [],
       "axis_name": "シャンソンドール"
     },
     {
@@ -1968,6 +1977,7 @@
       "total_stake": 0,
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
+      "result_top3": [],
       "axis_name": "ジョワイユノエル"
     },
     {
@@ -2168,6 +2178,7 @@
       "total_stake": 0,
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
+      "result_top3": [],
       "axis_name": "ペンナヴェローチェ"
     },
     {
@@ -2337,6 +2348,7 @@
       "total_stake": 0,
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
+      "result_top3": [],
       "axis_name": "レーティッシュ"
     },
     {
@@ -2535,6 +2547,7 @@
       "total_stake": 600,
       "kelly_total_stake": 2700,
       "kelly_n_tickets": 4,
+      "result_top3": [],
       "axis_name": "ディアウス"
     },
     {
@@ -3034,6 +3047,7 @@
       "total_stake": 2800,
       "kelly_total_stake": 2300,
       "kelly_n_tickets": 18,
+      "result_top3": [],
       "axis_name": "アブキールベイ"
     },
     {
@@ -3235,6 +3249,7 @@
       "total_stake": 0,
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
+      "result_top3": [],
       "axis_name": "トリプルコーク"
     },
     {
@@ -3652,6 +3667,7 @@
       "total_stake": 2100,
       "kelly_total_stake": 3000,
       "kelly_n_tickets": 1,
+      "result_top3": [],
       "axis_name": "ドゥラドーレス"
     },
     {
@@ -3852,6 +3868,7 @@
       "total_stake": 0,
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
+      "result_top3": [],
       "axis_name": "フェンダー"
     },
     {
@@ -4043,6 +4060,7 @@
       "total_stake": 0,
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
+      "result_top3": [],
       "axis_name": "ケープウィッカム"
     },
     {
@@ -4255,6 +4273,7 @@
       "total_stake": 0,
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
+      "result_top3": [],
       "axis_name": "ピアストイヤーズ"
     }
   ]
