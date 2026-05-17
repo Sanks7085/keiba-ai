@@ -1,7 +1,7 @@
 {
   "date": "2026-05-16",
   "venue_filter": null,
-  "generated_at": "2026-05-17T11:47:59.868993",
+  "generated_at": "2026-05-17T12:33:54.462472",
   "n_races": 19,
   "races": [
     {
@@ -207,6 +207,7 @@
         7,
         14
       ],
+      "result_payout": null,
       "axis_name": "トッレブランカ"
     },
     {
@@ -432,6 +433,7 @@
         5,
         3
       ],
+      "result_payout": null,
       "axis_name": "シャンパンライフ"
     },
     {
@@ -646,6 +648,7 @@
         1,
         8
       ],
+      "result_payout": null,
       "axis_name": "エチゴドラゴン"
     },
     {
@@ -851,6 +854,7 @@
         1,
         14
       ],
+      "result_payout": null,
       "axis_name": "ペンナヴェローチェ"
     },
     {
@@ -1355,6 +1359,7 @@
         6,
         3
       ],
+      "result_payout": null,
       "axis_name": "アブキールベイ"
     },
     {
@@ -1560,6 +1565,7 @@
         13,
         15
       ],
+      "result_payout": null,
       "axis_name": "フェンダー"
     },
     {
@@ -1745,6 +1751,7 @@
         12,
         13
       ],
+      "result_payout": null,
       "axis_name": "ペイシャマリーン"
     },
     {
@@ -1886,6 +1893,7 @@
         7,
         5
       ],
+      "result_payout": null,
       "axis_name": "ソナタン"
     },
     {
@@ -2103,6 +2111,7 @@
         6,
         14
       ],
+      "result_payout": null,
       "axis_name": "ルールーリマ"
     },
     {
@@ -2306,6 +2315,7 @@
         8,
         2
       ],
+      "result_payout": null,
       "axis_name": "ディアウス"
     },
     {
@@ -2728,6 +2738,7 @@
         11,
         9
       ],
+      "result_payout": null,
       "axis_name": "ドゥラドーレス"
     },
     {
@@ -2945,6 +2956,7 @@
         11,
         13
       ],
+      "result_payout": null,
       "axis_name": "ピアストイヤーズ"
     },
     {
@@ -3137,6 +3149,7 @@
         4,
         8
       ],
+      "result_payout": null,
       "axis_name": "イブキ"
     },
     {
@@ -3353,6 +3366,7 @@
         13,
         4
       ],
+      "result_payout": null,
       "axis_name": "ムテキシャチョウ"
     },
     {
@@ -3570,6 +3584,7 @@
         14,
         15
       ],
+      "result_payout": null,
       "axis_name": "ハクシンブライアン"
     },
     {
@@ -3712,6 +3727,7 @@
         3,
         5
       ],
+      "result_payout": null,
       "axis_name": "シャンソンドール"
     },
     {
@@ -3886,6 +3902,7 @@
         6,
         12
       ],
+      "result_payout": null,
       "axis_name": "レーティッシュ"
     },
     {
@@ -4093,6 +4110,7 @@
         8,
         4
       ],
+      "result_payout": null,
       "axis_name": "トリプルコーク"
     },
     {
@@ -4289,6 +4307,7 @@
         9,
         11
       ],
+      "result_payout": null,
       "axis_name": "ケープウィッカム"
     }
   ]
