@@ -1,7 +1,7 @@
 {
   "date": "2026-05-17",
   "venue_filter": null,
-  "generated_at": "2026-05-17T09:59:16.388248",
+  "generated_at": "2026-05-17T12:42:58.136353",
   "n_races": 20,
   "races": [
     {
@@ -37,7 +37,7 @@
           "popularity": null,
           "rel_prob": 12.19,
           "combo_total": 33.425,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 1.0,
           "horse_name": "バケラッタ"
         },
         {
@@ -48,7 +48,7 @@
           "popularity": null,
           "rel_prob": 10.6,
           "combo_total": 30.092,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.167,
           "horse_name": "ラブインアクション"
         },
         {
@@ -59,7 +59,7 @@
           "popularity": null,
           "rel_prob": 10.08,
           "combo_total": 28.922,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "システマソラー"
         },
         {
@@ -70,7 +70,7 @@
           "popularity": null,
           "rel_prob": 9.28,
           "combo_total": 27.111,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.143,
           "horse_name": "チェリヴェント"
         },
         {
@@ -81,7 +81,7 @@
           "popularity": null,
           "rel_prob": 8.23,
           "combo_total": 24.587,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.375,
           "horse_name": "ジャイアンバローズ"
         },
         {
@@ -92,7 +92,7 @@
           "popularity": null,
           "rel_prob": 7.97,
           "combo_total": 23.936,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "アビラーシャ"
         },
         {
@@ -103,7 +103,7 @@
           "popularity": null,
           "rel_prob": 7.44,
           "combo_total": 22.608,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "フクシマブリルハム"
         },
         {
@@ -114,7 +114,7 @@
           "popularity": null,
           "rel_prob": 7.17,
           "combo_total": 21.932,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "ベルウッドピース"
         },
         {
@@ -125,7 +125,7 @@
           "popularity": null,
           "rel_prob": 7.17,
           "combo_total": 21.932,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.375,
           "horse_name": "ロードアマルフィ"
         },
         {
@@ -136,7 +136,7 @@
           "popularity": null,
           "rel_prob": 5.06,
           "combo_total": 16.208,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "オオツカ"
         },
         {
@@ -158,7 +158,7 @@
           "popularity": null,
           "rel_prob": 3.22,
           "combo_total": 10.718,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "テスタヴェローチェ"
         },
         {
@@ -169,7 +169,7 @@
           "popularity": null,
           "rel_prob": 2.95,
           "combo_total": 9.895,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.2,
           "horse_name": "トーアエレクトラム"
         },
         {
@@ -180,7 +180,7 @@
           "popularity": null,
           "rel_prob": 2.42,
           "combo_total": 8.22,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.4,
           "horse_name": "ディープスリー"
         },
         {
@@ -191,7 +191,7 @@
           "popularity": null,
           "rel_prob": 1.1,
           "combo_total": 3.854,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "ジーティーシップ"
         },
         {
@@ -202,7 +202,7 @@
           "popularity": null,
           "rel_prob": 0.31,
           "combo_total": 1.11,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "ケンフィールド"
         }
       ],
@@ -212,6 +212,7 @@
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
       "result_top3": [],
+      "result_payout": null,
       "axis_name": "バケラッタ"
     },
     {
@@ -263,7 +264,7 @@
           "popularity": null,
           "rel_prob": 19.85,
           "combo_total": 54.474,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.5,
           "horse_name": "フィアーブル"
         },
         {
@@ -274,7 +275,7 @@
           "popularity": null,
           "rel_prob": 15.33,
           "combo_total": 46.844,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.667,
           "horse_name": "ヴンダーバール"
         },
         {
@@ -296,7 +297,7 @@
           "popularity": null,
           "rel_prob": 11.93,
           "combo_total": 39.61,
-          "jockey_top3_rate": 0.483,
+          "jockey_top3_rate": 0.489,
           "horse_name": "ジュワネング"
         },
         {
@@ -307,7 +308,7 @@
           "popularity": null,
           "rel_prob": 7.41,
           "combo_total": 27.474,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "ワイズギャング"
         },
         {
@@ -318,7 +319,7 @@
           "popularity": null,
           "rel_prob": 6.28,
           "combo_total": 23.933,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "ファンシーズ"
         },
         {
@@ -329,7 +330,7 @@
           "popularity": null,
           "rel_prob": 0.62,
           "combo_total": 2.732,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.143,
           "horse_name": "オウケンサクラコ"
         }
       ],
@@ -400,6 +401,7 @@
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
       "result_top3": [],
+      "result_payout": null,
       "axis_name": "バルボアパーク"
     },
     {
@@ -440,7 +442,7 @@
           "popularity": null,
           "rel_prob": 15.0,
           "combo_total": 40.316,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "ダノンアトラス"
         },
         {
@@ -451,7 +453,7 @@
           "popularity": null,
           "rel_prob": 13.78,
           "combo_total": 38.041,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.25,
           "horse_name": "マイネルアウルム"
         },
         {
@@ -462,7 +464,7 @@
           "popularity": null,
           "rel_prob": 11.75,
           "combo_total": 33.923,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "ウインボレロ"
         },
         {
@@ -473,7 +475,7 @@
           "popularity": null,
           "rel_prob": 10.13,
           "combo_total": 30.309,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "コスモアチーブ"
         },
         {
@@ -484,7 +486,7 @@
           "popularity": null,
           "rel_prob": 10.13,
           "combo_total": 30.309,
-          "jockey_top3_rate": 0.248,
+          "jockey_top3_rate": 0.25,
           "horse_name": "ベネスピラ"
         },
         {
@@ -495,7 +497,7 @@
           "popularity": null,
           "rel_prob": 9.32,
           "combo_total": 28.389,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "アンドローゼス"
         },
         {
@@ -506,7 +508,7 @@
           "popularity": null,
           "rel_prob": 8.91,
           "combo_total": 27.399,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "ディーンズリスター"
         },
         {
@@ -517,7 +519,7 @@
           "popularity": null,
           "rel_prob": 6.07,
           "combo_total": 19.885,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "コンサートマスター"
         },
         {
@@ -528,7 +530,7 @@
           "popularity": null,
           "rel_prob": 5.26,
           "combo_total": 17.541,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "デビューフライト"
         },
         {
@@ -539,7 +541,7 @@
           "popularity": null,
           "rel_prob": 3.63,
           "combo_total": 12.571,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "トラストモアリズム"
         },
         {
@@ -550,7 +552,7 @@
           "popularity": null,
           "rel_prob": 3.63,
           "combo_total": 12.571,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.1,
           "horse_name": "ソリッドベーシス"
         },
         {
@@ -561,7 +563,7 @@
           "popularity": null,
           "rel_prob": 1.2,
           "combo_total": 4.373,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "ロジウムエポック"
         },
         {
@@ -572,7 +574,7 @@
           "popularity": null,
           "rel_prob": 1.2,
           "combo_total": 4.373,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "コーラスライン"
         }
       ],
@@ -643,6 +645,7 @@
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
       "result_top3": [],
+      "result_payout": null,
       "axis_name": "ダノンアトラス"
     },
     {
@@ -683,7 +686,7 @@
           "popularity": null,
           "rel_prob": 15.77,
           "combo_total": 42.379,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "サミダレナイツ"
         },
         {
@@ -694,7 +697,7 @@
           "popularity": null,
           "rel_prob": 15.29,
           "combo_total": 41.525,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "レイデラティエラ"
         },
         {
@@ -705,7 +708,7 @@
           "popularity": null,
           "rel_prob": 12.89,
           "combo_total": 36.924,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "デリュージョン"
         },
         {
@@ -716,7 +719,7 @@
           "popularity": null,
           "rel_prob": 12.41,
           "combo_total": 35.933,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.375,
           "horse_name": "オーシンエス"
         },
         {
@@ -727,7 +730,7 @@
           "popularity": null,
           "rel_prob": 10.01,
           "combo_total": 30.593,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "ラブカ"
         },
         {
@@ -738,7 +741,7 @@
           "popularity": null,
           "rel_prob": 8.57,
           "combo_total": 27.06,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.4,
           "horse_name": "ヴェストラン"
         },
         {
@@ -749,7 +752,7 @@
           "popularity": null,
           "rel_prob": 7.61,
           "combo_total": 24.559,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.167,
           "horse_name": "ゴッドヴァレー"
         },
         {
@@ -760,7 +763,7 @@
           "popularity": null,
           "rel_prob": 5.69,
           "combo_total": 19.184,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.2,
           "horse_name": "メイショウアゴナス"
         },
         {
@@ -771,7 +774,7 @@
           "popularity": null,
           "rel_prob": 4.26,
           "combo_total": 14.81,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "ビヨンドザドリーム"
         },
         {
@@ -782,7 +785,7 @@
           "popularity": null,
           "rel_prob": 3.3,
           "combo_total": 11.722,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.25,
           "horse_name": "ヴォラヴィア"
         },
         {
@@ -804,7 +807,7 @@
           "popularity": null,
           "rel_prob": 1.86,
           "combo_total": 6.82,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.143,
           "horse_name": "メイショウヒュウガ"
         }
       ],
@@ -875,6 +878,7 @@
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
       "result_top3": [],
+      "result_payout": null,
       "axis_name": "サミダレナイツ"
     },
     {
@@ -915,7 +919,7 @@
           "popularity": null,
           "rel_prob": 23.24,
           "combo_total": 59.334,
-          "jockey_top3_rate": 0.379,
+          "jockey_top3_rate": 0.377,
           "horse_name": "サトノマティーニ"
         },
         {
@@ -926,7 +930,7 @@
           "popularity": null,
           "rel_prob": 18.72,
           "combo_total": 53.064,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 1.0,
           "horse_name": "トミーバローズ"
         },
         {
@@ -937,7 +941,7 @@
           "popularity": null,
           "rel_prob": 17.59,
           "combo_total": 51.219,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.167,
           "horse_name": "ヴァロアーク"
         },
         {
@@ -948,7 +952,7 @@
           "popularity": null,
           "rel_prob": 16.46,
           "combo_total": 49.244,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.5,
           "horse_name": "ブルースカイブルー"
         },
         {
@@ -959,7 +963,7 @@
           "popularity": null,
           "rel_prob": 10.8,
           "combo_total": 37.096,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.4,
           "horse_name": "タイセイフレッサ"
         },
         {
@@ -970,7 +974,7 @@
           "popularity": null,
           "rel_prob": 8.54,
           "combo_total": 31.003,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "リアライズリバティ"
         },
         {
@@ -981,7 +985,7 @@
           "popularity": null,
           "rel_prob": 4.02,
           "combo_total": 16.29,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.125,
           "horse_name": "デアトゥノウ"
         },
         {
@@ -992,7 +996,7 @@
           "popularity": null,
           "rel_prob": 0.63,
           "combo_total": 2.751,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "ギガントマキア"
         }
       ],
@@ -1063,6 +1067,7 @@
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
       "result_top3": [],
+      "result_payout": null,
       "axis_name": "サトノマティーニ"
     },
     {
@@ -1102,7 +1107,7 @@
           "popularity": null,
           "rel_prob": 18.8,
           "combo_total": 49.286,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "ゴルデールスカー"
         },
         {
@@ -1113,7 +1118,7 @@
           "popularity": null,
           "rel_prob": 16.69,
           "combo_total": 45.866,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.5,
           "horse_name": "ダノンアンチュラス"
         },
         {
@@ -1124,7 +1129,7 @@
           "popularity": null,
           "rel_prob": 15.98,
           "combo_total": 44.637,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "オンクラウドナイン"
         },
         {
@@ -1135,7 +1140,7 @@
           "popularity": null,
           "rel_prob": 12.46,
           "combo_total": 37.731,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "ミッキーコンドル"
         },
         {
@@ -1146,7 +1151,7 @@
           "popularity": null,
           "rel_prob": 8.94,
           "combo_total": 29.382,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "アバレリュウ"
         },
         {
@@ -1157,7 +1162,7 @@
           "popularity": null,
           "rel_prob": 8.24,
           "combo_total": 27.518,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.25,
           "horse_name": "ビスケットマリー"
         },
         {
@@ -1168,7 +1173,7 @@
           "popularity": null,
           "rel_prob": 7.54,
           "combo_total": 25.584,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "ココデイック"
         },
         {
@@ -1179,7 +1184,7 @@
           "popularity": null,
           "rel_prob": 7.54,
           "combo_total": 25.584,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "ラテライト"
         },
         {
@@ -1190,7 +1195,7 @@
           "popularity": null,
           "rel_prob": 3.31,
           "combo_total": 12.414,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.1,
           "horse_name": "グランコネクシオン"
         },
         {
@@ -1201,7 +1206,7 @@
           "popularity": null,
           "rel_prob": 0.5,
           "combo_total": 1.998,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "アイファーファイト"
         }
       ],
@@ -1211,6 +1216,7 @@
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
       "result_top3": [],
+      "result_payout": null,
       "axis_name": "ゴルデールスカー"
     },
     {
@@ -1250,7 +1256,7 @@
           "popularity": null,
           "rel_prob": 23.24,
           "combo_total": 58.248,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 1.0,
           "horse_name": "ジョータルマエ"
         },
         {
@@ -1261,7 +1267,7 @@
           "popularity": null,
           "rel_prob": 16.46,
           "combo_total": 48.203,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.25,
           "horse_name": "ゴッドエスパーダ"
         },
         {
@@ -1272,7 +1278,7 @@
           "popularity": null,
           "rel_prob": 16.46,
           "combo_total": 48.203,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "ブルーワール"
         },
         {
@@ -1283,7 +1289,7 @@
           "popularity": null,
           "rel_prob": 15.33,
           "combo_total": 46.113,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "レッドボブ"
         },
         {
@@ -1294,7 +1300,7 @@
           "popularity": null,
           "rel_prob": 10.8,
           "combo_total": 36.234,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.375,
           "horse_name": "ワイドクリーガー"
         },
         {
@@ -1305,7 +1311,7 @@
           "popularity": null,
           "rel_prob": 9.67,
           "combo_total": 33.34,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "ソウルアンドジャズ"
         },
         {
@@ -1316,7 +1322,7 @@
           "popularity": null,
           "rel_prob": 7.41,
           "combo_total": 26.98,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "フクキタテーラー"
         },
         {
@@ -1327,7 +1333,7 @@
           "popularity": null,
           "rel_prob": 0.62,
           "combo_total": 2.679,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.143,
           "horse_name": "ヒデノレインボー"
         }
       ],
@@ -1337,6 +1343,7 @@
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
       "result_top3": [],
+      "result_payout": null,
       "axis_name": "ジョータルマエ"
     },
     {
@@ -1375,7 +1382,7 @@
           "popularity": null,
           "rel_prob": 13.0,
           "combo_total": 35.387,
-          "jockey_top3_rate": 0.483,
+          "jockey_top3_rate": 0.489,
           "horse_name": "エデルクローネ"
         },
         {
@@ -1386,7 +1393,7 @@
           "popularity": null,
           "rel_prob": 11.49,
           "combo_total": 32.318,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.5,
           "horse_name": "ペプロス"
         },
         {
@@ -1397,7 +1404,7 @@
           "popularity": null,
           "rel_prob": 11.19,
           "combo_total": 31.677,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "ホウオウペトリュス"
         },
         {
@@ -1408,7 +1415,7 @@
           "popularity": null,
           "rel_prob": 9.38,
           "combo_total": 27.623,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "リケアキャンディ"
         },
         {
@@ -1419,7 +1426,7 @@
           "popularity": null,
           "rel_prob": 8.78,
           "combo_total": 26.19,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.556,
           "horse_name": "バズアップビート"
         },
         {
@@ -1430,7 +1437,7 @@
           "popularity": null,
           "rel_prob": 8.48,
           "combo_total": 25.458,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "ヴァーナリー"
         },
         {
@@ -1441,7 +1448,7 @@
           "popularity": null,
           "rel_prob": 8.17,
           "combo_total": 24.715,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.667,
           "horse_name": "アドミラルシップ"
         },
         {
@@ -1452,7 +1459,7 @@
           "popularity": null,
           "rel_prob": 7.27,
           "combo_total": 22.42,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.25,
           "horse_name": "クモヒトツナイ"
         },
         {
@@ -1463,7 +1470,7 @@
           "popularity": null,
           "rel_prob": 4.86,
           "combo_total": 15.795,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.143,
           "horse_name": "ドルビナ"
         },
         {
@@ -1474,7 +1481,7 @@
           "popularity": null,
           "rel_prob": 4.25,
           "combo_total": 14.018,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.25,
           "horse_name": "ディープキング"
         },
         {
@@ -1485,7 +1492,7 @@
           "popularity": null,
           "rel_prob": 3.95,
           "combo_total": 13.111,
-          "jockey_top3_rate": 0.177,
+          "jockey_top3_rate": 0.176,
           "horse_name": "ゴガツノアマノガワ"
         },
         {
@@ -1496,7 +1503,7 @@
           "popularity": null,
           "rel_prob": 3.65,
           "combo_total": 12.191,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "ウインファヴォリ"
         },
         {
@@ -1507,7 +1514,7 @@
           "popularity": null,
           "rel_prob": 2.44,
           "combo_total": 8.382,
-          "jockey_top3_rate": 0.178,
+          "jockey_top3_rate": 0.179,
           "horse_name": "カポレイラ"
         },
         {
@@ -1518,7 +1525,7 @@
           "popularity": null,
           "rel_prob": 2.14,
           "combo_total": 7.397,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.25,
           "horse_name": "ヒラボクヒーロー"
         },
         {
@@ -1539,6 +1546,7 @@
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
       "result_top3": [],
+      "result_payout": null,
       "axis_name": "エデルクローネ"
     },
     {
@@ -1576,7 +1584,7 @@
           "popularity": null,
           "rel_prob": 11.92,
           "combo_total": 32.813,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 1.0,
           "horse_name": "ウインマスカレード"
         },
         {
@@ -1587,7 +1595,7 @@
           "popularity": null,
           "rel_prob": 11.4,
           "combo_total": 31.718,
-          "jockey_top3_rate": 0.248,
+          "jockey_top3_rate": 0.25,
           "horse_name": "マグネシアブリック"
         },
         {
@@ -1598,7 +1606,7 @@
           "popularity": null,
           "rel_prob": 9.28,
           "combo_total": 27.048,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "グランプレジール"
         },
         {
@@ -1609,7 +1617,7 @@
           "popularity": null,
           "rel_prob": 8.76,
           "combo_total": 25.804,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "パレスドフィーヌ"
         },
         {
@@ -1620,7 +1628,7 @@
           "popularity": null,
           "rel_prob": 7.97,
           "combo_total": 23.878,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "ラブカムーン"
         },
         {
@@ -1631,7 +1639,7 @@
           "popularity": null,
           "rel_prob": 7.97,
           "combo_total": 23.878,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "ブラックティンカー"
         },
         {
@@ -1642,7 +1650,7 @@
           "popularity": null,
           "rel_prob": 7.7,
           "combo_total": 23.22,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.1,
           "horse_name": "ダノンゴーイチ"
         },
         {
@@ -1653,7 +1661,7 @@
           "popularity": null,
           "rel_prob": 7.17,
           "combo_total": 21.879,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "グッバイウェーブ"
         },
         {
@@ -1664,7 +1672,7 @@
           "popularity": null,
           "rel_prob": 6.65,
           "combo_total": 20.504,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.5,
           "horse_name": "ラヴェンデル"
         },
         {
@@ -1675,7 +1683,7 @@
           "popularity": null,
           "rel_prob": 5.85,
           "combo_total": 18.376,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.25,
           "horse_name": "ベルタソ"
         },
         {
@@ -1686,7 +1694,7 @@
           "popularity": null,
           "rel_prob": 4.27,
           "combo_total": 13.877,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "フェリーニ"
         },
         {
@@ -1697,7 +1705,7 @@
           "popularity": null,
           "rel_prob": 3.74,
           "combo_total": 12.303,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "プロクレイア"
         },
         {
@@ -1719,7 +1727,7 @@
           "popularity": null,
           "rel_prob": 2.69,
           "combo_total": 9.039,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "オオゾラヒバリ"
         },
         {
@@ -1751,6 +1759,7 @@
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
       "result_top3": [],
+      "result_payout": null,
       "axis_name": "ウインマスカレード"
     },
     {
@@ -1791,7 +1800,7 @@
           "popularity": null,
           "rel_prob": 18.09,
           "combo_total": 48.429,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "ファーングロット"
         },
         {
@@ -1802,7 +1811,7 @@
           "popularity": null,
           "rel_prob": 17.39,
           "combo_total": 47.288,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.167,
           "horse_name": "サトノソティラス"
         },
         {
@@ -1824,7 +1833,7 @@
           "popularity": null,
           "rel_prob": 13.17,
           "combo_total": 39.436,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.143,
           "horse_name": "ベイラム"
         },
         {
@@ -1835,7 +1844,7 @@
           "popularity": null,
           "rel_prob": 10.35,
           "combo_total": 33.1,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.25,
           "horse_name": "メイショウアイル"
         },
         {
@@ -1846,7 +1855,7 @@
           "popularity": null,
           "rel_prob": 9.65,
           "combo_total": 31.361,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.375,
           "horse_name": "エルディアブロ"
         },
         {
@@ -1857,7 +1866,7 @@
           "popularity": null,
           "rel_prob": 5.43,
           "combo_total": 19.466,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "パープルクラウド"
         },
         {
@@ -1868,7 +1877,7 @@
           "popularity": null,
           "rel_prob": 4.02,
           "combo_total": 14.898,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.4,
           "horse_name": "プレイリードリーム"
         },
         {
@@ -1879,7 +1888,7 @@
           "popularity": null,
           "rel_prob": 3.31,
           "combo_total": 12.492,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "ビップチェイス"
         },
         {
@@ -1890,7 +1899,7 @@
           "popularity": null,
           "rel_prob": 1.91,
           "combo_total": 7.428,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "シュプリンガー"
         }
       ],
@@ -1961,6 +1970,7 @@
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
       "result_top3": [],
+      "result_payout": null,
       "axis_name": "ファーングロット"
     },
     {
@@ -2012,7 +2022,7 @@
           "popularity": null,
           "rel_prob": 14.81,
           "combo_total": 40.76,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "ジーティーマン"
         },
         {
@@ -2023,7 +2033,7 @@
           "popularity": null,
           "rel_prob": 13.85,
           "combo_total": 38.94,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.4,
           "horse_name": "シルバーレイン"
         },
         {
@@ -2034,7 +2044,7 @@
           "popularity": null,
           "rel_prob": 10.97,
           "combo_total": 32.901,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "オリバナム"
         },
         {
@@ -2045,7 +2055,7 @@
           "popularity": null,
           "rel_prob": 10.97,
           "combo_total": 32.901,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.25,
           "horse_name": "ミッキースターダム"
         },
         {
@@ -2056,7 +2066,7 @@
           "popularity": null,
           "rel_prob": 8.57,
           "combo_total": 27.139,
-          "jockey_top3_rate": 0.203,
+          "jockey_top3_rate": 0.208,
           "horse_name": "マイネルフォルツァ"
         },
         {
@@ -2067,7 +2077,7 @@
           "popularity": null,
           "rel_prob": 7.13,
           "combo_total": 23.332,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.25,
           "horse_name": "マンウォル"
         },
         {
@@ -2078,7 +2088,7 @@
           "popularity": null,
           "rel_prob": 6.17,
           "combo_total": 20.638,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.143,
           "horse_name": "ケイケイ"
         },
         {
@@ -2089,7 +2099,7 @@
           "popularity": null,
           "rel_prob": 6.17,
           "combo_total": 20.638,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "クールベイビー"
         },
         {
@@ -2100,7 +2110,7 @@
           "popularity": null,
           "rel_prob": 2.82,
           "combo_total": 10.156,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "デファイ"
         },
         {
@@ -2111,7 +2121,7 @@
           "popularity": null,
           "rel_prob": 2.34,
           "combo_total": 8.517,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "リュウノタブーク"
         },
         {
@@ -2122,7 +2132,7 @@
           "popularity": null,
           "rel_prob": 0.42,
           "combo_total": 1.587,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "ヒロノゴウカイ"
         }
       ],
@@ -2193,6 +2203,7 @@
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
       "result_top3": [],
+      "result_payout": null,
       "axis_name": "エルマーゴ"
     },
     {
@@ -2231,7 +2242,7 @@
           "popularity": null,
           "rel_prob": 12.19,
           "combo_total": 33.44,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "マリアイリダータ"
         },
         {
@@ -2242,7 +2253,7 @@
           "popularity": null,
           "rel_prob": 10.08,
           "combo_total": 28.936,
-          "jockey_top3_rate": 0.248,
+          "jockey_top3_rate": 0.25,
           "horse_name": "タッチアンドムーブ"
         },
         {
@@ -2253,7 +2264,7 @@
           "popularity": null,
           "rel_prob": 10.08,
           "combo_total": 28.936,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.5,
           "horse_name": "パッションリッチ"
         },
         {
@@ -2264,7 +2275,7 @@
           "popularity": null,
           "rel_prob": 9.55,
           "combo_total": 27.736,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "コンフォルツァ"
         },
         {
@@ -2275,7 +2286,7 @@
           "popularity": null,
           "rel_prob": 9.02,
           "combo_total": 26.505,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "ズイウンゴサイ"
         },
         {
@@ -2286,7 +2297,7 @@
           "popularity": null,
           "rel_prob": 8.49,
           "combo_total": 25.242,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.25,
           "horse_name": "ジェットブレード"
         },
         {
@@ -2297,7 +2308,7 @@
           "popularity": null,
           "rel_prob": 8.23,
           "combo_total": 24.599,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "クロシェットノエル"
         },
         {
@@ -2308,7 +2319,7 @@
           "popularity": null,
           "rel_prob": 6.38,
           "combo_total": 19.861,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "フルレゾン"
         },
         {
@@ -2319,7 +2330,7 @@
           "popularity": null,
           "rel_prob": 6.12,
           "combo_total": 19.15,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "ホウオウレイヴン"
         },
         {
@@ -2330,7 +2341,7 @@
           "popularity": null,
           "rel_prob": 5.85,
           "combo_total": 18.43,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "コスモアバンサ"
         },
         {
@@ -2341,7 +2352,7 @@
           "popularity": null,
           "rel_prob": 4.01,
           "combo_total": 13.134,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "ハイディージェン"
         },
         {
@@ -2352,7 +2363,7 @@
           "popularity": null,
           "rel_prob": 2.69,
           "combo_total": 9.067,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "バードウォッチャー"
         },
         {
@@ -2363,7 +2374,7 @@
           "popularity": null,
           "rel_prob": 2.69,
           "combo_total": 9.067,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "ホウオウシンデレラ"
         },
         {
@@ -2374,7 +2385,7 @@
           "popularity": null,
           "rel_prob": 2.42,
           "combo_total": 8.224,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.1,
           "horse_name": "ジャンビ"
         },
         {
@@ -2385,7 +2396,7 @@
           "popularity": null,
           "rel_prob": 1.63,
           "combo_total": 5.634,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "ワザモノ"
         },
         {
@@ -2396,7 +2407,7 @@
           "popularity": null,
           "rel_prob": 0.58,
           "combo_total": 2.036,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "バンフィエルド"
         }
       ],
@@ -2406,6 +2417,7 @@
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
       "result_top3": [],
+      "result_payout": null,
       "axis_name": "マリアイリダータ"
     },
     {
@@ -2444,7 +2456,7 @@
           "popularity": null,
           "rel_prob": 15.0,
           "combo_total": 40.16,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.375,
           "horse_name": "インヴォーグ"
         },
         {
@@ -2455,7 +2467,7 @@
           "popularity": null,
           "rel_prob": 13.78,
           "combo_total": 37.892,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "バレルターン"
         },
         {
@@ -2466,7 +2478,7 @@
           "popularity": null,
           "rel_prob": 11.75,
           "combo_total": 33.786,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.4,
           "horse_name": "ゼンダンハヤブサ"
         },
         {
@@ -2477,7 +2489,7 @@
           "popularity": null,
           "rel_prob": 9.72,
           "combo_total": 29.236,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "チェルノボーグ"
         },
         {
@@ -2488,7 +2500,7 @@
           "popularity": null,
           "rel_prob": 9.72,
           "combo_total": 29.236,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "エポックヴィーナス"
         },
         {
@@ -2499,7 +2511,7 @@
           "popularity": null,
           "rel_prob": 8.91,
           "combo_total": 27.283,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.167,
           "horse_name": "セブンマジシャン"
         },
         {
@@ -2510,7 +2522,7 @@
           "popularity": null,
           "rel_prob": 8.1,
           "combo_total": 25.25,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.25,
           "horse_name": "ハワイアンティアレ"
         },
         {
@@ -2521,7 +2533,7 @@
           "popularity": null,
           "rel_prob": 6.88,
           "combo_total": 22.044,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.143,
           "horse_name": "ボーモンド"
         },
         {
@@ -2543,7 +2555,7 @@
           "popularity": null,
           "rel_prob": 4.04,
           "combo_total": 13.788,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "カズミクラーシュ"
         },
         {
@@ -2554,7 +2566,7 @@
           "popularity": null,
           "rel_prob": 2.01,
           "combo_total": 7.175,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "ジェットマグナム"
         },
         {
@@ -2565,7 +2577,7 @@
           "popularity": null,
           "rel_prob": 2.01,
           "combo_total": 7.175,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "スズカダブル"
         },
         {
@@ -2576,7 +2588,7 @@
           "popularity": null,
           "rel_prob": 2.01,
           "combo_total": 7.175,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.375,
           "horse_name": "プッシュオン"
         }
       ],
@@ -2586,6 +2598,7 @@
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
       "result_top3": [],
+      "result_payout": null,
       "axis_name": "インヴォーグ"
     },
     {
@@ -2634,7 +2647,7 @@
           "popularity": null,
           "rel_prob": 11.49,
           "combo_total": 32.266,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "メイショウタイピン"
         },
         {
@@ -2645,7 +2658,7 @@
           "popularity": null,
           "rel_prob": 10.29,
           "combo_total": 29.646,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.5,
           "horse_name": "ケイアイアルタイル"
         },
         {
@@ -2656,7 +2669,7 @@
           "popularity": null,
           "rel_prob": 9.08,
           "combo_total": 26.866,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.143,
           "horse_name": "グレイスザクラウン"
         },
         {
@@ -2667,7 +2680,7 @@
           "popularity": null,
           "rel_prob": 8.48,
           "combo_total": 25.414,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "トルショー"
         },
         {
@@ -2678,7 +2691,7 @@
           "popularity": null,
           "rel_prob": 8.48,
           "combo_total": 25.414,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.25,
           "horse_name": "フィーチャリング"
         },
         {
@@ -2689,7 +2702,7 @@
           "popularity": null,
           "rel_prob": 8.17,
           "combo_total": 24.672,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.25,
           "horse_name": "サンダーロード"
         },
         {
@@ -2700,7 +2713,7 @@
           "popularity": null,
           "rel_prob": 6.97,
           "combo_total": 21.595,
-          "jockey_top3_rate": 0.178,
+          "jockey_top3_rate": 0.179,
           "horse_name": "コーリンカルベラ"
         },
         {
@@ -2711,7 +2724,7 @@
           "popularity": null,
           "rel_prob": 5.46,
           "combo_total": 17.491,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "キョウエイカンセ"
         },
         {
@@ -2733,7 +2746,7 @@
           "popularity": null,
           "rel_prob": 4.56,
           "combo_total": 14.886,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.125,
           "horse_name": "キングツェッペリン"
         },
         {
@@ -2744,7 +2757,7 @@
           "popularity": null,
           "rel_prob": 3.95,
           "combo_total": 13.087,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "ショウナンヤッホー"
         },
         {
@@ -2755,7 +2768,7 @@
           "popularity": null,
           "rel_prob": 3.05,
           "combo_total": 10.294,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.556,
           "horse_name": "レイワサンサン"
         },
         {
@@ -2777,7 +2790,7 @@
           "popularity": null,
           "rel_prob": 0.33,
           "combo_total": 1.195,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "アースイオス"
         }
       ],
@@ -2787,6 +2800,7 @@
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
       "result_top3": [],
+      "result_payout": null,
       "axis_name": "グロスビーク"
     },
     {
@@ -2825,7 +2839,7 @@
           "popularity": null,
           "rel_prob": 12.19,
           "combo_total": 33.461,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.5,
           "horse_name": "マイエレメント"
         },
         {
@@ -2836,7 +2850,7 @@
           "popularity": null,
           "rel_prob": 11.4,
           "combo_total": 31.825,
-          "jockey_top3_rate": 0.248,
+          "jockey_top3_rate": 0.25,
           "horse_name": "エストゥペンダ"
         },
         {
@@ -2847,7 +2861,7 @@
           "popularity": null,
           "rel_prob": 10.08,
           "combo_total": 28.954,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.25,
           "horse_name": "バッデレイト"
         },
         {
@@ -2858,7 +2872,7 @@
           "popularity": null,
           "rel_prob": 8.76,
           "combo_total": 25.894,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.25,
           "horse_name": "タイキラフター"
         },
         {
@@ -2869,7 +2883,7 @@
           "popularity": null,
           "rel_prob": 8.23,
           "combo_total": 24.615,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "ミナデオロ"
         },
         {
@@ -2880,7 +2894,7 @@
           "popularity": null,
           "rel_prob": 8.23,
           "combo_total": 24.615,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.5,
           "horse_name": "ピックアチェリー"
         },
         {
@@ -2891,7 +2905,7 @@
           "popularity": null,
           "rel_prob": 7.44,
           "combo_total": 22.634,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "ミエスペランサ"
         },
         {
@@ -2902,7 +2916,7 @@
           "popularity": null,
           "rel_prob": 7.17,
           "combo_total": 21.957,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "ワイドアラジン"
         },
         {
@@ -2913,7 +2927,7 @@
           "popularity": null,
           "rel_prob": 7.17,
           "combo_total": 21.957,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "ミラビリスマジック"
         },
         {
@@ -2924,7 +2938,7 @@
           "popularity": null,
           "rel_prob": 5.06,
           "combo_total": 16.227,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "ルクスビッグスター"
         },
         {
@@ -2935,7 +2949,7 @@
           "popularity": null,
           "rel_prob": 4.27,
           "combo_total": 13.929,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "ガジュノリ"
         },
         {
@@ -2946,7 +2960,7 @@
           "popularity": null,
           "rel_prob": 3.22,
           "combo_total": 10.731,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.1,
           "horse_name": "キントリヒ"
         },
         {
@@ -2957,7 +2971,7 @@
           "popularity": null,
           "rel_prob": 2.69,
           "combo_total": 9.074,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "モズロックンロール"
         },
         {
@@ -2979,7 +2993,7 @@
           "popularity": null,
           "rel_prob": 1.1,
           "combo_total": 3.859,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "エレクトリックブギ"
         },
         {
@@ -2990,7 +3004,7 @@
           "popularity": null,
           "rel_prob": 0.58,
           "combo_total": 2.038,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "ピンキープロミス"
         }
       ],
@@ -3000,6 +3014,7 @@
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
       "result_top3": [],
+      "result_payout": null,
       "axis_name": "マイエレメント"
     },
     {
@@ -3044,7 +3059,7 @@
           "popularity": null,
           "rel_prob": 12.19,
           "combo_total": 33.461,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.375,
           "horse_name": "ハッピーマン"
         },
         {
@@ -3055,7 +3070,7 @@
           "popularity": null,
           "rel_prob": 10.87,
           "combo_total": 30.699,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.143,
           "horse_name": "ジャスティンアース"
         },
         {
@@ -3066,7 +3081,7 @@
           "popularity": null,
           "rel_prob": 10.34,
           "combo_total": 29.544,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.167,
           "horse_name": "ベルジュロネット"
         },
         {
@@ -3077,7 +3092,7 @@
           "popularity": null,
           "rel_prob": 9.55,
           "combo_total": 27.754,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "ゲッティヴィラ"
         },
         {
@@ -3088,7 +3103,7 @@
           "popularity": null,
           "rel_prob": 9.02,
           "combo_total": 26.522,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "ナムラクララ"
         },
         {
@@ -3099,7 +3114,7 @@
           "popularity": null,
           "rel_prob": 8.49,
           "combo_total": 25.259,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.375,
           "horse_name": "インユアパレス"
         },
         {
@@ -3110,7 +3125,7 @@
           "popularity": null,
           "rel_prob": 7.44,
           "combo_total": 22.635,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "ルークススペイ"
         },
         {
@@ -3121,7 +3136,7 @@
           "popularity": null,
           "rel_prob": 7.17,
           "combo_total": 21.958,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.4,
           "horse_name": "ハワイアンタイム"
         },
         {
@@ -3132,7 +3147,7 @@
           "popularity": null,
           "rel_prob": 5.59,
           "combo_total": 17.714,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "タガノミスト"
         },
         {
@@ -3143,7 +3158,7 @@
           "popularity": null,
           "rel_prob": 4.8,
           "combo_total": 15.471,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "クロジシジョー"
         },
         {
@@ -3154,7 +3169,7 @@
           "popularity": null,
           "rel_prob": 3.48,
           "combo_total": 11.545,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.25,
           "horse_name": "エートラックス"
         },
         {
@@ -3165,7 +3180,7 @@
           "popularity": null,
           "rel_prob": 2.95,
           "combo_total": 9.907,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.4,
           "horse_name": "スリーピース"
         },
         {
@@ -3176,7 +3191,7 @@
           "popularity": null,
           "rel_prob": 2.95,
           "combo_total": 9.907,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "レアンダー"
         },
         {
@@ -3187,7 +3202,7 @@
           "popularity": null,
           "rel_prob": 2.69,
           "combo_total": 9.074,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "トリリオンボーイ"
         },
         {
@@ -3198,7 +3213,7 @@
           "popularity": null,
           "rel_prob": 1.9,
           "combo_total": 6.513,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "アドバンスファラオ"
         },
         {
@@ -3500,6 +3515,7 @@
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
       "result_top3": [],
+      "result_payout": null,
       "axis_name": "ハッピーマン"
     },
     {
@@ -3555,7 +3571,7 @@
           "popularity": null,
           "rel_prob": 9.8,
           "combo_total": 27.709,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 1.0,
           "horse_name": "パラディレーヌ"
         },
         {
@@ -3566,7 +3582,7 @@
           "popularity": null,
           "rel_prob": 9.18,
           "combo_total": 26.301,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "カムニャック"
         },
         {
@@ -3577,7 +3593,7 @@
           "popularity": null,
           "rel_prob": 8.14,
           "combo_total": 23.859,
-          "jockey_top3_rate": 0.379,
+          "jockey_top3_rate": 0.377,
           "horse_name": "エリカエクスプレス"
         },
         {
@@ -3588,7 +3604,7 @@
           "popularity": null,
           "rel_prob": 7.94,
           "combo_total": 23.356,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "ニシノティアモ"
         },
         {
@@ -3599,7 +3615,7 @@
           "popularity": null,
           "rel_prob": 7.94,
           "combo_total": 23.356,
-          "jockey_top3_rate": 0.483,
+          "jockey_top3_rate": 0.489,
           "horse_name": "チェルヴィニア"
         },
         {
@@ -3610,7 +3626,7 @@
           "popularity": null,
           "rel_prob": 7.11,
           "combo_total": 21.296,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "ココナッツブラウン"
         },
         {
@@ -3621,7 +3637,7 @@
           "popularity": null,
           "rel_prob": 6.49,
           "combo_total": 19.697,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.4,
           "horse_name": "ジョスラン"
         },
         {
@@ -3643,7 +3659,7 @@
           "popularity": null,
           "rel_prob": 5.66,
           "combo_total": 17.493,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.556,
           "horse_name": "クイーンズウォーク"
         },
         {
@@ -3654,7 +3670,7 @@
           "popularity": null,
           "rel_prob": 5.04,
           "combo_total": 15.784,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.5,
           "horse_name": "カナテープ"
         },
         {
@@ -3665,7 +3681,7 @@
           "popularity": null,
           "rel_prob": 3.18,
           "combo_total": 10.356,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "カピリナ"
         },
         {
@@ -3676,7 +3692,7 @@
           "popularity": null,
           "rel_prob": 3.18,
           "combo_total": 10.356,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.143,
           "horse_name": "アイサンサン"
         },
         {
@@ -3687,7 +3703,7 @@
           "popularity": null,
           "rel_prob": 2.97,
           "combo_total": 9.725,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.25,
           "horse_name": "ボンドガール"
         },
         {
@@ -3698,7 +3714,7 @@
           "popularity": null,
           "rel_prob": 2.35,
           "combo_total": 7.794,
-          "jockey_top3_rate": 0.203,
+          "jockey_top3_rate": 0.208,
           "horse_name": "ケリフレッドアスク"
         },
         {
@@ -3709,7 +3725,7 @@
           "popularity": null,
           "rel_prob": 2.35,
           "combo_total": 7.794,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.125,
           "horse_name": "ドロップオブライト"
         },
         {
@@ -3720,7 +3736,7 @@
           "popularity": null,
           "rel_prob": 1.93,
           "combo_total": 6.477,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "ラヴァンダ"
         },
         {
@@ -3731,7 +3747,7 @@
           "popularity": null,
           "rel_prob": 0.28,
           "combo_total": 0.964,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.667,
           "horse_name": "ワイドラトゥール"
         }
       ],
@@ -4022,6 +4038,7 @@
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
       "result_top3": [],
+      "result_payout": null,
       "axis_name": "エンブロイダリー"
     },
     {
@@ -4061,7 +4078,7 @@
           "popularity": null,
           "rel_prob": 17.73,
           "combo_total": 46.387,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.5,
           "horse_name": "シルフレイ"
         },
         {
@@ -4072,7 +4089,7 @@
           "popularity": null,
           "rel_prob": 14.85,
           "combo_total": 41.411,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "ワンウェイトゥヘル"
         },
         {
@@ -4083,7 +4100,7 @@
           "popularity": null,
           "rel_prob": 13.7,
           "combo_total": 39.199,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.1,
           "horse_name": "スーパーバイザー"
         },
         {
@@ -4094,7 +4111,7 @@
           "popularity": null,
           "rel_prob": 11.97,
           "combo_total": 35.619,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "ビアフォーナウ"
         },
         {
@@ -4105,7 +4122,7 @@
           "popularity": null,
           "rel_prob": 9.67,
           "combo_total": 30.314,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.4,
           "horse_name": "ジーティームッシュ"
         },
         {
@@ -4116,7 +4133,7 @@
           "popularity": null,
           "rel_prob": 9.67,
           "combo_total": 30.314,
-          "jockey_top3_rate": 0.248,
+          "jockey_top3_rate": 0.25,
           "horse_name": "エルムラント"
         },
         {
@@ -4138,7 +4155,7 @@
           "popularity": null,
           "rel_prob": 5.64,
           "combo_total": 19.382,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "バシリス"
         },
         {
@@ -4149,7 +4166,7 @@
           "popularity": null,
           "rel_prob": 5.06,
           "combo_total": 17.633,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "ユーウェイン"
         },
         {
@@ -4160,7 +4177,7 @@
           "popularity": null,
           "rel_prob": 3.33,
           "combo_total": 12.082,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "コンストラクション"
         },
         {
@@ -4171,7 +4188,7 @@
           "popularity": null,
           "rel_prob": 0.45,
           "combo_total": 1.759,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "ブルーリヴァーサル"
         }
       ],
@@ -4181,6 +4198,7 @@
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
       "result_top3": [],
+      "result_payout": null,
       "axis_name": "シルフレイ"
     },
     {
@@ -4221,7 +4239,7 @@
           "popularity": null,
           "rel_prob": 14.19,
           "combo_total": 38.586,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.375,
           "horse_name": "インブロリオ"
         },
         {
@@ -4232,7 +4250,7 @@
           "popularity": null,
           "rel_prob": 12.56,
           "combo_total": 35.405,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "ダノンブランニュー"
         },
         {
@@ -4243,7 +4261,7 @@
           "popularity": null,
           "rel_prob": 11.75,
           "combo_total": 33.714,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "メイショウカイト"
         },
         {
@@ -4254,7 +4272,7 @@
           "popularity": null,
           "rel_prob": 11.75,
           "combo_total": 33.714,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.167,
           "horse_name": "マテンロウボンド"
         },
         {
@@ -4265,7 +4283,7 @@
           "popularity": null,
           "rel_prob": 10.13,
           "combo_total": 30.118,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.143,
           "horse_name": "ホウオウトランプ"
         },
         {
@@ -4276,7 +4294,7 @@
           "popularity": null,
           "rel_prob": 9.32,
           "combo_total": 28.207,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.375,
           "horse_name": "タガノアンファン"
         },
         {
@@ -4287,7 +4305,7 @@
           "popularity": null,
           "rel_prob": 6.88,
           "combo_total": 21.993,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.25,
           "horse_name": "リアライズ"
         },
         {
@@ -4309,7 +4327,7 @@
           "popularity": null,
           "rel_prob": 4.85,
           "combo_total": 16.223,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "ビップジーニー"
         },
         {
@@ -4320,7 +4338,7 @@
           "popularity": null,
           "rel_prob": 4.44,
           "combo_total": 15.001,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "マイネルラッシュ"
         },
         {
@@ -4342,7 +4360,7 @@
           "popularity": null,
           "rel_prob": 2.82,
           "combo_total": 9.871,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "カリーシ"
         },
         {
@@ -4353,7 +4371,7 @@
           "popularity": null,
           "rel_prob": 0.38,
           "combo_total": 1.421,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "タガノスペルノヴァ"
         }
       ],
@@ -4424,6 +4442,7 @@
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
       "result_top3": [],
+      "result_payout": null,
       "axis_name": "インブロリオ"
     },
     {
@@ -4472,7 +4491,7 @@
           "popularity": null,
           "rel_prob": 11.4,
           "combo_total": 31.826,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 1.0,
           "horse_name": "アスクアイルビゼア"
         },
         {
@@ -4483,7 +4502,7 @@
           "popularity": null,
           "rel_prob": 10.6,
           "combo_total": 30.125,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.5,
           "horse_name": "スニーカースキル"
         },
         {
@@ -4494,7 +4513,7 @@
           "popularity": null,
           "rel_prob": 9.81,
           "combo_total": 28.359,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "フウセツ"
         },
         {
@@ -4505,7 +4524,7 @@
           "popularity": null,
           "rel_prob": 9.02,
           "combo_total": 26.523,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.4,
           "horse_name": "トゥロン"
         },
         {
@@ -4516,7 +4535,7 @@
           "popularity": null,
           "rel_prob": 7.7,
           "combo_total": 23.303,
-          "jockey_top3_rate": 0.483,
+          "jockey_top3_rate": 0.489,
           "horse_name": "サトノガレオン"
         },
         {
@@ -4527,7 +4546,7 @@
           "popularity": null,
           "rel_prob": 7.17,
           "combo_total": 21.958,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "コーラルクラウン"
         },
         {
@@ -4538,7 +4557,7 @@
           "popularity": null,
           "rel_prob": 7.17,
           "combo_total": 21.958,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "メイケイレイン"
         },
         {
@@ -4549,7 +4568,7 @@
           "popularity": null,
           "rel_prob": 5.59,
           "combo_total": 17.714,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "コブラ"
         },
         {
@@ -4560,7 +4579,7 @@
           "popularity": null,
           "rel_prob": 5.06,
           "combo_total": 16.228,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "テリフィックプラン"
         },
         {
@@ -4571,7 +4590,7 @@
           "popularity": null,
           "rel_prob": 4.8,
           "combo_total": 15.471,
-          "jockey_top3_rate": 0.203,
+          "jockey_top3_rate": 0.208,
           "horse_name": "ワークソング"
         },
         {
@@ -4582,7 +4601,7 @@
           "popularity": null,
           "rel_prob": 2.95,
           "combo_total": 9.908,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.25,
           "horse_name": "エイブラムス"
         },
         {
@@ -4593,7 +4612,7 @@
           "popularity": null,
           "rel_prob": 2.42,
           "combo_total": 8.23,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.429,
           "horse_name": "アジアミッション"
         },
         {
@@ -4604,7 +4623,7 @@
           "popularity": null,
           "rel_prob": 1.9,
           "combo_total": 6.513,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.0,
           "horse_name": "ジャスリー"
         },
         {
@@ -4615,7 +4634,7 @@
           "popularity": null,
           "rel_prob": 1.37,
           "combo_total": 4.754,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.333,
           "horse_name": "パルデンス"
         },
         {
@@ -4626,7 +4645,7 @@
           "popularity": null,
           "rel_prob": 1.37,
           "combo_total": 4.754,
-          "jockey_top3_rate": null,
+          "jockey_top3_rate": 0.25,
           "horse_name": "ポッドソル"
         }
       ],
@@ -4636,6 +4655,7 @@
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
       "result_top3": [],
+      "result_payout": null,
       "axis_name": "ラファル"
     }
   ]
