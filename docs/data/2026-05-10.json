@@ -1,7 +1,7 @@
 {
   "date": "2026-05-10",
   "venue_filter": null,
-  "generated_at": "2026-05-17T10:20:51.531430",
+  "generated_at": "2026-05-17T12:33:46.244444",
   "n_races": 21,
   "races": [
     {
@@ -218,6 +218,7 @@
         15,
         4
       ],
+      "result_payout": null,
       "axis_name": "メイショウペイト"
     },
     {
@@ -443,6 +444,7 @@
         10,
         6
       ],
+      "result_payout": null,
       "axis_name": "ディオデルマーレ"
     },
     {
@@ -659,6 +661,7 @@
         2,
         1
       ],
+      "result_payout": null,
       "axis_name": "レインボーラッキー"
     },
     {
@@ -823,6 +826,7 @@
         3,
         1
       ],
+      "result_payout": null,
       "axis_name": "レッドキングリー"
     },
     {
@@ -1027,6 +1031,7 @@
         7,
         9
       ],
+      "result_payout": null,
       "axis_name": "オオタチ"
     },
     {
@@ -1304,6 +1309,7 @@
         10,
         2
       ],
+      "result_payout": null,
       "axis_name": "シャイニングソード"
     },
     {
@@ -1544,6 +1550,7 @@
         16,
         11
       ],
+      "result_payout": null,
       "axis_name": "アドマイヤクワッズ"
     },
     {
@@ -1750,6 +1757,7 @@
         3,
         9
       ],
+      "result_payout": null,
       "axis_name": "ロッシニアーナ"
     },
     {
@@ -1964,6 +1972,7 @@
         6,
         5
       ],
+      "result_payout": null,
       "axis_name": "シェーラ"
     },
     {
@@ -2168,6 +2177,7 @@
         1,
         15
       ],
+      "result_payout": null,
       "axis_name": "ゴメンネジロー"
     },
     {
@@ -2341,6 +2351,7 @@
         6,
         1
       ],
+      "result_payout": null,
       "axis_name": "シュネルアンジュ"
     },
     {
@@ -2547,6 +2558,7 @@
         9,
         12
       ],
+      "result_payout": null,
       "axis_name": "ヴェントインコーダ"
     },
     {
@@ -2783,6 +2795,7 @@
         1,
         2
       ],
+      "result_payout": null,
       "axis_name": "ジーティーエスピ"
     },
     {
@@ -2979,6 +2992,7 @@
         14,
         5
       ],
+      "result_payout": null,
       "axis_name": "パイオニアスクエア"
     },
     {
@@ -3226,6 +3240,7 @@
         1,
         13
       ],
+      "result_payout": null,
       "axis_name": "サークルオブジョイ"
     },
     {
@@ -3421,6 +3436,7 @@
         3,
         6
       ],
+      "result_payout": null,
       "axis_name": "フィールオーサム"
     },
     {
@@ -3646,6 +3662,7 @@
         6,
         5
       ],
+      "result_payout": null,
       "axis_name": "ケールハイム"
     },
     {
@@ -3904,6 +3921,7 @@
         8,
         3
       ],
+      "result_payout": null,
       "axis_name": "ナムラアトム"
     },
     {
@@ -4408,6 +4426,7 @@
         10,
         7
       ],
+      "result_payout": null,
       "axis_name": "グランドプラージュ"
     },
     {
@@ -4655,6 +4674,7 @@
         12,
         10
       ],
+      "result_payout": null,
       "axis_name": "セガンティーニ"
     },
     {
@@ -4851,6 +4871,7 @@
         8,
         5
       ],
+      "result_payout": null,
       "axis_name": "メイショウタムシバ"
     }
   ]
