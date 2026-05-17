@@ -1,5 +1,5 @@
 // ====== Service Worker for offline support ======
-const CACHE_VERSION = "v4";
+const CACHE_VERSION = "v5";
 const CACHE_NAME = `keiba-ai-${CACHE_VERSION}`;
 const SHELL_FILES = [
   "./style.css",

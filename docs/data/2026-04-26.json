@@ -1,7 +1,7 @@
 {
   "date": "2026-04-26",
   "venue_filter": null,
-  "generated_at": "2026-05-17T12:17:01.715163",
+  "generated_at": "2026-05-17T12:33:14.040710",
   "n_races": 21,
   "races": [
     {
@@ -235,6 +235,7 @@
         5,
         1
       ],
+      "result_payout": null,
       "axis_name": "フジガイフウ"
     },
     {
@@ -515,6 +516,7 @@
         12,
         15
       ],
+      "result_payout": null,
       "axis_name": "セブンマイスター"
     },
     {
@@ -678,6 +680,7 @@
         11,
         10
       ],
+      "result_payout": null,
       "axis_name": "ボンヌソワレ"
     },
     {
@@ -895,6 +898,7 @@
         13,
         1
       ],
+      "result_payout": null,
       "axis_name": "コートアリシアン"
     },
     {
@@ -1113,6 +1117,7 @@
         16,
         14
       ],
+      "result_payout": null,
       "axis_name": "ドンインザムード"
     },
     {
@@ -1297,6 +1302,7 @@
         13,
         7
       ],
+      "result_payout": null,
       "axis_name": "リスレジャンデール"
     },
     {
@@ -1515,6 +1521,7 @@
         14,
         10
       ],
+      "result_payout": null,
       "axis_name": "マサノユニコーン"
     },
     {
@@ -1700,6 +1707,7 @@
         5,
         13
       ],
+      "result_payout": null,
       "axis_name": "キングズトゥルー"
     },
     {
@@ -1905,6 +1913,7 @@
         6,
         11
       ],
+      "result_payout": null,
       "axis_name": "ユージュアーナ"
     },
     {
@@ -2112,6 +2121,7 @@
         15,
         2
       ],
+      "result_payout": null,
       "axis_name": "ナンナンプー"
     },
     {
@@ -2359,6 +2369,7 @@
         2,
         12
       ],
+      "result_payout": null,
       "axis_name": "ゲンジ"
     },
     {
@@ -2564,6 +2575,7 @@
         3,
         14
       ],
+      "result_payout": null,
       "axis_name": "セボンサデッセ"
     },
     {
@@ -3068,6 +3080,7 @@
         1,
         13
       ],
+      "result_payout": null,
       "axis_name": "サウンドモリアーナ"
     },
     {
@@ -3282,6 +3295,7 @@
         4,
         13
       ],
+      "result_payout": null,
       "axis_name": "レイアポポ"
     },
     {
@@ -3507,6 +3521,7 @@
         8,
         7
       ],
+      "result_payout": null,
       "axis_name": "ムテキシャチョウ"
     },
     {
@@ -3703,6 +3718,7 @@
         11,
         8
       ],
+      "result_payout": null,
       "axis_name": "ダイシンラー"
     },
     {
@@ -3908,6 +3924,7 @@
         2,
         15
       ],
+      "result_payout": null,
       "axis_name": "カンピドリオ"
     },
     {
@@ -4071,6 +4088,7 @@
         8,
         6
       ],
+      "result_payout": null,
       "axis_name": "ピックデムッシュ"
     },
     {
@@ -4307,6 +4325,7 @@
         17,
         2
       ],
+      "result_payout": null,
       "axis_name": "ショウナンラピダス"
     },
     {
@@ -4545,6 +4564,7 @@
         1,
         7
       ],
+      "result_payout": null,
       "axis_name": "ウォーターリヒト"
     },
     {
@@ -4741,6 +4761,7 @@
         12,
         3
       ],
+      "result_payout": null,
       "axis_name": "ショーダンサー"
     }
   ]

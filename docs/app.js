@@ -167,10 +167,11 @@ function renderList() {
       const s = new Set(top3);
       return b.combo.length === 3 && b.combo.every(n => s.has(n));
     });
+    const payoutStr = r.result_payout ? `　${r.result_payout.toLocaleString()}円` : "";
     const resultBadge = hasResult
       ? (hit
-          ? `<span class="result-hit">🎯 的中！ ${top3.join("-")}</span>`
-          : `<span class="result-miss">✗ 結果 ${top3.join("-")}</span>`)
+          ? `<span class="result-hit">🎯 的中！ ${top3.join("-")}${payoutStr}</span>`
+          : `<span class="result-miss">✗ 結果 ${top3.join("-")}${payoutStr}</span>`)
       : "";
 
     let summary;
@@ -250,10 +251,11 @@ function renderDetail(raceId) {
             const s = new Set(top3d);
             return b.combo.length === 3 && b.combo.every(n => s.has(n));
           });
+          const payoutStrD = r.result_payout ? `　${r.result_payout.toLocaleString()}円` : "";
           const resultLine = hasResultD
             ? (hitD
-                ? `　<span class="result-hit">🎯 的中！ ${top3d.join("-")}</span>`
-                : `　<span class="result-miss">✗ 結果 ${top3d.join("-")}</span>`)
+                ? `　<span class="result-hit">🎯 的中！ ${top3d.join("-")}${payoutStrD}</span>`
+                : `　<span class="result-miss">✗ 結果 ${top3d.join("-")}${payoutStrD}</span>`)
             : "";
           if (r.skipped) {
             return `<span class="skip-pill">不参加</span> ${escape(r.skip_reason || `相手${r.partners.length}頭（不足）`)}${resultLine}`;
