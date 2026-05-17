@@ -1,7 +1,7 @@
 {
   "date": "2026-05-02",
   "venue_filter": null,
-  "generated_at": "2026-05-16T08:49:52.458776",
+  "generated_at": "2026-05-17T12:14:58.737832",
   "n_races": 8,
   "races": [
     {
@@ -22,7 +22,7 @@
       "threshold": 10.0,
       "threshold_reason": "芝/ダート×馬場 [芝×良]",
       "skipped": true,
-      "skip_reason": "相手0頭<3点",
+      "skip_reason": "相手0頭（4頭以上必要）",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
       "max_ev": 45.0494,
@@ -233,6 +233,11 @@
       "total_stake": 0,
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
+      "result_top3": [
+        3,
+        8,
+        9
+      ],
       "axis_name": "レオアジャイル"
     },
     {
@@ -256,8 +261,8 @@
       ],
       "threshold": 10.0,
       "threshold_reason": "芝/ダート×馬場 [芝×良]",
-      "skipped": false,
-      "skip_reason": null,
+      "skipped": true,
+      "skip_reason": "相手3頭（4頭以上必要）",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
       "max_ev": 15.2648,
@@ -342,42 +347,16 @@
           "horse_name": "チャイボーグ"
         }
       ],
-      "buys": [
-        {
-          "combo": [
-            4,
-            6,
-            7
-          ],
-          "prob": 15.758,
-          "payout_yen": 190.0,
-          "kelly_stake": 0
-        },
-        {
-          "combo": [
-            5,
-            6,
-            7
-          ],
-          "prob": 9.98,
-          "payout_yen": 2700.0,
-          "kelly_stake": 1400
-        },
-        {
-          "combo": [
-            4,
-            5,
-            7
-          ],
-          "prob": 7.905,
-          "payout_yen": 19310.0,
-          "kelly_stake": 1500
-        }
+      "buys": [],
+      "n_tickets": 0,
+      "total_stake": 0,
+      "kelly_total_stake": 0,
+      "kelly_n_tickets": 0,
+      "result_top3": [
+        6,
+        7,
+        3
       ],
-      "n_tickets": 3,
-      "total_stake": 300,
-      "kelly_total_stake": 2900,
-      "kelly_n_tickets": 2,
       "axis_name": "リポサンテ"
     },
     {
@@ -401,8 +380,8 @@
       ],
       "threshold": 9.0,
       "threshold_reason": "芝/ダート×馬場 [ダート×重]",
-      "skipped": false,
-      "skip_reason": null,
+      "skipped": true,
+      "skip_reason": "相手3頭（4頭以上必要）",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
       "max_ev": 16.1451,
@@ -586,42 +565,16 @@
           "horse_name": "ブルーリヴァーサル"
         }
       ],
-      "buys": [
-        {
-          "combo": [
-            3,
-            13,
-            15
-          ],
-          "prob": 1.1,
-          "payout_yen": 4570.0,
-          "kelly_stake": 0
-        },
-        {
-          "combo": [
-            3,
-            12,
-            15
-          ],
-          "prob": 1.067,
-          "payout_yen": 1580.0,
-          "kelly_stake": 0
-        },
-        {
-          "combo": [
-            3,
-            12,
-            13
-          ],
-          "prob": 1.064,
-          "payout_yen": 6180.0,
-          "kelly_stake": 0
-        }
-      ],
-      "n_tickets": 3,
-      "total_stake": 300,
+      "buys": [],
+      "n_tickets": 0,
+      "total_stake": 0,
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
+      "result_top3": [
+        12,
+        13,
+        9
+      ],
       "axis_name": "ソナタン"
     },
     {
@@ -831,6 +784,11 @@
       "total_stake": 600,
       "kelly_total_stake": 2900,
       "kelly_n_tickets": 2,
+      "result_top3": [
+        5,
+        6,
+        3
+      ],
       "axis_name": "ノラリクラリ"
     },
     {
@@ -1106,6 +1064,11 @@
       "total_stake": 600,
       "kelly_total_stake": 2900,
       "kelly_n_tickets": 2,
+      "result_top3": [
+        12,
+        2,
+        14
+      ],
       "axis_name": "ギュルヴィ"
     },
     {
@@ -1367,6 +1330,11 @@
       "total_stake": 1000,
       "kelly_total_stake": 2700,
       "kelly_n_tickets": 7,
+      "result_top3": [
+        11,
+        6,
+        2
+      ],
       "axis_name": "モートンアイランド"
     },
     {
@@ -1389,7 +1357,7 @@
       "threshold": 10.0,
       "threshold_reason": "グレード [G2]",
       "skipped": true,
-      "skip_reason": "相手1頭<3点",
+      "skip_reason": "相手1頭（4頭以上必要）",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
       "max_ev": 68.7877,
@@ -1600,6 +1568,11 @@
       "total_stake": 0,
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
+      "result_top3": [
+        16,
+        6,
+        14
+      ],
       "axis_name": "ダノンマッキンリー"
     },
     {
@@ -1894,6 +1867,11 @@
       "total_stake": 1000,
       "kelly_total_stake": 2900,
       "kelly_n_tickets": 5,
+      "result_top3": [
+        5,
+        2,
+        7
+      ],
       "axis_name": "ヘリオトロープ"
     }
   ]

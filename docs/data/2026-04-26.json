@@ -1,7 +1,7 @@
 {
   "date": "2026-04-26",
   "venue_filter": null,
-  "generated_at": "2026-05-16T08:49:59.306052",
+  "generated_at": "2026-05-17T12:17:01.715163",
   "n_races": 21,
   "races": [
     {
@@ -230,6 +230,11 @@
       "total_stake": 1000,
       "kelly_total_stake": 2700,
       "kelly_n_tickets": 7,
+      "result_top3": [
+        2,
+        5,
+        1
+      ],
       "axis_name": "フジガイフウ"
     },
     {
@@ -505,6 +510,11 @@
       "total_stake": 600,
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
+      "result_top3": [
+        14,
+        12,
+        15
+      ],
       "axis_name": "セブンマイスター"
     },
     {
@@ -528,8 +538,8 @@
       ],
       "threshold": 10.0,
       "threshold_reason": "芝/ダート×馬場 [芝×良]",
-      "skipped": false,
-      "skip_reason": null,
+      "skipped": true,
+      "skip_reason": "相手3頭（4頭以上必要）",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
       "max_ev": 15.0027,
@@ -658,42 +668,16 @@
           "horse_name": "ライツユーアップ"
         }
       ],
-      "buys": [
-        {
-          "combo": [
-            2,
-            3,
-            10
-          ],
-          "prob": 3.795,
-          "payout_yen": 1019.9999999999999,
-          "kelly_stake": 0
-        },
-        {
-          "combo": [
-            2,
-            3,
-            9
-          ],
-          "prob": 2.894,
-          "payout_yen": 1800.0,
-          "kelly_stake": 0
-        },
-        {
-          "combo": [
-            3,
-            9,
-            10
-          ],
-          "prob": 2.776,
-          "payout_yen": 2220.0,
-          "kelly_stake": 0
-        }
-      ],
-      "n_tickets": 3,
-      "total_stake": 300,
+      "buys": [],
+      "n_tickets": 0,
+      "total_stake": 0,
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
+      "result_top3": [
+        3,
+        11,
+        10
+      ],
       "axis_name": "ボンヌソワレ"
     },
     {
@@ -717,7 +701,7 @@
       "threshold": 10.0,
       "threshold_reason": "芝/ダート×馬場 [芝×良]",
       "skipped": true,
-      "skip_reason": "相手2頭<3点",
+      "skip_reason": "相手2頭（4頭以上必要）",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
       "max_ev": 5.733,
@@ -906,6 +890,11 @@
       "total_stake": 0,
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
+      "result_top3": [
+        7,
+        13,
+        1
+      ],
       "axis_name": "コートアリシアン"
     },
     {
@@ -929,8 +918,8 @@
       ],
       "threshold": 8.5,
       "threshold_reason": "グレード [Listed]",
-      "skipped": false,
-      "skip_reason": null,
+      "skipped": true,
+      "skip_reason": "相手3頭（4頭以上必要）",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
       "max_ev": 11.6626,
@@ -1114,42 +1103,16 @@
           "horse_name": "バトルクライ"
         }
       ],
-      "buys": [
-        {
-          "combo": [
-            3,
-            6,
-            10
-          ],
-          "prob": 1.11,
-          "payout_yen": null,
-          "kelly_stake": 0
-        },
-        {
-          "combo": [
-            3,
-            10,
-            14
-          ],
-          "prob": 1.108,
-          "payout_yen": null,
-          "kelly_stake": 0
-        },
-        {
-          "combo": [
-            3,
-            6,
-            14
-          ],
-          "prob": 0.952,
-          "payout_yen": 10110.0,
-          "kelly_stake": 0
-        }
-      ],
-      "n_tickets": 3,
-      "total_stake": 300,
+      "buys": [],
+      "n_tickets": 0,
+      "total_stake": 0,
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
+      "result_top3": [
+        3,
+        16,
+        14
+      ],
       "axis_name": "ドンインザムード"
     },
     {
@@ -1173,7 +1136,7 @@
       "threshold": 10.0,
       "threshold_reason": "グレード [G2]",
       "skipped": true,
-      "skip_reason": "相手2頭<3点",
+      "skip_reason": "相手2頭（4頭以上必要）",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
       "max_ev": 18.2268,
@@ -1329,6 +1292,11 @@
       "total_stake": 0,
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
+      "result_top3": [
+        5,
+        13,
+        7
+      ],
       "axis_name": "リスレジャンデール"
     },
     {
@@ -1352,8 +1320,8 @@
       ],
       "threshold": 8.5,
       "threshold_reason": "芝/ダート×馬場 [ダート×稍重]",
-      "skipped": false,
-      "skip_reason": null,
+      "skipped": true,
+      "skip_reason": "相手3頭（4頭以上必要）",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
       "max_ev": 81.3785,
@@ -1537,42 +1505,16 @@
           "horse_name": "ゴールデンエール"
         }
       ],
-      "buys": [
-        {
-          "combo": [
-            8,
-            9,
-            14
-          ],
-          "prob": 1.085,
-          "payout_yen": 365720.0,
-          "kelly_stake": 1300
-        },
-        {
-          "combo": [
-            8,
-            9,
-            10
-          ],
-          "prob": 0.907,
-          "payout_yen": 295710.0,
-          "kelly_stake": 1100
-        },
-        {
-          "combo": [
-            9,
-            10,
-            14
-          ],
-          "prob": 0.894,
-          "payout_yen": 21780.0,
-          "kelly_stake": 500
-        }
+      "buys": [],
+      "n_tickets": 0,
+      "total_stake": 0,
+      "kelly_total_stake": 0,
+      "kelly_n_tickets": 0,
+      "result_top3": [
+        15,
+        14,
+        10
       ],
-      "n_tickets": 3,
-      "total_stake": 300,
-      "kelly_total_stake": 2900,
-      "kelly_n_tickets": 3,
       "axis_name": "マサノユニコーン"
     },
     {
@@ -1596,8 +1538,8 @@
       ],
       "threshold": 10.0,
       "threshold_reason": "芝/ダート×馬場 [芝×良]",
-      "skipped": false,
-      "skip_reason": null,
+      "skipped": true,
+      "skip_reason": "相手3頭（4頭以上必要）",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
       "max_ev": 8.869,
@@ -1748,42 +1690,16 @@
           "horse_name": "スラーヴァ"
         }
       ],
-      "buys": [
-        {
-          "combo": [
-            5,
-            10,
-            13
-          ],
-          "prob": 2.149,
-          "payout_yen": 3779.9999999999995,
-          "kelly_stake": 0
-        },
-        {
-          "combo": [
-            5,
-            8,
-            13
-          ],
-          "prob": 1.83,
-          "payout_yen": 31320.0,
-          "kelly_stake": 2700
-        },
-        {
-          "combo": [
-            5,
-            8,
-            10
-          ],
-          "prob": 1.595,
-          "payout_yen": 6790.000000000001,
-          "kelly_stake": 200
-        }
+      "buys": [],
+      "n_tickets": 0,
+      "total_stake": 0,
+      "kelly_total_stake": 0,
+      "kelly_n_tickets": 0,
+      "result_top3": [
+        10,
+        5,
+        13
       ],
-      "n_tickets": 3,
-      "total_stake": 300,
-      "kelly_total_stake": 2900,
-      "kelly_n_tickets": 2,
       "axis_name": "キングズトゥルー"
     },
     {
@@ -1806,7 +1722,7 @@
       "threshold": 11.0,
       "threshold_reason": "芝/ダート×馬場 [ダート×良]",
       "skipped": true,
-      "skip_reason": "相手1頭<3点",
+      "skip_reason": "相手1頭（4頭以上必要）",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
       "max_ev": 13.1465,
@@ -1984,6 +1900,11 @@
       "total_stake": 0,
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
+      "result_top3": [
+        10,
+        6,
+        11
+      ],
       "axis_name": "ユージュアーナ"
     },
     {
@@ -2007,8 +1928,8 @@
       ],
       "threshold": 10.0,
       "threshold_reason": "芝/ダート×馬場 [芝×良]",
-      "skipped": false,
-      "skip_reason": null,
+      "skipped": true,
+      "skip_reason": "相手3頭（4頭以上必要）",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
       "max_ev": 71.2774,
@@ -2181,42 +2102,16 @@
           "horse_name": "ヴァリアントマーチ"
         }
       ],
-      "buys": [
-        {
-          "combo": [
-            2,
-            5,
-            8
-          ],
-          "prob": 1.158,
-          "payout_yen": 31380.0,
-          "kelly_stake": 1000
-        },
-        {
-          "combo": [
-            2,
-            8,
-            12
-          ],
-          "prob": 1.131,
-          "payout_yen": 22880.0,
-          "kelly_stake": 800
-        },
-        {
-          "combo": [
-            5,
-            8,
-            12
-          ],
-          "prob": 1.111,
-          "payout_yen": 78450.0,
-          "kelly_stake": 1100
-        }
+      "buys": [],
+      "n_tickets": 0,
+      "total_stake": 0,
+      "kelly_total_stake": 0,
+      "kelly_n_tickets": 0,
+      "result_top3": [
+        4,
+        15,
+        2
       ],
-      "n_tickets": 3,
-      "total_stake": 300,
-      "kelly_total_stake": 2900,
-      "kelly_n_tickets": 3,
       "axis_name": "ナンナンプー"
     },
     {
@@ -2459,6 +2354,11 @@
       "total_stake": 600,
       "kelly_total_stake": 2900,
       "kelly_n_tickets": 3,
+      "result_top3": [
+        10,
+        2,
+        12
+      ],
       "axis_name": "ゲンジ"
     },
     {
@@ -2481,7 +2381,7 @@
       "threshold": 11.0,
       "threshold_reason": "芝/ダート×馬場 [ダート×良]",
       "skipped": true,
-      "skip_reason": "相手1頭<3点",
+      "skip_reason": "相手1頭（4頭以上必要）",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
       "max_ev": 15.4571,
@@ -2659,6 +2559,11 @@
       "total_stake": 0,
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
+      "result_top3": [
+        2,
+        3,
+        14
+      ],
       "axis_name": "セボンサデッセ"
     },
     {
@@ -3158,6 +3063,11 @@
       "total_stake": 2800,
       "kelly_total_stake": 2700,
       "kelly_n_tickets": 17,
+      "result_top3": [
+        6,
+        1,
+        13
+      ],
       "axis_name": "サウンドモリアーナ"
     },
     {
@@ -3178,7 +3088,7 @@
       "threshold": 11.0,
       "threshold_reason": "芝/ダート×馬場 [ダート×良]",
       "skipped": true,
-      "skip_reason": "相手0頭<3点",
+      "skip_reason": "相手0頭（4頭以上必要）",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
       "max_ev": 38.4472,
@@ -3367,6 +3277,11 @@
       "total_stake": 0,
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
+      "result_top3": [
+        5,
+        4,
+        13
+      ],
       "axis_name": "レイアポポ"
     },
     {
@@ -3587,6 +3502,11 @@
       "total_stake": 600,
       "kelly_total_stake": 2800,
       "kelly_n_tickets": 4,
+      "result_top3": [
+        5,
+        8,
+        7
+      ],
       "axis_name": "ムテキシャチョウ"
     },
     {
@@ -3610,8 +3530,8 @@
       ],
       "threshold": 10.0,
       "threshold_reason": "芝/ダート×馬場 [芝×良]",
-      "skipped": false,
-      "skip_reason": null,
+      "skipped": true,
+      "skip_reason": "相手3頭（4頭以上必要）",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
       "max_ev": 45.818,
@@ -3773,42 +3693,16 @@
           "horse_name": "ビヨンドザドリーム"
         }
       ],
-      "buys": [
-        {
-          "combo": [
-            3,
-            9,
-            12
-          ],
-          "prob": 1.241,
-          "payout_yen": 4000.0,
-          "kelly_stake": 0
-        },
-        {
-          "combo": [
-            9,
-            12,
-            14
-          ],
-          "prob": 1.171,
-          "payout_yen": 11150.0,
-          "kelly_stake": 1000
-        },
-        {
-          "combo": [
-            3,
-            9,
-            14
-          ],
-          "prob": 1.165,
-          "payout_yen": 14769.999999999998,
-          "kelly_stake": 1900
-        }
+      "buys": [],
+      "n_tickets": 0,
+      "total_stake": 0,
+      "kelly_total_stake": 0,
+      "kelly_n_tickets": 0,
+      "result_top3": [
+        12,
+        11,
+        8
       ],
-      "n_tickets": 3,
-      "total_stake": 300,
-      "kelly_total_stake": 2900,
-      "kelly_n_tickets": 2,
       "axis_name": "ダイシンラー"
     },
     {
@@ -3831,7 +3725,7 @@
       "threshold": 11.0,
       "threshold_reason": "芝/ダート×馬場 [ダート×良]",
       "skipped": true,
-      "skip_reason": "相手1頭<3点",
+      "skip_reason": "相手1頭（4頭以上必要）",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
       "max_ev": 13.3424,
@@ -4009,6 +3903,11 @@
       "total_stake": 0,
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
+      "result_top3": [
+        9,
+        2,
+        15
+      ],
       "axis_name": "カンピドリオ"
     },
     {
@@ -4032,8 +3931,8 @@
       ],
       "threshold": 10.0,
       "threshold_reason": "芝/ダート×馬場 [芝×良]",
-      "skipped": false,
-      "skip_reason": null,
+      "skipped": true,
+      "skip_reason": "相手3頭（4頭以上必要）",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
       "max_ev": 6.216,
@@ -4162,42 +4061,16 @@
           "horse_name": "リッチブラック"
         }
       ],
-      "buys": [
-        {
-          "combo": [
-            2,
-            8,
-            11
-          ],
-          "prob": 3.62,
-          "payout_yen": 810.0,
-          "kelly_stake": 0
-        },
-        {
-          "combo": [
-            2,
-            4,
-            8
-          ],
-          "prob": 3.572,
-          "payout_yen": 1330.0,
-          "kelly_stake": 0
-        },
-        {
-          "combo": [
-            2,
-            4,
-            11
-          ],
-          "prob": 3.03,
-          "payout_yen": 3900.0,
-          "kelly_stake": 3000
-        }
+      "buys": [],
+      "n_tickets": 0,
+      "total_stake": 0,
+      "kelly_total_stake": 0,
+      "kelly_n_tickets": 0,
+      "result_top3": [
+        1,
+        8,
+        6
       ],
-      "n_tickets": 3,
-      "total_stake": 300,
-      "kelly_total_stake": 3000,
-      "kelly_n_tickets": 1,
       "axis_name": "ピックデムッシュ"
     },
     {
@@ -4218,7 +4091,7 @@
       "threshold": 10.0,
       "threshold_reason": "芝/ダート×馬場 [芝×良]",
       "skipped": true,
-      "skip_reason": "相手0頭<3点",
+      "skip_reason": "相手0頭（4頭以上必要）",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
       "max_ev": 26.8444,
@@ -4429,6 +4302,11 @@
       "total_stake": 0,
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
+      "result_top3": [
+        5,
+        17,
+        2
+      ],
       "axis_name": "ショウナンラピダス"
     },
     {
@@ -4451,7 +4329,7 @@
       "threshold": 10.0,
       "threshold_reason": "グレード [G2]",
       "skipped": true,
-      "skip_reason": "相手1頭<3点",
+      "skip_reason": "相手1頭（4頭以上必要）",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
       "max_ev": 20.129,
@@ -4662,6 +4540,11 @@
       "total_stake": 0,
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
+      "result_top3": [
+        9,
+        1,
+        7
+      ],
       "axis_name": "ウォーターリヒト"
     },
     {
@@ -4685,8 +4568,8 @@
       ],
       "threshold": 11.0,
       "threshold_reason": "芝/ダート×馬場 [ダート×良]",
-      "skipped": false,
-      "skip_reason": null,
+      "skipped": true,
+      "skip_reason": "相手3頭（4頭以上必要）",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
       "max_ev": 16.7251,
@@ -4848,42 +4731,16 @@
           "horse_name": "シホノペルフェット"
         }
       ],
-      "buys": [
-        {
-          "combo": [
-            9,
-            10,
-            12
-          ],
-          "prob": 1.631,
-          "payout_yen": 2380.0,
-          "kelly_stake": 0
-        },
-        {
-          "combo": [
-            9,
-            10,
-            13
-          ],
-          "prob": 1.563,
-          "payout_yen": 19330.0,
-          "kelly_stake": 1400
-        },
-        {
-          "combo": [
-            10,
-            12,
-            13
-          ],
-          "prob": 1.511,
-          "payout_yen": 27089.999999999996,
-          "kelly_stake": 1500
-        }
+      "buys": [],
+      "n_tickets": 0,
+      "total_stake": 0,
+      "kelly_total_stake": 0,
+      "kelly_n_tickets": 0,
+      "result_top3": [
+        6,
+        12,
+        3
       ],
-      "n_tickets": 3,
-      "total_stake": 300,
-      "kelly_total_stake": 2900,
-      "kelly_n_tickets": 2,
       "axis_name": "ショーダンサー"
     }
   ]
