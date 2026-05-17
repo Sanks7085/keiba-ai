@@ -1,7 +1,7 @@
 {
   "date": "2026-05-17",
   "venue_filter": null,
-  "generated_at": "2026-05-17T13:45:09.760159",
+  "generated_at": "2026-05-17T13:55:22.108075",
   "n_races": 20,
   "races": [
     {
@@ -1984,7 +1984,7 @@
       "track_condition": "良",
       "weather": "晴",
       "num_runners": 12,
-      "start_time": "14:25",
+      "start_time": null,
       "venue_name": "東京",
       "axis": 12,
       "partners": [
