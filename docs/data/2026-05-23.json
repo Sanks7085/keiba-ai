@@ -1,7 +1,7 @@
 {
   "date": "2026-05-23",
   "venue_filter": null,
-  "generated_at": "2026-05-23T13:50:25.553495",
+  "generated_at": "2026-05-23T14:01:21.383886",
   "n_races": 19,
   "races": [
     {
@@ -633,6 +633,228 @@
       "result_top3": [],
       "result_payout": null,
       "axis_name": "マディソンガール"
+    },
+    {
+      "race_id": "202608030909",
+      "race_number": 9,
+      "race_name": "メルボルンT",
+      "race_class": null,
+      "race_level": "その他",
+      "surface": "芝",
+      "distance_m": 1600,
+      "track_condition": "良",
+      "weather": "曇",
+      "num_runners": 11,
+      "start_time": null,
+      "venue_name": "京都",
+      "axis": 6,
+      "partners": [
+        4,
+        2,
+        3,
+        10
+      ],
+      "threshold": 10.0,
+      "threshold_reason": "芝/ダート×馬場 [芝×良]",
+      "skipped": false,
+      "skip_reason": null,
+      "in_f4": true,
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 0.0,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": false,
+      "horses": [
+        {
+          "horse_number": 6,
+          "jockey_name": "北村友",
+          "trainer_name": "栗東矢作",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 16.58,
+          "combo_total": 44.624,
+          "jockey_top3_rate": 0.0,
+          "horse_name": "スウィッチインラヴ"
+        },
+        {
+          "horse_number": 4,
+          "jockey_name": "西村淳",
+          "trainer_name": "栗東池添",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 15.42,
+          "combo_total": 42.601,
+          "jockey_top3_rate": 0.5,
+          "horse_name": "パーシャングレー"
+        },
+        {
+          "horse_number": 2,
+          "jockey_name": "松山",
+          "trainer_name": "栗東宮地",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 13.7,
+          "combo_total": 39.326,
+          "jockey_top3_rate": 0.5,
+          "horse_name": "テイエムアイラン"
+        },
+        {
+          "horse_number": 3,
+          "jockey_name": "吉村",
+          "trainer_name": "栗東清水久",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 13.12,
+          "combo_total": 38.166,
+          "jockey_top3_rate": 0.1,
+          "horse_name": "オックスアイ"
+        },
+        {
+          "horse_number": 10,
+          "jockey_name": "高杉",
+          "trainer_name": "栗東吉岡",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 10.24,
+          "combo_total": 31.808,
+          "jockey_top3_rate": 0.333,
+          "horse_name": "ナルキッソス"
+        },
+        {
+          "horse_number": 7,
+          "jockey_name": "武豊",
+          "trainer_name": "栗東吉村",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 9.67,
+          "combo_total": 30.417,
+          "jockey_top3_rate": 0.377,
+          "horse_name": "エイシンティザー"
+        },
+        {
+          "horse_number": 5,
+          "jockey_name": "岩田望",
+          "trainer_name": "栗東高橋一",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 8.52,
+          "combo_total": 27.509,
+          "jockey_top3_rate": 0.3,
+          "horse_name": "リアンマヒナ"
+        },
+        {
+          "horse_number": 1,
+          "jockey_name": "団野",
+          "trainer_name": "栗東杉山晴",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 6.21,
+          "combo_total": 21.157,
+          "jockey_top3_rate": 0.364,
+          "horse_name": "ジャスティンルマン"
+        },
+        {
+          "horse_number": 11,
+          "jockey_name": "田口",
+          "trainer_name": "栗東大橋",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 2.76,
+          "combo_total": 10.165,
+          "jockey_top3_rate": 0.3,
+          "horse_name": "ナムラヒナギク"
+        },
+        {
+          "horse_number": 9,
+          "jockey_name": "松若",
+          "trainer_name": "栗東高橋康",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 2.18,
+          "combo_total": 8.149,
+          "jockey_top3_rate": 0.125,
+          "horse_name": "ポペット"
+        },
+        {
+          "horse_number": 8,
+          "jockey_name": "酒井",
+          "trainer_name": "栗東加藤公",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 1.61,
+          "combo_total": 6.078,
+          "jockey_top3_rate": 0.444,
+          "horse_name": "ペイシャシス"
+        }
+      ],
+      "buys": [
+        {
+          "combo": [
+            2,
+            4,
+            6
+          ],
+          "prob": 3.123,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            3,
+            4,
+            6
+          ],
+          "prob": 2.992,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            2,
+            3,
+            6
+          ],
+          "prob": 2.657,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            4,
+            6,
+            10
+          ],
+          "prob": 2.335,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            2,
+            6,
+            10
+          ],
+          "prob": 2.074,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            3,
+            6,
+            10
+          ],
+          "prob": 1.987,
+          "payout_yen": null,
+          "kelly_stake": 0
+        }
+      ],
+      "n_tickets": 6,
+      "total_stake": 600,
+      "kelly_total_stake": 0,
+      "kelly_n_tickets": 0,
+      "result_top3": [],
+      "result_payout": null,
+      "axis_name": "スウィッチインラヴ"
     },
     {
       "race_id": "202604010708",
@@ -1858,228 +2080,6 @@
       "result_top3": [],
       "result_payout": null,
       "axis_name": "スカイストライプス"
-    },
-    {
-      "race_id": "202608030909",
-      "race_number": 9,
-      "race_name": "メルボルンT",
-      "race_class": null,
-      "race_level": "その他",
-      "surface": "芝",
-      "distance_m": 1600,
-      "track_condition": "良",
-      "weather": "曇",
-      "num_runners": 11,
-      "start_time": "14:31",
-      "venue_name": "京都",
-      "axis": 6,
-      "partners": [
-        4,
-        2,
-        3,
-        10
-      ],
-      "threshold": 10.0,
-      "threshold_reason": "芝/ダート×馬場 [芝×良]",
-      "skipped": false,
-      "skip_reason": null,
-      "in_f4": true,
-      "f4_reason": "F4撤回(撤回後は全レース対象)",
-      "max_ev": 0.0,
-      "race_ev_threshold": 2.5,
-      "passes_ev_filter": false,
-      "horses": [
-        {
-          "horse_number": 6,
-          "jockey_name": "北村友",
-          "trainer_name": "栗東矢作",
-          "odds_win": null,
-          "popularity": null,
-          "rel_prob": 16.58,
-          "combo_total": 44.624,
-          "jockey_top3_rate": 0.0,
-          "horse_name": "スウィッチインラヴ"
-        },
-        {
-          "horse_number": 4,
-          "jockey_name": "西村淳",
-          "trainer_name": "栗東池添",
-          "odds_win": null,
-          "popularity": null,
-          "rel_prob": 15.42,
-          "combo_total": 42.601,
-          "jockey_top3_rate": 0.5,
-          "horse_name": "パーシャングレー"
-        },
-        {
-          "horse_number": 2,
-          "jockey_name": "松山",
-          "trainer_name": "栗東宮地",
-          "odds_win": null,
-          "popularity": null,
-          "rel_prob": 13.7,
-          "combo_total": 39.326,
-          "jockey_top3_rate": 0.5,
-          "horse_name": "テイエムアイラン"
-        },
-        {
-          "horse_number": 3,
-          "jockey_name": "吉村",
-          "trainer_name": "栗東清水久",
-          "odds_win": null,
-          "popularity": null,
-          "rel_prob": 13.12,
-          "combo_total": 38.166,
-          "jockey_top3_rate": 0.1,
-          "horse_name": "オックスアイ"
-        },
-        {
-          "horse_number": 10,
-          "jockey_name": "高杉",
-          "trainer_name": "栗東吉岡",
-          "odds_win": null,
-          "popularity": null,
-          "rel_prob": 10.24,
-          "combo_total": 31.808,
-          "jockey_top3_rate": 0.333,
-          "horse_name": "ナルキッソス"
-        },
-        {
-          "horse_number": 7,
-          "jockey_name": "武豊",
-          "trainer_name": "栗東吉村",
-          "odds_win": null,
-          "popularity": null,
-          "rel_prob": 9.67,
-          "combo_total": 30.417,
-          "jockey_top3_rate": 0.377,
-          "horse_name": "エイシンティザー"
-        },
-        {
-          "horse_number": 5,
-          "jockey_name": "岩田望",
-          "trainer_name": "栗東高橋一",
-          "odds_win": null,
-          "popularity": null,
-          "rel_prob": 8.52,
-          "combo_total": 27.509,
-          "jockey_top3_rate": 0.3,
-          "horse_name": "リアンマヒナ"
-        },
-        {
-          "horse_number": 1,
-          "jockey_name": "団野",
-          "trainer_name": "栗東杉山晴",
-          "odds_win": null,
-          "popularity": null,
-          "rel_prob": 6.21,
-          "combo_total": 21.157,
-          "jockey_top3_rate": 0.364,
-          "horse_name": "ジャスティンルマン"
-        },
-        {
-          "horse_number": 11,
-          "jockey_name": "田口",
-          "trainer_name": "栗東大橋",
-          "odds_win": null,
-          "popularity": null,
-          "rel_prob": 2.76,
-          "combo_total": 10.165,
-          "jockey_top3_rate": 0.3,
-          "horse_name": "ナムラヒナギク"
-        },
-        {
-          "horse_number": 9,
-          "jockey_name": "松若",
-          "trainer_name": "栗東高橋康",
-          "odds_win": null,
-          "popularity": null,
-          "rel_prob": 2.18,
-          "combo_total": 8.149,
-          "jockey_top3_rate": 0.125,
-          "horse_name": "ポペット"
-        },
-        {
-          "horse_number": 8,
-          "jockey_name": "酒井",
-          "trainer_name": "栗東加藤公",
-          "odds_win": null,
-          "popularity": null,
-          "rel_prob": 1.61,
-          "combo_total": 6.078,
-          "jockey_top3_rate": 0.444,
-          "horse_name": "ペイシャシス"
-        }
-      ],
-      "buys": [
-        {
-          "combo": [
-            2,
-            4,
-            6
-          ],
-          "prob": 3.123,
-          "payout_yen": null,
-          "kelly_stake": 0
-        },
-        {
-          "combo": [
-            3,
-            4,
-            6
-          ],
-          "prob": 2.992,
-          "payout_yen": null,
-          "kelly_stake": 0
-        },
-        {
-          "combo": [
-            2,
-            3,
-            6
-          ],
-          "prob": 2.657,
-          "payout_yen": null,
-          "kelly_stake": 0
-        },
-        {
-          "combo": [
-            4,
-            6,
-            10
-          ],
-          "prob": 2.335,
-          "payout_yen": null,
-          "kelly_stake": 0
-        },
-        {
-          "combo": [
-            2,
-            6,
-            10
-          ],
-          "prob": 2.074,
-          "payout_yen": null,
-          "kelly_stake": 0
-        },
-        {
-          "combo": [
-            3,
-            6,
-            10
-          ],
-          "prob": 1.987,
-          "payout_yen": null,
-          "kelly_stake": 0
-        }
-      ],
-      "n_tickets": 6,
-      "total_stake": 600,
-      "kelly_total_stake": 0,
-      "kelly_n_tickets": 0,
-      "result_top3": [],
-      "result_payout": null,
-      "axis_name": "スウィッチインラヴ"
     },
     {
       "race_id": "202604010710",
