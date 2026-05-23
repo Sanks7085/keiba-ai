@@ -1,6 +1,6 @@
 {
   "date": "2026-05-23",
-  "generated_at": "2026-05-23T14:47:14",
+  "generated_at": "2026-05-23T14:50:56",
   "ev_thr": 1.25,
   "odds_cap": 50,
   "n_bets": 3,
@@ -620,7 +620,7 @@
       "venue": "京都",
       "race_number": 10,
       "race_class": "OP",
-      "start_time": "15:05",
+      "start_time": "nan",
       "distance_m": 2000,
       "surface": "芝",
       "horses": [
@@ -2399,7 +2399,7 @@
       "venue": "東京",
       "race_number": 10,
       "race_class": "OP",
-      "start_time": "14:55",
+      "start_time": "nan",
       "distance_m": 1400,
       "surface": "芝",
       "horses": [
