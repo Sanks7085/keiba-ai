@@ -1,6 +1,6 @@
 {
   "date": "2026-05-24",
-  "generated_at": "2026-05-24T12:35:59",
+  "generated_at": "2026-05-24T12:45:59",
   "ev_thr": 1.25,
   "odds_cap": 50,
   "n_bets": 1,
@@ -273,7 +273,7 @@
       "venue": "京都",
       "race_number": 7,
       "race_class": "1勝クラス",
-      "start_time": "13:10",
+      "start_time": "nan",
       "distance_m": 1400,
       "surface": "芝",
       "horses": [
