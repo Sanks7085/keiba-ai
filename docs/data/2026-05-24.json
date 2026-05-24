@@ -1,7 +1,7 @@
 {
   "date": "2026-05-24",
   "venue_filter": null,
-  "generated_at": "2026-05-24T15:40:25.028528",
+  "generated_at": "2026-05-24T16:00:25.452452",
   "n_races": 21,
   "races": [
     {
@@ -5149,9 +5149,9 @@
       "surface": "ダート",
       "distance_m": 2100,
       "track_condition": "不明",
-      "weather": "晴",
+      "weather": "曇",
       "num_runners": 16,
-      "start_time": "16:30",
+      "start_time": null,
       "venue_name": "東京",
       "axis": 7,
       "partners": [
