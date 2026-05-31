@@ -1,6 +1,6 @@
 {
   "date": "2026-05-31",
-  "generated_at": "2026-05-31T12:20:46",
+  "generated_at": "2026-05-31T12:36:03",
   "ev_thr": 1.25,
   "odds_cap": 50,
   "n_bets": 0,
@@ -11,7 +11,7 @@
       "venue": "京都",
       "race_number": 6,
       "race_class": "1勝クラス",
-      "start_time": "12:55",
+      "start_time": "nan",
       "distance_m": 1400,
       "surface": "ダート",
       "horses": [
