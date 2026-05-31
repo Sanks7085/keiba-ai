@@ -1,6 +1,6 @@
 {
   "date": "2026-05-31",
-  "generated_at": "2026-05-31T11:21:00",
+  "generated_at": "2026-05-31T12:05:58",
   "ev_thr": 1.25,
   "odds_cap": 50,
   "n_bets": 0,
@@ -871,7 +871,7 @@
       "venue": "東京",
       "race_number": 5,
       "race_class": "1勝クラス",
-      "start_time": "12:10",
+      "start_time": "nan",
       "distance_m": 1400,
       "surface": "ダート",
       "horses": [
