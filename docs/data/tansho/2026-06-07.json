@@ -1,6 +1,6 @@
 {
   "date": "2026-06-07",
-  "generated_at": "2026-06-07T12:50:52",
+  "generated_at": "2026-06-07T13:05:31",
   "ev_thr": 1.25,
   "odds_cap": 50,
   "n_bets": 0,
@@ -11,7 +11,7 @@
       "venue": "東京",
       "race_number": 7,
       "race_class": "1勝クラス",
-      "start_time": "13:25",
+      "start_time": "nan",
       "distance_m": 1400,
       "surface": "ダート",
       "horses": [
