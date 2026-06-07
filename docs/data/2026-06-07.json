@@ -1,7 +1,7 @@
 {
   "date": "2026-06-07",
   "venue_filter": null,
-  "generated_at": "2026-06-07T12:55:32.215606",
+  "generated_at": "2026-06-07T13:10:12.688299",
   "n_races": 12,
   "races": [
     {
@@ -436,19 +436,21 @@
       "race_level": "1勝クラス",
       "surface": "芝",
       "distance_m": 1400,
-      "track_condition": "良",
+      "track_condition": "不明",
       "weather": "雨",
       "num_runners": 18,
-      "start_time": "13:40",
+      "start_time": null,
       "venue_name": "阪神",
       "axis": 16,
       "partners": [
-        14
+        14,
+        6,
+        12
       ],
-      "threshold": 10.0,
-      "threshold_reason": "芝/ダート×馬場 [芝×良]",
+      "threshold": 8.5,
+      "threshold_reason": "芝/ダート [芝]",
       "skipped": true,
-      "skip_reason": "相手1頭（4頭以上必要）",
+      "skip_reason": "相手3頭（4頭以上必要）",
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
       "max_ev": 0.0,
