@@ -1,7 +1,7 @@
 {
   "date": "2026-06-07",
   "venue_filter": null,
-  "generated_at": "2026-06-07T14:31:32.053545",
+  "generated_at": "2026-06-07T14:50:11.514957",
   "n_races": 12,
   "races": [
     {
@@ -1712,10 +1712,10 @@
       "race_level": "OP",
       "surface": "ダート",
       "distance_m": 1200,
-      "track_condition": "良",
+      "track_condition": "不明",
       "weather": "雨",
       "num_runners": 16,
-      "start_time": "15:20",
+      "start_time": null,
       "venue_name": "阪神",
       "axis": 6,
       "partners": [
