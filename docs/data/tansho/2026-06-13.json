@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated_at": "2026-06-13T12:36:04",
+  "generated_at": "2026-06-13T12:45:56",
   "ev_thr": 1.25,
   "odds_cap": 50,
   "n_bets": 0,
@@ -1473,7 +1473,7 @@
       "venue": "阪神",
       "race_number": 7,
       "race_class": "1勝クラス",
-      "start_time": "13:10",
+      "start_time": "nan",
       "distance_m": 1800,
       "surface": "ダート",
       "horses": [
