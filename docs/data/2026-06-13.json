@@ -1,7 +1,7 @@
 {
   "date": "2026-06-13",
   "venue_filter": null,
-  "generated_at": "2026-06-13T14:01:33.697433",
+  "generated_at": "2026-06-13T14:16:02.211918",
   "n_races": 17,
   "races": [
     {
@@ -1681,7 +1681,7 @@
       "track_condition": "良",
       "weather": "晴",
       "num_runners": 16,
-      "start_time": "14:45",
+      "start_time": null,
       "venue_name": "阪神",
       "axis": 8,
       "partners": [],
