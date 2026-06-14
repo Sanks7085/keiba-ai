@@ -1,0 +1,2523 @@
+{
+  "date": "2026-06-14",
+  "generated_at": "2026-06-14T14:45:18",
+  "ev_thr": 1.25,
+  "odds_cap": 50,
+  "n_bets": 3,
+  "bets": [
+    {
+      "venue": "函館",
+      "race_number": 8,
+      "race_class": "1勝クラス",
+      "start_time": "13:35",
+      "distance_m": 1200,
+      "surface": "芝",
+      "horse_number": 6,
+      "popularity": 8,
+      "p_win": 0.0477,
+      "fair_odds": 21.0,
+      "odds_win": 32.3,
+      "ev": 1.54
+    },
+    {
+      "venue": "函館",
+      "race_number": 8,
+      "race_class": "1勝クラス",
+      "start_time": "13:35",
+      "distance_m": 1200,
+      "surface": "芝",
+      "horse_number": 1,
+      "popularity": 7,
+      "p_win": 0.0536,
+      "fair_odds": 18.6,
+      "odds_win": 23.7,
+      "ev": 1.271
+    },
+    {
+      "venue": "函館",
+      "race_number": 9,
+      "race_class": "OP",
+      "start_time": "14:05",
+      "distance_m": 1800,
+      "surface": "芝",
+      "horse_number": 7,
+      "popularity": 6,
+      "p_win": 0.0881,
+      "fair_odds": 11.4,
+      "odds_win": 19.3,
+      "ev": 1.7
+    }
+  ],
+  "races": [
+    {
+      "race_id": "202602010207",
+      "venue": "函館",
+      "race_number": 7,
+      "race_class": "1勝クラス",
+      "start_time": "13:05",
+      "distance_m": 1000,
+      "surface": "ダート",
+      "horses": [
+        {
+          "horse_number": 9,
+          "popularity": 1,
+          "p_win": 0.3558,
+          "fair_odds": 2.8,
+          "odds_win": 3.1,
+          "ev": 1.103,
+          "is_buy": false
+        },
+        {
+          "horse_number": 11,
+          "popularity": 10,
+          "p_win": 0.024,
+          "fair_odds": 41.7,
+          "odds_win": 42.4,
+          "ev": 1.016,
+          "is_buy": false
+        },
+        {
+          "horse_number": 6,
+          "popularity": 9,
+          "p_win": 0.024,
+          "fair_odds": 41.7,
+          "odds_win": 39.7,
+          "ev": 0.951,
+          "is_buy": false
+        },
+        {
+          "horse_number": 1,
+          "popularity": 7,
+          "p_win": 0.0536,
+          "fair_odds": 18.6,
+          "odds_win": 16.0,
+          "ev": 0.858,
+          "is_buy": false
+        },
+        {
+          "horse_number": 4,
+          "popularity": 11,
+          "p_win": 0.0073,
+          "fair_odds": 136.4,
+          "odds_win": 116.3,
+          "ev": 0.852,
+          "is_buy": false
+        },
+        {
+          "horse_number": 2,
+          "popularity": 5,
+          "p_win": 0.0989,
+          "fair_odds": 10.1,
+          "odds_win": 8.1,
+          "ev": 0.801,
+          "is_buy": false
+        },
+        {
+          "horse_number": 12,
+          "popularity": 4,
+          "p_win": 0.1023,
+          "fair_odds": 9.8,
+          "odds_win": 7.6,
+          "ev": 0.777,
+          "is_buy": false
+        },
+        {
+          "horse_number": 10,
+          "popularity": 8,
+          "p_win": 0.0267,
+          "fair_odds": 37.4,
+          "odds_win": 28.6,
+          "ev": 0.765,
+          "is_buy": false
+        },
+        {
+          "horse_number": 7,
+          "popularity": 6,
+          "p_win": 0.0497,
+          "fair_odds": 20.1,
+          "odds_win": 15.0,
+          "ev": 0.745,
+          "is_buy": false
+        },
+        {
+          "horse_number": 3,
+          "popularity": 2,
+          "p_win": 0.1905,
+          "fair_odds": 5.2,
+          "odds_win": 3.6,
+          "ev": 0.686,
+          "is_buy": false
+        },
+        {
+          "horse_number": 8,
+          "popularity": 3,
+          "p_win": 0.1076,
+          "fair_odds": 9.3,
+          "odds_win": 5.6,
+          "ev": 0.602,
+          "is_buy": false
+        },
+        {
+          "horse_number": 5,
+          "popularity": 12,
+          "p_win": 0.0018,
+          "fair_odds": 543.3,
+          "odds_win": 321.7,
+          "ev": 0.592,
+          "is_buy": false
+        }
+      ]
+    },
+    {
+      "race_id": "202602010208",
+      "venue": "函館",
+      "race_number": 8,
+      "race_class": "1勝クラス",
+      "start_time": "13:35",
+      "distance_m": 1200,
+      "surface": "芝",
+      "horses": [
+        {
+          "horse_number": 6,
+          "popularity": 8,
+          "p_win": 0.0477,
+          "fair_odds": 21.0,
+          "odds_win": 32.3,
+          "ev": 1.54,
+          "is_buy": true
+        },
+        {
+          "horse_number": 1,
+          "popularity": 7,
+          "p_win": 0.0536,
+          "fair_odds": 18.6,
+          "odds_win": 23.7,
+          "ev": 1.271,
+          "is_buy": true
+        },
+        {
+          "horse_number": 2,
+          "popularity": 6,
+          "p_win": 0.0536,
+          "fair_odds": 18.6,
+          "odds_win": 18.2,
+          "ev": 0.976,
+          "is_buy": false
+        },
+        {
+          "horse_number": 11,
+          "popularity": 2,
+          "p_win": 0.1591,
+          "fair_odds": 6.3,
+          "odds_win": 6.1,
+          "ev": 0.971,
+          "is_buy": false
+        },
+        {
+          "horse_number": 7,
+          "popularity": 13,
+          "p_win": 0.0073,
+          "fair_odds": 136.4,
+          "odds_win": 126.9,
+          "ev": 0.93,
+          "is_buy": false
+        },
+        {
+          "horse_number": 8,
+          "popularity": 5,
+          "p_win": 0.0536,
+          "fair_odds": 18.6,
+          "odds_win": 17.0,
+          "ev": 0.912,
+          "is_buy": false
+        },
+        {
+          "horse_number": 4,
+          "popularity": 10,
+          "p_win": 0.024,
+          "fair_odds": 41.7,
+          "odds_win": 36.3,
+          "ev": 0.87,
+          "is_buy": false
+        },
+        {
+          "horse_number": 13,
+          "popularity": 1,
+          "p_win": 0.483,
+          "fair_odds": 2.1,
+          "odds_win": 1.8,
+          "ev": 0.869,
+          "is_buy": false
+        },
+        {
+          "horse_number": 12,
+          "popularity": 9,
+          "p_win": 0.024,
+          "fair_odds": 41.7,
+          "odds_win": 33.0,
+          "ev": 0.791,
+          "is_buy": false
+        },
+        {
+          "horse_number": 10,
+          "popularity": 3,
+          "p_win": 0.1076,
+          "fair_odds": 9.3,
+          "odds_win": 7.2,
+          "ev": 0.774,
+          "is_buy": false
+        },
+        {
+          "horse_number": 5,
+          "popularity": 12,
+          "p_win": 0.0073,
+          "fair_odds": 136.4,
+          "odds_win": 104.9,
+          "ev": 0.769,
+          "is_buy": false
+        },
+        {
+          "horse_number": 3,
+          "popularity": 4,
+          "p_win": 0.0881,
+          "fair_odds": 11.4,
+          "odds_win": 8.1,
+          "ev": 0.713,
+          "is_buy": false
+        },
+        {
+          "horse_number": 9,
+          "popularity": 11,
+          "p_win": 0.0073,
+          "fair_odds": 136.4,
+          "odds_win": 88.2,
+          "ev": 0.646,
+          "is_buy": false
+        }
+      ]
+    },
+    {
+      "race_id": "202602010209",
+      "venue": "函館",
+      "race_number": 9,
+      "race_class": "OP",
+      "start_time": "14:05",
+      "distance_m": 1800,
+      "surface": "芝",
+      "horses": [
+        {
+          "horse_number": 7,
+          "popularity": 6,
+          "p_win": 0.0881,
+          "fair_odds": 11.4,
+          "odds_win": 19.3,
+          "ev": 1.7,
+          "is_buy": true
+        },
+        {
+          "horse_number": 5,
+          "popularity": 1,
+          "p_win": 0.627,
+          "fair_odds": 1.6,
+          "odds_win": 1.6,
+          "ev": 1.003,
+          "is_buy": false
+        },
+        {
+          "horse_number": 1,
+          "popularity": 7,
+          "p_win": 0.0429,
+          "fair_odds": 23.3,
+          "odds_win": 22.9,
+          "ev": 0.982,
+          "is_buy": false
+        },
+        {
+          "horse_number": 3,
+          "popularity": 5,
+          "p_win": 0.0536,
+          "fair_odds": 18.6,
+          "odds_win": 17.4,
+          "ev": 0.933,
+          "is_buy": false
+        },
+        {
+          "horse_number": 6,
+          "popularity": 4,
+          "p_win": 0.0949,
+          "fair_odds": 10.5,
+          "odds_win": 9.7,
+          "ev": 0.92,
+          "is_buy": false
+        },
+        {
+          "horse_number": 10,
+          "popularity": 2,
+          "p_win": 0.1591,
+          "fair_odds": 6.3,
+          "odds_win": 4.5,
+          "ev": 0.716,
+          "is_buy": false
+        },
+        {
+          "horse_number": 4,
+          "popularity": 3,
+          "p_win": 0.1023,
+          "fair_odds": 9.8,
+          "odds_win": 6.4,
+          "ev": 0.655,
+          "is_buy": false
+        },
+        {
+          "horse_number": 8,
+          "popularity": 8,
+          "p_win": 0.0092,
+          "fair_odds": 109.0,
+          "odds_win": 69.1,
+          "ev": 0.634,
+          "is_buy": false
+        },
+        {
+          "horse_number": 2,
+          "popularity": 10,
+          "p_win": 0.0018,
+          "fair_odds": 543.3,
+          "odds_win": 248.5,
+          "ev": 0.457,
+          "is_buy": false
+        },
+        {
+          "horse_number": 9,
+          "popularity": 9,
+          "p_win": 0.0018,
+          "fair_odds": 543.3,
+          "odds_win": 163.4,
+          "ev": 0.301,
+          "is_buy": false
+        }
+      ]
+    },
+    {
+      "race_id": "202602010210",
+      "venue": "函館",
+      "race_number": 10,
+      "race_class": "OP",
+      "start_time": "nan",
+      "distance_m": 1700,
+      "surface": "ダート",
+      "horses": [
+        {
+          "horse_number": 1,
+          "popularity": null,
+          "p_win": 0.4545,
+          "fair_odds": 2.2,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 2,
+          "popularity": null,
+          "p_win": 0.483,
+          "fair_odds": 2.1,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 3,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 4,
+          "popularity": null,
+          "p_win": 0.483,
+          "fair_odds": 2.1,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 5,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 6,
+          "popularity": null,
+          "p_win": 0.483,
+          "fair_odds": 2.1,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 7,
+          "popularity": null,
+          "p_win": 0.4545,
+          "fair_odds": 2.2,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 8,
+          "popularity": null,
+          "p_win": 0.483,
+          "fair_odds": 2.1,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 9,
+          "popularity": null,
+          "p_win": 0.483,
+          "fair_odds": 2.1,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 10,
+          "popularity": null,
+          "p_win": 0.4545,
+          "fair_odds": 2.2,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 11,
+          "popularity": null,
+          "p_win": 0.483,
+          "fair_odds": 2.1,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 12,
+          "popularity": null,
+          "p_win": 0.483,
+          "fair_odds": 2.1,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        }
+      ]
+    },
+    {
+      "race_id": "202602010211",
+      "venue": "函館",
+      "race_number": 11,
+      "race_class": "OP",
+      "start_time": "15:15",
+      "distance_m": 1200,
+      "surface": "芝",
+      "horses": [
+        {
+          "horse_number": 1,
+          "popularity": null,
+          "p_win": 0.3558,
+          "fair_odds": 2.8,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 2,
+          "popularity": null,
+          "p_win": 0.3558,
+          "fair_odds": 2.8,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 3,
+          "popularity": null,
+          "p_win": 0.3558,
+          "fair_odds": 2.8,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 4,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 5,
+          "popularity": null,
+          "p_win": 0.2518,
+          "fair_odds": 4.0,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 6,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 7,
+          "popularity": null,
+          "p_win": 0.3558,
+          "fair_odds": 2.8,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 8,
+          "popularity": null,
+          "p_win": 0.4545,
+          "fair_odds": 2.2,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 9,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 10,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 11,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 12,
+          "popularity": null,
+          "p_win": 0.4545,
+          "fair_odds": 2.2,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 13,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 14,
+          "popularity": null,
+          "p_win": 0.4545,
+          "fair_odds": 2.2,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 15,
+          "popularity": null,
+          "p_win": 0.3558,
+          "fair_odds": 2.8,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 16,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        }
+      ]
+    },
+    {
+      "race_id": "202602010212",
+      "venue": "函館",
+      "race_number": 12,
+      "race_class": "1勝クラス",
+      "start_time": "16:05",
+      "distance_m": 1700,
+      "surface": "ダート",
+      "horses": [
+        {
+          "horse_number": 1,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 2,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 3,
+          "popularity": null,
+          "p_win": 0.3558,
+          "fair_odds": 2.8,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 4,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 5,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 6,
+          "popularity": null,
+          "p_win": 0.4545,
+          "fair_odds": 2.2,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 7,
+          "popularity": null,
+          "p_win": 0.483,
+          "fair_odds": 2.1,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 8,
+          "popularity": null,
+          "p_win": 0.483,
+          "fair_odds": 2.1,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 9,
+          "popularity": null,
+          "p_win": 0.483,
+          "fair_odds": 2.1,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 10,
+          "popularity": null,
+          "p_win": 0.483,
+          "fair_odds": 2.1,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        }
+      ]
+    },
+    {
+      "race_id": "202605030406",
+      "venue": "東京",
+      "race_number": 6,
+      "race_class": "1勝クラス",
+      "start_time": "12:45",
+      "distance_m": 2100,
+      "surface": "ダート",
+      "horses": [
+        {
+          "horse_number": 3,
+          "popularity": 7,
+          "p_win": 0.0477,
+          "fair_odds": 21.0,
+          "odds_win": 21.7,
+          "ev": 1.035,
+          "is_buy": false
+        },
+        {
+          "horse_number": 16,
+          "popularity": 9,
+          "p_win": 0.0267,
+          "fair_odds": 37.4,
+          "odds_win": 38.7,
+          "ev": 1.035,
+          "is_buy": false
+        },
+        {
+          "horse_number": 5,
+          "popularity": 8,
+          "p_win": 0.0271,
+          "fair_odds": 36.9,
+          "odds_win": 32.2,
+          "ev": 0.873,
+          "is_buy": false
+        },
+        {
+          "horse_number": 8,
+          "popularity": 5,
+          "p_win": 0.0949,
+          "fair_odds": 10.5,
+          "odds_win": 9.2,
+          "ev": 0.873,
+          "is_buy": false
+        },
+        {
+          "horse_number": 10,
+          "popularity": 1,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": 2.0,
+          "ev": 0.784,
+          "is_buy": false
+        },
+        {
+          "horse_number": 13,
+          "popularity": 2,
+          "p_win": 0.0949,
+          "fair_odds": 10.5,
+          "odds_win": 7.9,
+          "ev": 0.749,
+          "is_buy": false
+        },
+        {
+          "horse_number": 1,
+          "popularity": 3,
+          "p_win": 0.0881,
+          "fair_odds": 11.4,
+          "odds_win": 7.9,
+          "ev": 0.696,
+          "is_buy": false
+        },
+        {
+          "horse_number": 12,
+          "popularity": 6,
+          "p_win": 0.0654,
+          "fair_odds": 15.3,
+          "odds_win": 10.1,
+          "ev": 0.661,
+          "is_buy": false
+        },
+        {
+          "horse_number": 2,
+          "popularity": 12,
+          "p_win": 0.0092,
+          "fair_odds": 109.0,
+          "odds_win": 57.7,
+          "ev": 0.529,
+          "is_buy": false
+        },
+        {
+          "horse_number": 6,
+          "popularity": 13,
+          "p_win": 0.0073,
+          "fair_odds": 136.4,
+          "odds_win": 68.2,
+          "ev": 0.5,
+          "is_buy": false
+        },
+        {
+          "horse_number": 15,
+          "popularity": 4,
+          "p_win": 0.0545,
+          "fair_odds": 18.4,
+          "odds_win": 9.0,
+          "ev": 0.49,
+          "is_buy": false
+        },
+        {
+          "horse_number": 14,
+          "popularity": 10,
+          "p_win": 0.0112,
+          "fair_odds": 88.9,
+          "odds_win": 43.3,
+          "ev": 0.487,
+          "is_buy": false
+        },
+        {
+          "horse_number": 9,
+          "popularity": 11,
+          "p_win": 0.0099,
+          "fair_odds": 101.4,
+          "odds_win": 45.7,
+          "ev": 0.451,
+          "is_buy": false
+        },
+        {
+          "horse_number": 4,
+          "popularity": 14,
+          "p_win": 0.0018,
+          "fair_odds": 543.3,
+          "odds_win": 101.6,
+          "ev": 0.187,
+          "is_buy": false
+        },
+        {
+          "horse_number": 7,
+          "popularity": 15,
+          "p_win": 0.0,
+          "fair_odds": null,
+          "odds_win": 172.2,
+          "ev": 0.0,
+          "is_buy": false
+        },
+        {
+          "horse_number": 11,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        }
+      ]
+    },
+    {
+      "race_id": "202605030407",
+      "venue": "東京",
+      "race_number": 7,
+      "race_class": "1勝クラス",
+      "start_time": "13:20",
+      "distance_m": 2000,
+      "surface": "芝",
+      "horses": [
+        {
+          "horse_number": 8,
+          "popularity": 1,
+          "p_win": 0.627,
+          "fair_odds": 1.6,
+          "odds_win": 1.4,
+          "ev": 0.878,
+          "is_buy": false
+        },
+        {
+          "horse_number": 7,
+          "popularity": 4,
+          "p_win": 0.0881,
+          "fair_odds": 11.4,
+          "odds_win": 9.7,
+          "ev": 0.854,
+          "is_buy": false
+        },
+        {
+          "horse_number": 2,
+          "popularity": 5,
+          "p_win": 0.0497,
+          "fair_odds": 20.1,
+          "odds_win": 16.7,
+          "ev": 0.829,
+          "is_buy": false
+        },
+        {
+          "horse_number": 1,
+          "popularity": 6,
+          "p_win": 0.0429,
+          "fair_odds": 23.3,
+          "odds_win": 19.1,
+          "ev": 0.819,
+          "is_buy": false
+        },
+        {
+          "horse_number": 4,
+          "popularity": 3,
+          "p_win": 0.0949,
+          "fair_odds": 10.5,
+          "odds_win": 6.8,
+          "ev": 0.645,
+          "is_buy": false
+        },
+        {
+          "horse_number": 3,
+          "popularity": 2,
+          "p_win": 0.0949,
+          "fair_odds": 10.5,
+          "odds_win": 5.6,
+          "ev": 0.531,
+          "is_buy": false
+        },
+        {
+          "horse_number": 6,
+          "popularity": 7,
+          "p_win": 0.0099,
+          "fair_odds": 101.4,
+          "odds_win": 51.2,
+          "ev": 0.505,
+          "is_buy": false
+        },
+        {
+          "horse_number": 5,
+          "popularity": 8,
+          "p_win": 0.0018,
+          "fair_odds": 543.3,
+          "odds_win": 111.7,
+          "ev": 0.206,
+          "is_buy": false
+        }
+      ]
+    },
+    {
+      "race_id": "202605030408",
+      "venue": "東京",
+      "race_number": 8,
+      "race_class": "1勝クラス",
+      "start_time": "13:45",
+      "distance_m": 1600,
+      "surface": "ダート",
+      "horses": [
+        {
+          "horse_number": 14,
+          "popularity": 11,
+          "p_win": 0.0092,
+          "fair_odds": 109.0,
+          "odds_win": 119.2,
+          "ev": 1.094,
+          "is_buy": false
+        },
+        {
+          "horse_number": 15,
+          "popularity": 1,
+          "p_win": 0.483,
+          "fair_odds": 2.1,
+          "odds_win": 1.9,
+          "ev": 0.918,
+          "is_buy": false
+        },
+        {
+          "horse_number": 1,
+          "popularity": 12,
+          "p_win": 0.0073,
+          "fair_odds": 136.4,
+          "odds_win": 119.6,
+          "ev": 0.877,
+          "is_buy": false
+        },
+        {
+          "horse_number": 13,
+          "popularity": 10,
+          "p_win": 0.0073,
+          "fair_odds": 136.4,
+          "odds_win": 113.7,
+          "ev": 0.833,
+          "is_buy": false
+        },
+        {
+          "horse_number": 7,
+          "popularity": 9,
+          "p_win": 0.0092,
+          "fair_odds": 109.0,
+          "odds_win": 86.2,
+          "ev": 0.791,
+          "is_buy": false
+        },
+        {
+          "horse_number": 11,
+          "popularity": 4,
+          "p_win": 0.0949,
+          "fair_odds": 10.5,
+          "odds_win": 8.3,
+          "ev": 0.787,
+          "is_buy": false
+        },
+        {
+          "horse_number": 6,
+          "popularity": 5,
+          "p_win": 0.0536,
+          "fair_odds": 18.6,
+          "odds_win": 14.2,
+          "ev": 0.762,
+          "is_buy": false
+        },
+        {
+          "horse_number": 2,
+          "popularity": 8,
+          "p_win": 0.0099,
+          "fair_odds": 101.4,
+          "odds_win": 75.8,
+          "ev": 0.748,
+          "is_buy": false
+        },
+        {
+          "horse_number": 8,
+          "popularity": 7,
+          "p_win": 0.0267,
+          "fair_odds": 37.4,
+          "odds_win": 27.2,
+          "ev": 0.728,
+          "is_buy": false
+        },
+        {
+          "horse_number": 12,
+          "popularity": 6,
+          "p_win": 0.0271,
+          "fair_odds": 36.9,
+          "odds_win": 26.4,
+          "ev": 0.716,
+          "is_buy": false
+        },
+        {
+          "horse_number": 16,
+          "popularity": 3,
+          "p_win": 0.1023,
+          "fair_odds": 9.8,
+          "odds_win": 6.4,
+          "ev": 0.655,
+          "is_buy": false
+        },
+        {
+          "horse_number": 4,
+          "popularity": 2,
+          "p_win": 0.1344,
+          "fair_odds": 7.4,
+          "odds_win": 4.1,
+          "ev": 0.551,
+          "is_buy": false
+        },
+        {
+          "horse_number": 10,
+          "popularity": 14,
+          "p_win": 0.0018,
+          "fair_odds": 543.3,
+          "odds_win": 245.6,
+          "ev": 0.452,
+          "is_buy": false
+        },
+        {
+          "horse_number": 3,
+          "popularity": 13,
+          "p_win": 0.0,
+          "fair_odds": null,
+          "odds_win": 187.7,
+          "ev": 0.0,
+          "is_buy": false
+        },
+        {
+          "horse_number": 5,
+          "popularity": 15,
+          "p_win": 0.0,
+          "fair_odds": null,
+          "odds_win": 381.3,
+          "ev": 0.0,
+          "is_buy": false
+        },
+        {
+          "horse_number": 9,
+          "popularity": 16,
+          "p_win": 0.0,
+          "fair_odds": null,
+          "odds_win": 501.3,
+          "ev": 0.0,
+          "is_buy": false
+        }
+      ]
+    },
+    {
+      "race_id": "202605030409",
+      "venue": "東京",
+      "race_number": 9,
+      "race_class": "OP",
+      "start_time": "14:15",
+      "distance_m": 1600,
+      "surface": "芝",
+      "horses": [
+        {
+          "horse_number": 8,
+          "popularity": 6,
+          "p_win": 0.0497,
+          "fair_odds": 20.1,
+          "odds_win": 18.2,
+          "ev": 0.904,
+          "is_buy": false
+        },
+        {
+          "horse_number": 10,
+          "popularity": 4,
+          "p_win": 0.0759,
+          "fair_odds": 13.2,
+          "odds_win": 10.9,
+          "ev": 0.827,
+          "is_buy": false
+        },
+        {
+          "horse_number": 7,
+          "popularity": 7,
+          "p_win": 0.0267,
+          "fair_odds": 37.4,
+          "odds_win": 30.2,
+          "ev": 0.808,
+          "is_buy": false
+        },
+        {
+          "horse_number": 5,
+          "popularity": 9,
+          "p_win": 0.0073,
+          "fair_odds": 136.4,
+          "odds_win": 107.5,
+          "ev": 0.788,
+          "is_buy": false
+        },
+        {
+          "horse_number": 6,
+          "popularity": 5,
+          "p_win": 0.0536,
+          "fair_odds": 18.6,
+          "odds_win": 12.1,
+          "ev": 0.649,
+          "is_buy": false
+        },
+        {
+          "horse_number": 4,
+          "popularity": 1,
+          "p_win": 0.3558,
+          "fair_odds": 2.8,
+          "odds_win": 1.8,
+          "ev": 0.64,
+          "is_buy": false
+        },
+        {
+          "horse_number": 11,
+          "popularity": 3,
+          "p_win": 0.1076,
+          "fair_odds": 9.3,
+          "odds_win": 5.8,
+          "ev": 0.624,
+          "is_buy": false
+        },
+        {
+          "horse_number": 1,
+          "popularity": 2,
+          "p_win": 0.1344,
+          "fair_odds": 7.4,
+          "odds_win": 4.2,
+          "ev": 0.564,
+          "is_buy": false
+        },
+        {
+          "horse_number": 9,
+          "popularity": 8,
+          "p_win": 0.0099,
+          "fair_odds": 101.4,
+          "odds_win": 44.2,
+          "ev": 0.436,
+          "is_buy": false
+        },
+        {
+          "horse_number": 3,
+          "popularity": 10,
+          "p_win": 0.0,
+          "fair_odds": null,
+          "odds_win": 185.4,
+          "ev": 0.0,
+          "is_buy": false
+        },
+        {
+          "horse_number": 2,
+          "popularity": 11,
+          "p_win": 0.0,
+          "fair_odds": null,
+          "odds_win": 242.0,
+          "ev": 0.0,
+          "is_buy": false
+        }
+      ]
+    },
+    {
+      "race_id": "202605030410",
+      "venue": "東京",
+      "race_number": 10,
+      "race_class": "OP",
+      "start_time": "14:50",
+      "distance_m": 2400,
+      "surface": "芝",
+      "horses": [
+        {
+          "horse_number": 1,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 2,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 3,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 4,
+          "popularity": null,
+          "p_win": 0.3558,
+          "fair_odds": 2.8,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 5,
+          "popularity": null,
+          "p_win": 0.3558,
+          "fair_odds": 2.8,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 6,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 7,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 8,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 9,
+          "popularity": null,
+          "p_win": 0.4545,
+          "fair_odds": 2.2,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 10,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 11,
+          "popularity": null,
+          "p_win": 0.483,
+          "fair_odds": 2.1,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 12,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 13,
+          "popularity": null,
+          "p_win": 0.483,
+          "fair_odds": 2.1,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 14,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        }
+      ]
+    },
+    {
+      "race_id": "202605030411",
+      "venue": "東京",
+      "race_number": 11,
+      "race_class": "OP",
+      "start_time": "15:25",
+      "distance_m": 1400,
+      "surface": "芝",
+      "horses": [
+        {
+          "horse_number": 1,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 2,
+          "popularity": null,
+          "p_win": 0.3558,
+          "fair_odds": 2.8,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 3,
+          "popularity": null,
+          "p_win": 0.3558,
+          "fair_odds": 2.8,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 4,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 5,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 6,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 7,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 8,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 9,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 10,
+          "popularity": null,
+          "p_win": 0.3558,
+          "fair_odds": 2.8,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 11,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 12,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 13,
+          "popularity": null,
+          "p_win": 0.483,
+          "fair_odds": 2.1,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 14,
+          "popularity": null,
+          "p_win": 0.4545,
+          "fair_odds": 2.2,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        }
+      ]
+    },
+    {
+      "race_id": "202605030412",
+      "venue": "東京",
+      "race_number": 12,
+      "race_class": "2勝クラス",
+      "start_time": "16:15",
+      "distance_m": 1600,
+      "surface": "ダート",
+      "horses": [
+        {
+          "horse_number": 1,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 2,
+          "popularity": null,
+          "p_win": 0.483,
+          "fair_odds": 2.1,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 3,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 4,
+          "popularity": null,
+          "p_win": 0.483,
+          "fair_odds": 2.1,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 5,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 6,
+          "popularity": null,
+          "p_win": 0.4545,
+          "fair_odds": 2.2,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 7,
+          "popularity": null,
+          "p_win": 0.483,
+          "fair_odds": 2.1,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 8,
+          "popularity": null,
+          "p_win": 0.4545,
+          "fair_odds": 2.2,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 9,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 10,
+          "popularity": null,
+          "p_win": 0.4545,
+          "fair_odds": 2.2,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 11,
+          "popularity": null,
+          "p_win": 0.483,
+          "fair_odds": 2.1,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 12,
+          "popularity": null,
+          "p_win": 0.483,
+          "fair_odds": 2.1,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        }
+      ]
+    },
+    {
+      "race_id": "202609030406",
+      "venue": "阪神",
+      "race_number": 6,
+      "race_class": "1勝クラス",
+      "start_time": "12:55",
+      "distance_m": 1200,
+      "surface": "ダート",
+      "horses": [
+        {
+          "horse_number": 10,
+          "popularity": 15,
+          "p_win": 0.0073,
+          "fair_odds": 136.4,
+          "odds_win": 319.3,
+          "ev": 2.34,
+          "is_buy": false
+        },
+        {
+          "horse_number": 15,
+          "popularity": 4,
+          "p_win": 0.1023,
+          "fair_odds": 9.8,
+          "odds_win": 9.8,
+          "ev": 1.002,
+          "is_buy": false
+        },
+        {
+          "horse_number": 9,
+          "popularity": 2,
+          "p_win": 0.1344,
+          "fair_odds": 7.4,
+          "odds_win": 6.8,
+          "ev": 0.914,
+          "is_buy": false
+        },
+        {
+          "horse_number": 5,
+          "popularity": 12,
+          "p_win": 0.0092,
+          "fair_odds": 109.0,
+          "odds_win": 92.3,
+          "ev": 0.847,
+          "is_buy": false
+        },
+        {
+          "horse_number": 4,
+          "popularity": 16,
+          "p_win": 0.0018,
+          "fair_odds": 543.3,
+          "odds_win": 458.3,
+          "ev": 0.843,
+          "is_buy": false
+        },
+        {
+          "horse_number": 7,
+          "popularity": 3,
+          "p_win": 0.1076,
+          "fair_odds": 9.3,
+          "odds_win": 7.8,
+          "ev": 0.839,
+          "is_buy": false
+        },
+        {
+          "horse_number": 1,
+          "popularity": 8,
+          "p_win": 0.0497,
+          "fair_odds": 20.1,
+          "odds_win": 16.5,
+          "ev": 0.819,
+          "is_buy": false
+        },
+        {
+          "horse_number": 11,
+          "popularity": 1,
+          "p_win": 0.3558,
+          "fair_odds": 2.8,
+          "odds_win": 2.3,
+          "ev": 0.818,
+          "is_buy": false
+        },
+        {
+          "horse_number": 3,
+          "popularity": 13,
+          "p_win": 0.0073,
+          "fair_odds": 136.4,
+          "odds_win": 109.3,
+          "ev": 0.801,
+          "is_buy": false
+        },
+        {
+          "horse_number": 16,
+          "popularity": 7,
+          "p_win": 0.0497,
+          "fair_odds": 20.1,
+          "odds_win": 14.3,
+          "ev": 0.71,
+          "is_buy": false
+        },
+        {
+          "horse_number": 13,
+          "popularity": 11,
+          "p_win": 0.024,
+          "fair_odds": 41.7,
+          "odds_win": 29.3,
+          "ev": 0.702,
+          "is_buy": false
+        },
+        {
+          "horse_number": 14,
+          "popularity": 10,
+          "p_win": 0.0267,
+          "fair_odds": 37.4,
+          "odds_win": 26.0,
+          "ev": 0.695,
+          "is_buy": false
+        },
+        {
+          "horse_number": 6,
+          "popularity": 9,
+          "p_win": 0.0267,
+          "fair_odds": 37.4,
+          "odds_win": 25.5,
+          "ev": 0.682,
+          "is_buy": false
+        },
+        {
+          "horse_number": 8,
+          "popularity": 6,
+          "p_win": 0.0536,
+          "fair_odds": 18.6,
+          "odds_win": 12.0,
+          "ev": 0.644,
+          "is_buy": false
+        },
+        {
+          "horse_number": 12,
+          "popularity": 5,
+          "p_win": 0.0545,
+          "fair_odds": 18.4,
+          "odds_win": 10.8,
+          "ev": 0.589,
+          "is_buy": false
+        },
+        {
+          "horse_number": 2,
+          "popularity": 14,
+          "p_win": 0.0018,
+          "fair_odds": 543.3,
+          "odds_win": 166.1,
+          "ev": 0.306,
+          "is_buy": false
+        }
+      ]
+    },
+    {
+      "race_id": "202609030407",
+      "venue": "阪神",
+      "race_number": 7,
+      "race_class": "1勝クラス",
+      "start_time": "13:25",
+      "distance_m": 2000,
+      "surface": "芝",
+      "horses": [
+        {
+          "horse_number": 1,
+          "popularity": 7,
+          "p_win": 0.0267,
+          "fair_odds": 37.4,
+          "odds_win": 40.6,
+          "ev": 1.086,
+          "is_buy": false
+        },
+        {
+          "horse_number": 6,
+          "popularity": 4,
+          "p_win": 0.1023,
+          "fair_odds": 9.8,
+          "odds_win": 10.2,
+          "ev": 1.043,
+          "is_buy": false
+        },
+        {
+          "horse_number": 7,
+          "popularity": 1,
+          "p_win": 0.3558,
+          "fair_odds": 2.8,
+          "odds_win": 2.6,
+          "ev": 0.925,
+          "is_buy": false
+        },
+        {
+          "horse_number": 4,
+          "popularity": 10,
+          "p_win": 0.0073,
+          "fair_odds": 136.4,
+          "odds_win": 124.8,
+          "ev": 0.915,
+          "is_buy": false
+        },
+        {
+          "horse_number": 11,
+          "popularity": 9,
+          "p_win": 0.0073,
+          "fair_odds": 136.4,
+          "odds_win": 120.7,
+          "ev": 0.885,
+          "is_buy": false
+        },
+        {
+          "horse_number": 9,
+          "popularity": 3,
+          "p_win": 0.1905,
+          "fair_odds": 5.2,
+          "odds_win": 4.6,
+          "ev": 0.876,
+          "is_buy": false
+        },
+        {
+          "horse_number": 2,
+          "popularity": 2,
+          "p_win": 0.2518,
+          "fair_odds": 4.0,
+          "odds_win": 2.9,
+          "ev": 0.73,
+          "is_buy": false
+        },
+        {
+          "horse_number": 8,
+          "popularity": 5,
+          "p_win": 0.0545,
+          "fair_odds": 18.4,
+          "odds_win": 12.1,
+          "ev": 0.659,
+          "is_buy": false
+        },
+        {
+          "horse_number": 3,
+          "popularity": 6,
+          "p_win": 0.0536,
+          "fair_odds": 18.6,
+          "odds_win": 12.2,
+          "ev": 0.655,
+          "is_buy": false
+        },
+        {
+          "horse_number": 10,
+          "popularity": 8,
+          "p_win": 0.0099,
+          "fair_odds": 101.4,
+          "odds_win": 58.6,
+          "ev": 0.578,
+          "is_buy": false
+        },
+        {
+          "horse_number": 5,
+          "popularity": 11,
+          "p_win": 0.0018,
+          "fair_odds": 543.3,
+          "odds_win": 218.7,
+          "ev": 0.403,
+          "is_buy": false
+        }
+      ]
+    },
+    {
+      "race_id": "202609030408",
+      "venue": "阪神",
+      "race_number": 8,
+      "race_class": "OP",
+      "start_time": "13:55",
+      "distance_m": 1800,
+      "surface": "ダート",
+      "horses": [
+        {
+          "horse_number": 3,
+          "popularity": 9,
+          "p_win": 0.0073,
+          "fair_odds": 136.4,
+          "odds_win": 224.4,
+          "ev": 1.645,
+          "is_buy": false
+        },
+        {
+          "horse_number": 6,
+          "popularity": 4,
+          "p_win": 0.0949,
+          "fair_odds": 10.5,
+          "odds_win": 9.7,
+          "ev": 0.92,
+          "is_buy": false
+        },
+        {
+          "horse_number": 4,
+          "popularity": 8,
+          "p_win": 0.0073,
+          "fair_odds": 136.4,
+          "odds_win": 120.2,
+          "ev": 0.881,
+          "is_buy": false
+        },
+        {
+          "horse_number": 7,
+          "popularity": 5,
+          "p_win": 0.0271,
+          "fair_odds": 36.9,
+          "odds_win": 29.2,
+          "ev": 0.792,
+          "is_buy": false
+        },
+        {
+          "horse_number": 8,
+          "popularity": 2,
+          "p_win": 0.1905,
+          "fair_odds": 5.2,
+          "odds_win": 4.1,
+          "ev": 0.781,
+          "is_buy": false
+        },
+        {
+          "horse_number": 5,
+          "popularity": 1,
+          "p_win": 0.483,
+          "fair_odds": 2.1,
+          "odds_win": 1.6,
+          "ev": 0.773,
+          "is_buy": false
+        },
+        {
+          "horse_number": 2,
+          "popularity": 6,
+          "p_win": 0.024,
+          "fair_odds": 41.7,
+          "odds_win": 29.7,
+          "ev": 0.712,
+          "is_buy": false
+        },
+        {
+          "horse_number": 1,
+          "popularity": 3,
+          "p_win": 0.0949,
+          "fair_odds": 10.5,
+          "odds_win": 5.4,
+          "ev": 0.512,
+          "is_buy": false
+        },
+        {
+          "horse_number": 9,
+          "popularity": 7,
+          "p_win": 0.0099,
+          "fair_odds": 101.4,
+          "odds_win": 36.4,
+          "ev": 0.359,
+          "is_buy": false
+        }
+      ]
+    },
+    {
+      "race_id": "202609030409",
+      "venue": "阪神",
+      "race_number": 9,
+      "race_class": "OP",
+      "start_time": "nan",
+      "distance_m": 1200,
+      "surface": "芝",
+      "horses": [
+        {
+          "horse_number": 6,
+          "popularity": 3,
+          "p_win": 0.1076,
+          "fair_odds": 9.3,
+          "odds_win": 8.9,
+          "ev": 0.957,
+          "is_buy": false
+        },
+        {
+          "horse_number": 1,
+          "popularity": 10,
+          "p_win": 0.024,
+          "fair_odds": 41.7,
+          "odds_win": 31.0,
+          "ev": 0.743,
+          "is_buy": false
+        }
+      ]
+    },
+    {
+      "race_id": "202609030410",
+      "venue": "阪神",
+      "race_number": 10,
+      "race_class": "OP",
+      "start_time": "15:01",
+      "distance_m": 1600,
+      "surface": "芝",
+      "horses": [
+        {
+          "horse_number": 1,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 2,
+          "popularity": null,
+          "p_win": 0.3558,
+          "fair_odds": 2.8,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 3,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 4,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 5,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 6,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 7,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 8,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 9,
+          "popularity": null,
+          "p_win": 0.3558,
+          "fair_odds": 2.8,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 10,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 11,
+          "popularity": null,
+          "p_win": 0.3558,
+          "fair_odds": 2.8,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 12,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 13,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 14,
+          "popularity": null,
+          "p_win": 0.483,
+          "fair_odds": 2.1,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        }
+      ]
+    },
+    {
+      "race_id": "202609030411",
+      "venue": "阪神",
+      "race_number": 11,
+      "race_class": "OP",
+      "start_time": "15:40",
+      "distance_m": 2200,
+      "surface": "芝",
+      "horses": [
+        {
+          "horse_number": 1,
+          "popularity": null,
+          "p_win": 0.3651,
+          "fair_odds": 2.7,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 2,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 3,
+          "popularity": null,
+          "p_win": 0.4545,
+          "fair_odds": 2.2,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 4,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 5,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 6,
+          "popularity": null,
+          "p_win": 0.4545,
+          "fair_odds": 2.2,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 7,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 8,
+          "popularity": null,
+          "p_win": 0.3558,
+          "fair_odds": 2.8,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 9,
+          "popularity": null,
+          "p_win": 0.4545,
+          "fair_odds": 2.2,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 10,
+          "popularity": null,
+          "p_win": 0.4545,
+          "fair_odds": 2.2,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 11,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 12,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 13,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 14,
+          "popularity": null,
+          "p_win": 0.483,
+          "fair_odds": 2.1,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 15,
+          "popularity": null,
+          "p_win": 0.483,
+          "fair_odds": 2.1,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 16,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 17,
+          "popularity": null,
+          "p_win": 0.4545,
+          "fair_odds": 2.2,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 18,
+          "popularity": null,
+          "p_win": 0.483,
+          "fair_odds": 2.1,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        }
+      ]
+    },
+    {
+      "race_id": "202609030412",
+      "venue": "阪神",
+      "race_number": 12,
+      "race_class": "OP",
+      "start_time": "16:30",
+      "distance_m": 1200,
+      "surface": "ダート",
+      "horses": [
+        {
+          "horse_number": 1,
+          "popularity": null,
+          "p_win": 0.4545,
+          "fair_odds": 2.2,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 2,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 3,
+          "popularity": null,
+          "p_win": 0.483,
+          "fair_odds": 2.1,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 4,
+          "popularity": null,
+          "p_win": 0.483,
+          "fair_odds": 2.1,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 5,
+          "popularity": null,
+          "p_win": 0.483,
+          "fair_odds": 2.1,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 6,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 7,
+          "popularity": null,
+          "p_win": 0.483,
+          "fair_odds": 2.1,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 8,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 9,
+          "popularity": null,
+          "p_win": 0.483,
+          "fair_odds": 2.1,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 10,
+          "popularity": null,
+          "p_win": 0.3922,
+          "fair_odds": 2.5,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 11,
+          "popularity": null,
+          "p_win": 0.4545,
+          "fair_odds": 2.2,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 12,
+          "popularity": null,
+          "p_win": 0.4545,
+          "fair_odds": 2.2,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 13,
+          "popularity": null,
+          "p_win": 0.483,
+          "fair_odds": 2.1,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 14,
+          "popularity": null,
+          "p_win": 0.483,
+          "fair_odds": 2.1,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 15,
+          "popularity": null,
+          "p_win": 0.4545,
+          "fair_odds": 2.2,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        },
+        {
+          "horse_number": 16,
+          "popularity": null,
+          "p_win": 0.483,
+          "fair_odds": 2.1,
+          "odds_win": null,
+          "ev": null,
+          "is_buy": false
+        }
+      ]
+    }
+  ]
+}
