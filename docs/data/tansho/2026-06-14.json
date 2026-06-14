@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated_at": "2026-06-14T15:10:57",
+  "generated_at": "2026-06-14T15:20:55",
   "ev_thr": 1.25,
   "odds_cap": 50,
   "n_bets": 3,
@@ -2196,7 +2196,7 @@
       "venue": "阪神",
       "race_number": 11,
       "race_class": "OP",
-      "start_time": "15:40",
+      "start_time": "nan",
       "distance_m": 2200,
       "surface": "芝",
       "horses": [
