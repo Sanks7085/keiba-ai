@@ -1,7 +1,7 @@
 {
   "date": "2026-06-27",
   "venue_filter": null,
-  "generated_at": "2026-06-27T14:13:34.754964",
+  "generated_at": "2026-06-27T14:20:26.724464",
   "n_races": 12,
   "races": [
     {
@@ -31,9 +31,9 @@
       "skip_reason": null,
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
-      "max_ev": 0.0,
+      "max_ev": 8.9887,
       "race_ev_threshold": 2.5,
-      "passes_ev_filter": false,
+      "passes_ev_filter": true,
       "horses": [
         {
           "horse_number": 6,
@@ -143,8 +143,8 @@
             7
           ],
           "prob": 5.431,
-          "payout_yen": null,
-          "kelly_stake": 0
+          "payout_yen": 6340.0,
+          "kelly_stake": 1000
         },
         {
           "combo": [
@@ -153,8 +153,8 @@
             6
           ],
           "prob": 4.199,
-          "payout_yen": null,
-          "kelly_stake": 0
+          "payout_yen": 3860.0,
+          "kelly_stake": 400
         },
         {
           "combo": [
@@ -163,8 +163,8 @@
             8
           ],
           "prob": 4.199,
-          "payout_yen": null,
-          "kelly_stake": 0
+          "payout_yen": 6300.0,
+          "kelly_stake": 600
         },
         {
           "combo": [
@@ -173,8 +173,8 @@
             6
           ],
           "prob": 3.891,
-          "payout_yen": null,
-          "kelly_stake": 0
+          "payout_yen": 8840.0,
+          "kelly_stake": 700
         },
         {
           "combo": [
@@ -183,7 +183,7 @@
             7
           ],
           "prob": 3.589,
-          "payout_yen": null,
+          "payout_yen": 840.0,
           "kelly_stake": 0
         },
         {
@@ -193,7 +193,7 @@
             8
           ],
           "prob": 3.589,
-          "payout_yen": null,
+          "payout_yen": 1810.0000000000002,
           "kelly_stake": 0
         },
         {
@@ -203,8 +203,8 @@
             7
           ],
           "prob": 3.325,
-          "payout_yen": null,
-          "kelly_stake": 0
+          "payout_yen": 3470.0000000000005,
+          "kelly_stake": 100
         },
         {
           "combo": [
@@ -213,7 +213,7 @@
             8
           ],
           "prob": 2.774,
-          "payout_yen": null,
+          "payout_yen": 1260.0,
           "kelly_stake": 0
         },
         {
@@ -223,7 +223,7 @@
             6
           ],
           "prob": 2.571,
-          "payout_yen": null,
+          "payout_yen": 2270.0,
           "kelly_stake": 0
         },
         {
@@ -233,14 +233,14 @@
             8
           ],
           "prob": 2.571,
-          "payout_yen": null,
-          "kelly_stake": 0
+          "payout_yen": 3929.9999999999995,
+          "kelly_stake": 100
         }
       ],
       "n_tickets": 10,
       "total_stake": 1000,
-      "kelly_total_stake": 0,
-      "kelly_n_tickets": 0,
+      "kelly_total_stake": 2900,
+      "kelly_n_tickets": 6,
       "result_top3": [],
       "result_payout": null,
       "axis_name": "ファニーバニー"
