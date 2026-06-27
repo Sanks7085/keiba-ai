@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "generated_at": "2026-06-27T14:20:56",
+  "generated_at": "2026-06-27T14:30:55",
   "ev_thr": 1.25,
   "odds_cap": 50,
   "n_bets": 0,
@@ -103,7 +103,7 @@
       "venue": "函館",
       "race_number": 10,
       "race_class": "OP",
-      "start_time": "14:45",
+      "start_time": "nan",
       "distance_m": 2000,
       "surface": "芝",
       "horses": [
@@ -456,75 +456,75 @@
       "surface": "芝",
       "horses": [
         {
-          "horse_number": 1,
-          "popularity": null,
-          "p_win": 0.3922,
-          "fair_odds": 2.5,
-          "odds_win": null,
-          "ev": null,
-          "is_buy": false
-        },
-        {
-          "horse_number": 2,
-          "popularity": null,
-          "p_win": 0.4545,
-          "fair_odds": 2.2,
-          "odds_win": null,
-          "ev": null,
-          "is_buy": false
-        },
-        {
-          "horse_number": 3,
-          "popularity": null,
-          "p_win": 0.3922,
-          "fair_odds": 2.5,
-          "odds_win": null,
-          "ev": null,
-          "is_buy": false
-        },
-        {
-          "horse_number": 4,
-          "popularity": null,
-          "p_win": 0.483,
-          "fair_odds": 2.1,
-          "odds_win": null,
-          "ev": null,
-          "is_buy": false
-        },
-        {
-          "horse_number": 5,
-          "popularity": null,
-          "p_win": 0.483,
-          "fair_odds": 2.1,
-          "odds_win": null,
-          "ev": null,
-          "is_buy": false
-        },
-        {
           "horse_number": 6,
-          "popularity": null,
-          "p_win": 0.3922,
-          "fair_odds": 2.5,
-          "odds_win": null,
-          "ev": null,
+          "popularity": 6,
+          "p_win": 0.05,
+          "fair_odds": 20.0,
+          "odds_win": 23.8,
+          "ev": 1.19,
           "is_buy": false
         },
         {
           "horse_number": 7,
-          "popularity": null,
-          "p_win": 0.3922,
-          "fair_odds": 2.5,
-          "odds_win": null,
-          "ev": null,
+          "popularity": 2,
+          "p_win": 0.1076,
+          "fair_odds": 9.3,
+          "odds_win": 7.9,
+          "ev": 0.85,
+          "is_buy": false
+        },
+        {
+          "horse_number": 3,
+          "popularity": 8,
+          "p_win": 0.0092,
+          "fair_odds": 109.0,
+          "odds_win": 90.7,
+          "ev": 0.832,
+          "is_buy": false
+        },
+        {
+          "horse_number": 2,
+          "popularity": 3,
+          "p_win": 0.1023,
+          "fair_odds": 9.8,
+          "odds_win": 8.1,
+          "ev": 0.829,
+          "is_buy": false
+        },
+        {
+          "horse_number": 4,
+          "popularity": 1,
+          "p_win": 0.627,
+          "fair_odds": 1.6,
+          "odds_win": 1.3,
+          "ev": 0.815,
           "is_buy": false
         },
         {
           "horse_number": 8,
-          "popularity": null,
-          "p_win": 0.483,
-          "fair_odds": 2.1,
-          "odds_win": null,
-          "ev": null,
+          "popularity": 5,
+          "p_win": 0.0536,
+          "fair_odds": 18.6,
+          "odds_win": 14.3,
+          "ev": 0.767,
+          "is_buy": false
+        },
+        {
+          "horse_number": 5,
+          "popularity": 7,
+          "p_win": 0.0092,
+          "fair_odds": 109.0,
+          "odds_win": 81.5,
+          "ev": 0.748,
+          "is_buy": false
+        },
+        {
+          "horse_number": 1,
+          "popularity": 4,
+          "p_win": 0.0881,
+          "fair_odds": 11.4,
+          "odds_win": 8.3,
+          "ev": 0.731,
           "is_buy": false
         }
       ]
@@ -534,7 +534,7 @@
       "venue": "小倉",
       "race_number": 10,
       "race_class": "OP",
-      "start_time": "14:55",
+      "start_time": "nan",
       "distance_m": 1200,
       "surface": "芝",
       "horses": [
@@ -891,7 +891,7 @@
       "venue": "福島",
       "race_number": 9,
       "race_class": "OP",
-      "start_time": "14:35",
+      "start_time": "nan",
       "distance_m": 1150,
       "surface": "ダート",
       "horses": [
