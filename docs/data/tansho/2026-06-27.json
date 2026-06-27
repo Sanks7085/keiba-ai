@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "generated_at": "2026-06-27T16:00:27",
+  "generated_at": "2026-06-27T16:10:37",
   "ev_thr": 1.25,
   "odds_cap": 50,
   "n_bets": 2,
@@ -1277,7 +1277,7 @@
       "venue": "福島",
       "race_number": 12,
       "race_class": "1勝クラス",
-      "start_time": "16:30",
+      "start_time": "nan",
       "distance_m": 1200,
       "surface": "芝",
       "horses": [
