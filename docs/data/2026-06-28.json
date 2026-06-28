@@ -1,7 +1,7 @@
 {
   "date": "2026-06-28",
   "venue_filter": null,
-  "generated_at": "2026-06-28T13:10:27.522147",
+  "generated_at": "2026-06-28T13:20:18.780309",
   "n_races": 17,
   "races": [
     {
@@ -681,7 +681,7 @@
       "track_condition": "良",
       "weather": "晴",
       "num_runners": 9,
-      "start_time": "13:50",
+      "start_time": null,
       "venue_name": "小倉",
       "axis": 1,
       "partners": [
