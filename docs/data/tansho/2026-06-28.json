@@ -1,6 +1,6 @@
 {
   "date": "2026-06-28",
-  "generated_at": "2026-06-28T13:05:46",
+  "generated_at": "2026-06-28T13:16:06",
   "ev_thr": 1.25,
   "odds_cap": 50,
   "n_bets": 0,
@@ -112,7 +112,7 @@
       "venue": "函館",
       "race_number": 8,
       "race_class": "1勝クラス",
-      "start_time": "13:40",
+      "start_time": "nan",
       "distance_m": 1200,
       "surface": "芝",
       "horses": [
