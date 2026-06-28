@@ -1,6 +1,6 @@
 {
   "date": "2026-06-28",
-  "generated_at": "2026-06-28T12:46:04",
+  "generated_at": "2026-06-28T12:56:55",
   "ev_thr": 1.25,
   "odds_cap": 50,
   "n_bets": 0,
@@ -734,7 +734,7 @@
       "venue": "小倉",
       "race_number": 7,
       "race_class": "1勝クラス",
-      "start_time": "13:20",
+      "start_time": "nan",
       "distance_m": 1000,
       "surface": "ダート",
       "horses": [
