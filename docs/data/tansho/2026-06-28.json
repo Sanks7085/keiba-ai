@@ -1,6 +1,6 @@
 {
   "date": "2026-06-28",
-  "generated_at": "2026-06-28T16:00:48",
+  "generated_at": "2026-06-28T16:10:40",
   "ev_thr": 1.25,
   "odds_cap": 50,
   "n_bets": 3,
@@ -9,7 +9,7 @@
       "venue": "函館",
       "race_number": 10,
       "race_class": "OP",
-      "start_time": "nan",
+      "start_time": "None",
       "distance_m": 1700,
       "surface": "ダート",
       "horse_number": 5,
@@ -23,7 +23,7 @@
       "venue": "小倉",
       "race_number": 9,
       "race_class": "OP",
-      "start_time": "nan",
+      "start_time": "None",
       "distance_m": 2600,
       "surface": "芝",
       "horse_number": 8,
@@ -37,7 +37,7 @@
       "venue": "福島",
       "race_number": 8,
       "race_class": "1勝クラス",
-      "start_time": "nan",
+      "start_time": "None",
       "distance_m": 2600,
       "surface": "芝",
       "horse_number": 9,
@@ -54,7 +54,7 @@
       "venue": "函館",
       "race_number": 7,
       "race_class": "1勝クラス",
-      "start_time": "nan",
+      "start_time": "None",
       "distance_m": 1700,
       "surface": "ダート",
       "horses": [
@@ -155,7 +155,7 @@
       "venue": "函館",
       "race_number": 8,
       "race_class": "1勝クラス",
-      "start_time": "nan",
+      "start_time": "None",
       "distance_m": 1200,
       "surface": "芝",
       "horses": [
@@ -283,7 +283,7 @@
       "venue": "函館",
       "race_number": 9,
       "race_class": "OP",
-      "start_time": "nan",
+      "start_time": "None",
       "distance_m": 1800,
       "surface": "芝",
       "horses": [
@@ -384,7 +384,7 @@
       "venue": "函館",
       "race_number": 10,
       "race_class": "OP",
-      "start_time": "nan",
+      "start_time": "None",
       "distance_m": 1700,
       "surface": "ダート",
       "horses": [
@@ -494,7 +494,7 @@
       "venue": "函館",
       "race_number": 11,
       "race_class": "OP",
-      "start_time": "nan",
+      "start_time": "None",
       "distance_m": 2000,
       "surface": "芝",
       "horses": [
@@ -640,7 +640,7 @@
       "venue": "函館",
       "race_number": 12,
       "race_class": "OP",
-      "start_time": "nan",
+      "start_time": "None",
       "distance_m": 1200,
       "surface": "芝",
       "horses": [
@@ -777,7 +777,7 @@
       "venue": "小倉",
       "race_number": 7,
       "race_class": "1勝クラス",
-      "start_time": "nan",
+      "start_time": "None",
       "distance_m": 1000,
       "surface": "ダート",
       "horses": [
@@ -878,7 +878,7 @@
       "venue": "小倉",
       "race_number": 8,
       "race_class": "1勝クラス",
-      "start_time": "nan",
+      "start_time": "None",
       "distance_m": 1800,
       "surface": "芝",
       "horses": [
@@ -970,7 +970,7 @@
       "venue": "小倉",
       "race_number": 9,
       "race_class": "OP",
-      "start_time": "nan",
+      "start_time": "None",
       "distance_m": 2600,
       "surface": "芝",
       "horses": [
@@ -1053,7 +1053,7 @@
       "venue": "小倉",
       "race_number": 10,
       "race_class": "OP",
-      "start_time": "nan",
+      "start_time": "None",
       "distance_m": 1700,
       "surface": "ダート",
       "horses": [
@@ -1208,7 +1208,7 @@
       "venue": "小倉",
       "race_number": 11,
       "race_class": "OP",
-      "start_time": "nan",
+      "start_time": "None",
       "distance_m": 1200,
       "surface": "芝",
       "horses": [
@@ -1291,7 +1291,7 @@
       "venue": "小倉",
       "race_number": 12,
       "race_class": "1勝クラス",
-      "start_time": "nan",
+      "start_time": "None",
       "distance_m": 1700,
       "surface": "ダート",
       "horses": [
@@ -1446,7 +1446,7 @@
       "venue": "福島",
       "race_number": 8,
       "race_class": "1勝クラス",
-      "start_time": "nan",
+      "start_time": "None",
       "distance_m": 2600,
       "surface": "芝",
       "horses": [
@@ -1574,7 +1574,7 @@
       "venue": "福島",
       "race_number": 9,
       "race_class": "OP",
-      "start_time": "nan",
+      "start_time": "None",
       "distance_m": 2000,
       "surface": "芝",
       "horses": [
@@ -1711,7 +1711,7 @@
       "venue": "福島",
       "race_number": 10,
       "race_class": "OP",
-      "start_time": "nan",
+      "start_time": "None",
       "distance_m": 1700,
       "surface": "ダート",
       "horses": [
@@ -1821,7 +1821,7 @@
       "venue": "福島",
       "race_number": 11,
       "race_class": "OP",
-      "start_time": "nan",
+      "start_time": "None",
       "distance_m": 1800,
       "surface": "芝",
       "horses": [
@@ -1976,7 +1976,7 @@
       "venue": "福島",
       "race_number": 12,
       "race_class": "1勝クラス",
-      "start_time": "16:30",
+      "start_time": "None",
       "distance_m": 1150,
       "surface": "ダート",
       "horses": [
