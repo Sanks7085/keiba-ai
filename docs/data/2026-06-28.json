@@ -1,7 +1,7 @@
 {
   "date": "2026-06-28",
   "venue_filter": null,
-  "generated_at": "2026-06-28T13:20:18.780309",
+  "generated_at": "2026-06-28T13:31:09.290501",
   "n_races": 17,
   "races": [
     {
@@ -881,7 +881,7 @@
       "track_condition": "良",
       "weather": "晴",
       "num_runners": 13,
-      "start_time": "14:01",
+      "start_time": null,
       "venue_name": "福島",
       "axis": 10,
       "partners": [
