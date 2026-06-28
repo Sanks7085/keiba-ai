@@ -1,7 +1,7 @@
 {
   "date": "2026-06-28",
   "venue_filter": null,
-  "generated_at": "2026-06-28T15:45:38.920063",
+  "generated_at": "2026-06-28T16:01:00.593172",
   "n_races": 17,
   "races": [
     {
@@ -3877,7 +3877,7 @@
       "track_condition": "良",
       "weather": "晴",
       "num_runners": 14,
-      "start_time": "16:30",
+      "start_time": null,
       "venue_name": "福島",
       "axis": 5,
       "partners": [
@@ -3974,13 +3974,13 @@
         },
         {
           "horse_number": 8,
-          "jockey_name": "小林脩",
+          "jockey_name": "高杉吏麒",
           "trainer_name": "美浦斎藤誠",
           "odds_win": null,
           "popularity": null,
           "rel_prob": 6.27,
           "combo_total": 20.112,
-          "jockey_top3_rate": 0.077,
+          "jockey_top3_rate": 0.257,
           "horse_name": "スターランウェイ"
         },
         {
