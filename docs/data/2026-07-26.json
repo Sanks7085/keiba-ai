@@ -1,7 +1,7 @@
 {
   "date": "2026-07-26",
   "venue_filter": null,
-  "generated_at": "2026-07-26T11:10:11.392475",
+  "generated_at": "2026-07-26T11:20:33.215885",
   "n_races": 17,
   "races": [
     {
@@ -12,19 +12,22 @@
       "race_level": "1勝クラス",
       "surface": "ダート",
       "distance_m": 1200,
-      "track_condition": "不明",
-      "weather": "小雨",
+      "track_condition": "重",
+      "weather": "雨",
       "num_runners": 15,
-      "start_time": "11:50",
+      "start_time": null,
       "venue_name": "新潟",
       "axis": 3,
       "partners": [
-        14
+        14,
+        11,
+        10,
+        8
       ],
-      "threshold": 11.0,
-      "threshold_reason": "芝/ダート [ダート]",
-      "skipped": true,
-      "skip_reason": "相手1頭（4頭以上必要）",
+      "threshold": 9.0,
+      "threshold_reason": "芝/ダート×馬場 [ダート×重]",
+      "skipped": false,
+      "skip_reason": null,
       "in_f4": true,
       "f4_reason": "F4撤回(撤回後は全レース対象)",
       "max_ev": 0.0,
@@ -197,9 +200,70 @@
           "horse_name": "サンシップ"
         }
       ],
-      "buys": [],
-      "n_tickets": 0,
-      "total_stake": 0,
+      "buys": [
+        {
+          "combo": [
+            3,
+            11,
+            14
+          ],
+          "prob": 1.266,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            3,
+            10,
+            14
+          ],
+          "prob": 1.231,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            3,
+            8,
+            14
+          ],
+          "prob": 1.196,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            3,
+            10,
+            11
+          ],
+          "prob": 1.137,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            3,
+            8,
+            11
+          ],
+          "prob": 1.104,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            3,
+            8,
+            10
+          ],
+          "prob": 1.074,
+          "payout_yen": null,
+          "kelly_stake": 0
+        }
+      ],
+      "n_tickets": 6,
+      "total_stake": 600,
       "kelly_total_stake": 0,
       "kelly_n_tickets": 0,
       "result_top3": [],
