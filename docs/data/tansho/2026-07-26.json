@@ -1,6 +1,6 @@
 {
   "date": "2026-07-26",
-  "generated_at": "2026-07-26T14:45:41",
+  "generated_at": "2026-07-26T14:57:04",
   "ev_thr": 1.25,
   "odds_cap": 50,
   "n_bets": 0,
@@ -1877,7 +1877,7 @@
       "venue": "札幌",
       "race_number": 11,
       "race_class": "OP",
-      "start_time": "15:25",
+      "start_time": "nan",
       "distance_m": 2600,
       "surface": "芝",
       "horses": [
