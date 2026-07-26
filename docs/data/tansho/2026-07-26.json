@@ -1,6 +1,6 @@
 {
   "date": "2026-07-26",
-  "generated_at": "2026-07-26T17:15:56",
+  "generated_at": "2026-07-26T17:25:47",
   "ev_thr": 1.25,
   "odds_cap": 50,
   "n_bets": 4,
@@ -717,7 +717,7 @@
       "venue": "中京",
       "race_number": 11,
       "race_class": "1勝クラス",
-      "start_time": "17:50",
+      "start_time": "nan",
       "distance_m": 1600,
       "surface": "芝",
       "horses": [
