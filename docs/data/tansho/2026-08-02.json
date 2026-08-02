@@ -1,10 +1,25 @@
 {
   "date": "2026-08-02",
-  "generated_at": "2026-08-02T11:45:46",
+  "generated_at": "2026-08-02T12:15:41",
   "ev_thr": 1.25,
   "odds_cap": 50,
-  "n_bets": 0,
-  "bets": [],
+  "n_bets": 1,
+  "bets": [
+    {
+      "venue": "中京",
+      "race_number": 5,
+      "race_class": "1勝クラス",
+      "start_time": "nan",
+      "distance_m": 1800,
+      "surface": "ダート",
+      "horse_number": 7,
+      "popularity": 4,
+      "p_win": 0.1905,
+      "fair_odds": 5.2,
+      "odds_win": 8.8,
+      "ev": 1.677
+    }
+  ],
   "races": [
     {
       "race_id": "202607020405",
@@ -16,84 +31,84 @@
       "surface": "ダート",
       "horses": [
         {
-          "horse_number": 1,
-          "popularity": null,
-          "p_win": 0.3922,
-          "fair_odds": 2.5,
-          "odds_win": null,
-          "ev": null,
-          "is_buy": false
+          "horse_number": 7,
+          "popularity": 4,
+          "p_win": 0.1905,
+          "fair_odds": 5.2,
+          "odds_win": 8.8,
+          "ev": 1.677,
+          "is_buy": true
         },
         {
-          "horse_number": 2,
-          "popularity": null,
-          "p_win": 0.483,
-          "fair_odds": 2.1,
-          "odds_win": null,
-          "ev": null,
+          "horse_number": 4,
+          "popularity": 6,
+          "p_win": 0.0949,
+          "fair_odds": 10.5,
+          "odds_win": 10.8,
+          "ev": 1.025,
           "is_buy": false
         },
         {
           "horse_number": 3,
-          "popularity": null,
+          "popularity": 1,
           "p_win": 0.483,
           "fair_odds": 2.1,
-          "odds_win": null,
-          "ev": null,
+          "odds_win": 2.1,
+          "ev": 1.014,
           "is_buy": false
         },
         {
-          "horse_number": 4,
-          "popularity": null,
-          "p_win": 0.483,
-          "fair_odds": 2.1,
-          "odds_win": null,
-          "ev": null,
+          "horse_number": 2,
+          "popularity": 2,
+          "p_win": 0.1905,
+          "fair_odds": 5.2,
+          "odds_win": 5.1,
+          "ev": 0.972,
           "is_buy": false
         },
         {
           "horse_number": 5,
-          "popularity": null,
-          "p_win": 0.3922,
-          "fair_odds": 2.5,
-          "odds_win": null,
-          "ev": null,
-          "is_buy": false
-        },
-        {
-          "horse_number": 6,
-          "popularity": null,
-          "p_win": 0.4545,
-          "fair_odds": 2.2,
-          "odds_win": null,
-          "ev": null,
-          "is_buy": false
-        },
-        {
-          "horse_number": 7,
-          "popularity": null,
-          "p_win": 0.483,
-          "fair_odds": 2.1,
-          "odds_win": null,
-          "ev": null,
+          "popularity": 7,
+          "p_win": 0.0545,
+          "fair_odds": 18.4,
+          "odds_win": 14.1,
+          "ev": 0.768,
           "is_buy": false
         },
         {
           "horse_number": 8,
-          "popularity": null,
-          "p_win": 0.483,
-          "fair_odds": 2.1,
-          "odds_win": null,
-          "ev": null,
+          "popularity": 9,
+          "p_win": 0.0112,
+          "fair_odds": 88.9,
+          "odds_win": 62.4,
+          "ev": 0.702,
+          "is_buy": false
+        },
+        {
+          "horse_number": 1,
+          "popularity": 5,
+          "p_win": 0.0684,
+          "fair_odds": 14.6,
+          "odds_win": 9.5,
+          "ev": 0.65,
+          "is_buy": false
+        },
+        {
+          "horse_number": 6,
+          "popularity": 3,
+          "p_win": 0.1076,
+          "fair_odds": 9.3,
+          "odds_win": 5.6,
+          "ev": 0.602,
           "is_buy": false
         },
         {
           "horse_number": 9,
-          "popularity": null,
-          "p_win": 0.3922,
-          "fair_odds": 2.5,
-          "odds_win": null,
-          "ev": null,
+          "popularity": 8,
+          "p_win": 0.0112,
+          "fair_odds": 88.9,
+          "odds_win": 50.8,
+          "ev": 0.571,
           "is_buy": false
         }
       ]
