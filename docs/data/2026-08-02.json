@@ -1,7 +1,7 @@
 {
   "date": "2026-08-02",
   "venue_filter": null,
-  "generated_at": "2026-08-02T12:50:18.462317",
+  "generated_at": "2026-08-02T13:20:14.607720",
   "n_races": 18,
   "races": [
     {
@@ -598,7 +598,7 @@
       "track_condition": "良",
       "weather": "晴",
       "num_runners": 14,
-      "start_time": "13:50",
+      "start_time": null,
       "venue_name": "札幌",
       "axis": 14,
       "partners": [
