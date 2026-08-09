@@ -1,0 +1,3714 @@
+{
+  "date": "2026-08-09",
+  "venue_filter": null,
+  "generated_at": "2026-08-09T12:52:58.673934",
+  "n_races": 15,
+  "races": [
+    {
+      "race_id": "202601010608",
+      "race_number": 8,
+      "race_name": "3歳以上1勝クラス",
+      "race_class": "1勝クラス",
+      "race_level": "1勝クラス",
+      "surface": "ダート",
+      "distance_m": 1700,
+      "track_condition": "良",
+      "weather": "晴",
+      "num_runners": 14,
+      "start_time": "13:50",
+      "venue_name": "札幌",
+      "axis": 12,
+      "partners": [
+        5,
+        8,
+        13,
+        7
+      ],
+      "threshold": 11.0,
+      "threshold_reason": "芝/ダート×馬場 [ダート×良]",
+      "skipped": false,
+      "skip_reason": null,
+      "in_f4": true,
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 0.0,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": false,
+      "horses": [
+        {
+          "horse_number": 12,
+          "jockey_name": "横山和",
+          "trainer_name": "美浦黒岩",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 12.88,
+          "combo_total": 35.69,
+          "jockey_top3_rate": 0.371,
+          "horse_name": "ローズマイスター"
+        },
+        {
+          "horse_number": 5,
+          "jockey_name": "浜中",
+          "trainer_name": "栗東松永幹",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 11.84,
+          "combo_total": 33.555,
+          "jockey_top3_rate": 0.071,
+          "horse_name": "メイショウコシュウ"
+        },
+        {
+          "horse_number": 8,
+          "jockey_name": "☆舟山",
+          "trainer_name": "美浦水野",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 11.49,
+          "combo_total": 32.818,
+          "jockey_top3_rate": null,
+          "horse_name": "テイクオンミー"
+        },
+        {
+          "horse_number": 13,
+          "jockey_name": "小沢",
+          "trainer_name": "栗東前川",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 11.14,
+          "combo_total": 32.068,
+          "jockey_top3_rate": 0.267,
+          "horse_name": "ホウオウバローロ"
+        },
+        {
+          "horse_number": 7,
+          "jockey_name": "▲小林美",
+          "trainer_name": "栗東谷",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 11.14,
+          "combo_total": 32.068,
+          "jockey_top3_rate": 0.29,
+          "horse_name": "ピエナオルカ"
+        },
+        {
+          "horse_number": 3,
+          "jockey_name": "▲遠藤",
+          "trainer_name": "栗東荒川",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 9.06,
+          "combo_total": 27.286,
+          "jockey_top3_rate": 0.0,
+          "horse_name": "ノリノドラゴン"
+        },
+        {
+          "horse_number": 6,
+          "jockey_name": "斎藤",
+          "trainer_name": "栗東井上",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 7.32,
+          "combo_total": 22.909,
+          "jockey_top3_rate": 0.355,
+          "horse_name": "ポンピエ"
+        },
+        {
+          "horse_number": 14,
+          "jockey_name": "池添",
+          "trainer_name": "栗東千田",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 5.92,
+          "combo_total": 19.132,
+          "jockey_top3_rate": 0.111,
+          "horse_name": "ブリオメンテ"
+        },
+        {
+          "horse_number": 1,
+          "jockey_name": "吉田隼",
+          "trainer_name": "美浦室井",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 5.23,
+          "combo_total": 17.148,
+          "jockey_top3_rate": 0.267,
+          "horse_name": "タイキフィアリーベ"
+        },
+        {
+          "horse_number": 9,
+          "jockey_name": "松本",
+          "trainer_name": "美浦水野",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 4.53,
+          "combo_total": 15.097,
+          "jockey_top3_rate": 0.167,
+          "horse_name": "クラウンアールシー"
+        },
+        {
+          "horse_number": 2,
+          "jockey_name": "▲和田陽",
+          "trainer_name": "美浦武藤",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 4.53,
+          "combo_total": 15.097,
+          "jockey_top3_rate": 0.095,
+          "horse_name": "ファミーユウルーズ"
+        },
+        {
+          "horse_number": 10,
+          "jockey_name": "横山琉",
+          "trainer_name": "美浦相沢",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 3.14,
+          "combo_total": 10.789,
+          "jockey_top3_rate": 0.074,
+          "horse_name": "サンデーパーティー"
+        },
+        {
+          "horse_number": 11,
+          "jockey_name": "岩田康",
+          "trainer_name": "美浦田中剛",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 1.05,
+          "combo_total": 3.788,
+          "jockey_top3_rate": 0.273,
+          "horse_name": "ディアスポラ"
+        },
+        {
+          "horse_number": 4,
+          "jockey_name": "☆長浜",
+          "trainer_name": "美浦尾形",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 0.71,
+          "combo_total": 2.556,
+          "jockey_top3_rate": 0.103,
+          "horse_name": "ホノボノ"
+        }
+      ],
+      "buys": [
+        {
+          "combo": [
+            5,
+            8,
+            12
+          ],
+          "prob": 1.425,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            5,
+            12,
+            13
+          ],
+          "prob": 1.382,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            5,
+            7,
+            12
+          ],
+          "prob": 1.382,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            8,
+            12,
+            13
+          ],
+          "prob": 1.341,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            7,
+            8,
+            12
+          ],
+          "prob": 1.341,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            7,
+            12,
+            13
+          ],
+          "prob": 1.3,
+          "payout_yen": null,
+          "kelly_stake": 0
+        }
+      ],
+      "n_tickets": 6,
+      "total_stake": 600,
+      "kelly_total_stake": 0,
+      "kelly_n_tickets": 0,
+      "result_top3": [],
+      "result_payout": null,
+      "axis_name": "ローズマイスター"
+    },
+    {
+      "race_id": "202601010609",
+      "race_number": 9,
+      "race_name": "3歳以上1勝クラス",
+      "race_class": "1勝クラス",
+      "race_level": "1勝クラス",
+      "surface": "芝",
+      "distance_m": 1200,
+      "track_condition": "良",
+      "weather": "晴",
+      "num_runners": 16,
+      "start_time": "14:20",
+      "venue_name": "札幌",
+      "axis": 11,
+      "partners": [
+        15
+      ],
+      "threshold": 10.0,
+      "threshold_reason": "芝/ダート×馬場 [芝×良]",
+      "skipped": true,
+      "skip_reason": "相手1頭（4頭以上必要）",
+      "in_f4": true,
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 0.0,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": false,
+      "horses": [
+        {
+          "horse_number": 11,
+          "jockey_name": "斎藤",
+          "trainer_name": "美浦斎藤誠",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 12.19,
+          "combo_total": 33.491,
+          "jockey_top3_rate": 0.355,
+          "horse_name": "ウィングブルー"
+        },
+        {
+          "horse_number": 15,
+          "jockey_name": "小沢",
+          "trainer_name": "栗東杉山佳",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 10.6,
+          "combo_total": 30.152,
+          "jockey_top3_rate": 0.267,
+          "horse_name": "ノアールビーナス"
+        },
+        {
+          "horse_number": 1,
+          "jockey_name": "▲小林美",
+          "trainer_name": "栗東吉田",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 9.55,
+          "combo_total": 27.78,
+          "jockey_top3_rate": 0.29,
+          "horse_name": "コスモファーブロス"
+        },
+        {
+          "horse_number": 14,
+          "jockey_name": "岩田康",
+          "trainer_name": "美浦木村",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 9.55,
+          "combo_total": 27.78,
+          "jockey_top3_rate": 0.273,
+          "horse_name": "トレヴィ"
+        },
+        {
+          "horse_number": 10,
+          "jockey_name": "☆舟山",
+          "trainer_name": "美浦浅利",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 9.28,
+          "combo_total": 27.167,
+          "jockey_top3_rate": null,
+          "horse_name": "ルージュベルベット"
+        },
+        {
+          "horse_number": 2,
+          "jockey_name": "池添",
+          "trainer_name": "栗東橋口",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 9.02,
+          "combo_total": 26.547,
+          "jockey_top3_rate": 0.111,
+          "horse_name": "ニシノサリーナ"
+        },
+        {
+          "horse_number": 16,
+          "jockey_name": "吉田隼",
+          "trainer_name": "栗東吉岡",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 7.7,
+          "combo_total": 23.325,
+          "jockey_top3_rate": 0.267,
+          "horse_name": "サトノカスターニャ"
+        },
+        {
+          "horse_number": 9,
+          "jockey_name": "横山琉",
+          "trainer_name": "美浦斎藤誠",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 6.91,
+          "combo_total": 21.292,
+          "jockey_top3_rate": 0.074,
+          "horse_name": "ラプランセス"
+        },
+        {
+          "horse_number": 3,
+          "jockey_name": "浜中",
+          "trainer_name": "美浦奥平",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 5.85,
+          "combo_total": 18.461,
+          "jockey_top3_rate": 0.071,
+          "horse_name": "アイアムステキ"
+        },
+        {
+          "horse_number": 6,
+          "jockey_name": "横山典",
+          "trainer_name": "美浦浅利",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 5.59,
+          "combo_total": 17.73,
+          "jockey_top3_rate": 0.562,
+          "horse_name": "アトリウムチャペル"
+        },
+        {
+          "horse_number": 12,
+          "jockey_name": "▲和田陽",
+          "trainer_name": "美浦清水英",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 3.74,
+          "combo_total": 12.361,
+          "jockey_top3_rate": 0.095,
+          "horse_name": "マロンカラノテガミ"
+        },
+        {
+          "horse_number": 7,
+          "jockey_name": "古川吉",
+          "trainer_name": "美浦伊藤大",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 3.22,
+          "combo_total": 10.742,
+          "jockey_top3_rate": 0.143,
+          "horse_name": "スプリングデイ"
+        },
+        {
+          "horse_number": 8,
+          "jockey_name": "北村友",
+          "trainer_name": "美浦田島",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 2.95,
+          "combo_total": 9.917,
+          "jockey_top3_rate": 0.077,
+          "horse_name": "ハーモニーソング"
+        },
+        {
+          "horse_number": 13,
+          "jockey_name": "★河原田",
+          "trainer_name": "美浦伊藤伸",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 2.16,
+          "combo_total": 7.384,
+          "jockey_top3_rate": 0.143,
+          "horse_name": "アルマロクザン"
+        },
+        {
+          "horse_number": 5,
+          "jockey_name": "▲遠藤",
+          "trainer_name": "美浦奥平",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 1.37,
+          "combo_total": 4.759,
+          "jockey_top3_rate": 0.0,
+          "horse_name": "キタノクニカラ"
+        },
+        {
+          "horse_number": 4,
+          "jockey_name": "黛",
+          "trainer_name": "栗東秋山",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 0.31,
+          "combo_total": 1.112,
+          "jockey_top3_rate": 0.0,
+          "horse_name": "メラヴィリオーザ"
+        }
+      ],
+      "buys": [],
+      "n_tickets": 0,
+      "total_stake": 0,
+      "kelly_total_stake": 0,
+      "kelly_n_tickets": 0,
+      "result_top3": [],
+      "result_payout": null,
+      "axis_name": "ウィングブルー"
+    },
+    {
+      "race_id": "202601010610",
+      "race_number": 10,
+      "race_name": "富良野特別",
+      "race_class": null,
+      "race_level": "その他",
+      "surface": "ダート",
+      "distance_m": 1700,
+      "track_condition": "良",
+      "weather": "晴",
+      "num_runners": 14,
+      "start_time": "14:50",
+      "venue_name": "札幌",
+      "axis": 8,
+      "partners": [
+        1
+      ],
+      "threshold": 11.0,
+      "threshold_reason": "芝/ダート×馬場 [ダート×良]",
+      "skipped": true,
+      "skip_reason": "相手1頭（4頭以上必要）",
+      "in_f4": true,
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 0.0,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": false,
+      "horses": [
+        {
+          "horse_number": 8,
+          "jockey_name": "横山和",
+          "trainer_name": "美浦伊藤大",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 13.93,
+          "combo_total": 37.646,
+          "jockey_top3_rate": 0.371,
+          "horse_name": "ベラジオワールド"
+        },
+        {
+          "horse_number": 1,
+          "jockey_name": "古川奈",
+          "trainer_name": "美浦伊坂",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 11.84,
+          "combo_total": 33.489,
+          "jockey_top3_rate": 0.0,
+          "horse_name": "マーゴットサンズ"
+        },
+        {
+          "horse_number": 2,
+          "jockey_name": "舟山",
+          "trainer_name": "栗東浜田",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 10.8,
+          "combo_total": 31.243,
+          "jockey_top3_rate": 0.333,
+          "horse_name": "テイエムゴッホ"
+        },
+        {
+          "horse_number": 3,
+          "jockey_name": "斎藤",
+          "trainer_name": "栗東小栗",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 10.45,
+          "combo_total": 30.468,
+          "jockey_top3_rate": 0.355,
+          "horse_name": "プライベートアイズ"
+        },
+        {
+          "horse_number": 14,
+          "jockey_name": "黛",
+          "trainer_name": "美浦伊藤圭",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 10.45,
+          "combo_total": 30.468,
+          "jockey_top3_rate": 0.0,
+          "horse_name": "ネクストダンサー"
+        },
+        {
+          "horse_number": 7,
+          "jockey_name": "北村友",
+          "trainer_name": "栗東茶木",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 9.4,
+          "combo_total": 28.061,
+          "jockey_top3_rate": 0.077,
+          "horse_name": "マーウォルス"
+        },
+        {
+          "horse_number": 6,
+          "jockey_name": "横山琉",
+          "trainer_name": "栗東安田",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 6.97,
+          "combo_total": 21.943,
+          "jockey_top3_rate": 0.074,
+          "horse_name": "ストラーダ"
+        },
+        {
+          "horse_number": 10,
+          "jockey_name": "小沢",
+          "trainer_name": "栗東浜田",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 5.92,
+          "combo_total": 19.092,
+          "jockey_top3_rate": 0.267,
+          "horse_name": "リメンバーヒム"
+        },
+        {
+          "horse_number": 12,
+          "jockey_name": "浜中",
+          "trainer_name": "美浦堀",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 5.23,
+          "combo_total": 17.111,
+          "jockey_top3_rate": 0.071,
+          "horse_name": "チザルピーノ"
+        },
+        {
+          "horse_number": 9,
+          "jockey_name": "川又",
+          "trainer_name": "栗東小崎",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 5.23,
+          "combo_total": 17.111,
+          "jockey_top3_rate": 0.2,
+          "horse_name": "レディゴディヴァ"
+        },
+        {
+          "horse_number": 11,
+          "jockey_name": "長浜",
+          "trainer_name": "美浦柄崎",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 4.53,
+          "combo_total": 15.064,
+          "jockey_top3_rate": 0.0,
+          "horse_name": "ウインハルモニア"
+        },
+        {
+          "horse_number": 13,
+          "jockey_name": "古川吉",
+          "trainer_name": "栗東宮",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 2.79,
+          "combo_total": 9.647,
+          "jockey_top3_rate": 0.143,
+          "horse_name": "タガノエルー"
+        },
+        {
+          "horse_number": 4,
+          "jockey_name": "吉田隼",
+          "trainer_name": "栗東須貝",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 2.1,
+          "combo_total": 7.356,
+          "jockey_top3_rate": 0.267,
+          "horse_name": "テルアスワッド"
+        },
+        {
+          "horse_number": 5,
+          "jockey_name": "河原田",
+          "trainer_name": "美浦小手川",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 0.36,
+          "combo_total": 1.302,
+          "jockey_top3_rate": 0.0,
+          "horse_name": "フォーワンセルフ"
+        }
+      ],
+      "buys": [],
+      "n_tickets": 0,
+      "total_stake": 0,
+      "kelly_total_stake": 0,
+      "kelly_n_tickets": 0,
+      "result_top3": [],
+      "result_payout": null,
+      "axis_name": "ベラジオワールド"
+    },
+    {
+      "race_id": "202604020606",
+      "race_number": 6,
+      "race_name": "佐渡S",
+      "race_class": null,
+      "race_level": "その他",
+      "surface": "芝",
+      "distance_m": 1800,
+      "track_condition": "良",
+      "weather": "曇",
+      "num_runners": 13,
+      "start_time": "15:01",
+      "venue_name": "新潟",
+      "axis": 1,
+      "partners": [
+        11,
+        4,
+        2
+      ],
+      "threshold": 10.0,
+      "threshold_reason": "芝/ダート×馬場 [芝×良]",
+      "skipped": true,
+      "skip_reason": "相手3頭（4頭以上必要）",
+      "in_f4": true,
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 0.0,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": false,
+      "horses": [
+        {
+          "horse_number": 1,
+          "jockey_name": "佐々木",
+          "trainer_name": "美浦上原佑",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 14.59,
+          "combo_total": 39.515,
+          "jockey_top3_rate": 0.354,
+          "horse_name": "ライヒスアドラー"
+        },
+        {
+          "horse_number": 11,
+          "jockey_name": "坂井",
+          "trainer_name": "栗東松永幹",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 14.19,
+          "combo_total": 38.758,
+          "jockey_top3_rate": 0.559,
+          "horse_name": "デルアヴァー"
+        },
+        {
+          "horse_number": 4,
+          "jockey_name": "田辺",
+          "trainer_name": "美浦尾形",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 11.75,
+          "combo_total": 33.871,
+          "jockey_top3_rate": 0.222,
+          "horse_name": "ガジュノリ"
+        },
+        {
+          "horse_number": 2,
+          "jockey_name": "Ｍデムーロ",
+          "trainer_name": "栗東友道",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 10.94,
+          "combo_total": 32.104,
+          "jockey_top3_rate": null,
+          "horse_name": "コルレオニス"
+        },
+        {
+          "horse_number": 13,
+          "jockey_name": "石川",
+          "trainer_name": "美浦辻",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 9.32,
+          "combo_total": 28.344,
+          "jockey_top3_rate": 0.217,
+          "horse_name": "テンミラクルスター"
+        },
+        {
+          "horse_number": 3,
+          "jockey_name": "杉原",
+          "trainer_name": "美浦菊沢",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 8.91,
+          "combo_total": 27.356,
+          "jockey_top3_rate": 0.087,
+          "horse_name": "カニキュル"
+        },
+        {
+          "horse_number": 6,
+          "jockey_name": "松岡",
+          "trainer_name": "美浦伊藤大",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 8.1,
+          "combo_total": 25.318,
+          "jockey_top3_rate": 0.065,
+          "horse_name": "マカナ"
+        },
+        {
+          "horse_number": 10,
+          "jockey_name": "田山",
+          "trainer_name": "美浦蛯名正",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 8.1,
+          "combo_total": 25.318,
+          "jockey_top3_rate": 0.0,
+          "horse_name": "エラン"
+        },
+        {
+          "horse_number": 8,
+          "jockey_name": "大野",
+          "trainer_name": "美浦小手川",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 4.04,
+          "combo_total": 13.826,
+          "jockey_top3_rate": 0.286,
+          "horse_name": "クリニクラウン"
+        },
+        {
+          "horse_number": 9,
+          "jockey_name": "荻野極",
+          "trainer_name": "美浦鹿戸",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 3.23,
+          "combo_total": 11.249,
+          "jockey_top3_rate": 0.253,
+          "horse_name": "サトノヴィレ"
+        },
+        {
+          "horse_number": 7,
+          "jockey_name": "吉村",
+          "trainer_name": "栗東藤岡健",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 2.41,
+          "combo_total": 8.572,
+          "jockey_top3_rate": 0.167,
+          "horse_name": "モズロックンロール"
+        },
+        {
+          "horse_number": 12,
+          "jockey_name": "吉田豊",
+          "trainer_name": "美浦高橋文",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 2.41,
+          "combo_total": 8.572,
+          "jockey_top3_rate": 0.176,
+          "horse_name": "エスコバル"
+        },
+        {
+          "horse_number": 5,
+          "jockey_name": "菊沢",
+          "trainer_name": "栗東佐藤悠",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 2.01,
+          "combo_total": 7.196,
+          "jockey_top3_rate": 0.217,
+          "horse_name": "ハギノアルデバラン"
+        }
+      ],
+      "buys": [],
+      "n_tickets": 0,
+      "total_stake": 0,
+      "kelly_total_stake": 0,
+      "kelly_n_tickets": 0,
+      "result_top3": [],
+      "result_payout": null,
+      "axis_name": "ライヒスアドラー"
+    },
+    {
+      "race_id": "202607020606",
+      "race_number": 6,
+      "race_name": "浜名湖特別",
+      "race_class": null,
+      "race_level": "その他",
+      "surface": "芝",
+      "distance_m": 2000,
+      "track_condition": "良",
+      "weather": "曇",
+      "num_runners": 7,
+      "start_time": "15:10",
+      "venue_name": "中京",
+      "axis": 5,
+      "partners": [
+        1,
+        3,
+        2
+      ],
+      "threshold": 10.0,
+      "threshold_reason": "芝/ダート×馬場 [芝×良]",
+      "skipped": true,
+      "skip_reason": "相手3頭（4頭以上必要）",
+      "in_f4": true,
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 0.0,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": false,
+      "horses": [
+        {
+          "horse_number": 5,
+          "jockey_name": "川田",
+          "trainer_name": "栗東杉山晴",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 27.86,
+          "combo_total": 67.391,
+          "jockey_top3_rate": 0.526,
+          "horse_name": "カリーニョ"
+        },
+        {
+          "horse_number": 1,
+          "jockey_name": "田口",
+          "trainer_name": "栗東池江",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 23.33,
+          "combo_total": 62.662,
+          "jockey_top3_rate": 0.229,
+          "horse_name": "マイバレンタイン"
+        },
+        {
+          "horse_number": 3,
+          "jockey_name": "松山",
+          "trainer_name": "栗東鈴木孝",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 17.3,
+          "combo_total": 53.937,
+          "jockey_top3_rate": 0.351,
+          "horse_name": "カレントゥルーシー"
+        },
+        {
+          "horse_number": 2,
+          "jockey_name": "コレット",
+          "trainer_name": "栗東杉山晴",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 15.79,
+          "combo_total": 51.158,
+          "jockey_top3_rate": null,
+          "horse_name": "サトノアイボリー"
+        },
+        {
+          "horse_number": 4,
+          "jockey_name": "西村淳",
+          "trainer_name": "栗東坂口",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 8.25,
+          "combo_total": 32.438,
+          "jockey_top3_rate": 0.35,
+          "horse_name": "ダイヤモンドハンズ"
+        },
+        {
+          "horse_number": 6,
+          "jockey_name": "藤懸",
+          "trainer_name": "栗東松永幹",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 5.24,
+          "combo_total": 22.234,
+          "jockey_top3_rate": 0.0,
+          "horse_name": "ヤマニンループ"
+        },
+        {
+          "horse_number": 7,
+          "jockey_name": "富田",
+          "trainer_name": "栗東松下",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 2.22,
+          "combo_total": 10.181,
+          "jockey_top3_rate": 0.111,
+          "horse_name": "ショウナンハウル"
+        }
+      ],
+      "buys": [],
+      "n_tickets": 0,
+      "total_stake": 0,
+      "kelly_total_stake": 0,
+      "kelly_n_tickets": 0,
+      "result_top3": [],
+      "result_payout": null,
+      "axis_name": "カリーニョ"
+    },
+    {
+      "race_id": "202601010611",
+      "race_number": 11,
+      "race_name": "UHB賞",
+      "race_class": "OP",
+      "race_level": "OP",
+      "surface": "芝",
+      "distance_m": 1200,
+      "track_condition": "良",
+      "weather": "晴",
+      "num_runners": 16,
+      "start_time": "15:25",
+      "venue_name": "札幌",
+      "axis": 14,
+      "partners": [
+        3,
+        13,
+        2,
+        8,
+        16,
+        9,
+        6,
+        7
+      ],
+      "threshold": 5.5,
+      "threshold_reason": "グレード [OP]",
+      "skipped": false,
+      "skip_reason": null,
+      "in_f4": true,
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 0.0,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": false,
+      "horses": [
+        {
+          "horse_number": 14,
+          "jockey_name": "斎藤",
+          "trainer_name": "栗東茶木",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 11.66,
+          "combo_total": 32.344,
+          "jockey_top3_rate": 0.355,
+          "horse_name": "マーブルパレス"
+        },
+        {
+          "horse_number": 3,
+          "jockey_name": "吉田隼",
+          "trainer_name": "栗東武幸",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 11.13,
+          "combo_total": 31.233,
+          "jockey_top3_rate": 0.267,
+          "horse_name": "ブラックチャリス"
+        },
+        {
+          "horse_number": 13,
+          "jockey_name": "北村友",
+          "trainer_name": "美浦田島",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 10.34,
+          "combo_total": 29.512,
+          "jockey_top3_rate": 0.077,
+          "horse_name": "ルシード"
+        },
+        {
+          "horse_number": 2,
+          "jockey_name": "舟山",
+          "trainer_name": "栗東佐藤悠",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 9.28,
+          "combo_total": 27.113,
+          "jockey_top3_rate": 0.333,
+          "horse_name": "アスティスプマンテ"
+        },
+        {
+          "horse_number": 8,
+          "jockey_name": "古川奈",
+          "trainer_name": "栗東矢作",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 8.49,
+          "combo_total": 25.232,
+          "jockey_top3_rate": 0.0,
+          "horse_name": "モズナナスター"
+        },
+        {
+          "horse_number": 16,
+          "jockey_name": "岩田康",
+          "trainer_name": "栗東友道",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 8.49,
+          "combo_total": 25.232,
+          "jockey_top3_rate": 0.273,
+          "horse_name": "ロードフォアエース"
+        },
+        {
+          "horse_number": 9,
+          "jockey_name": "横山和",
+          "trainer_name": "美浦嘉藤",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 7.44,
+          "combo_total": 22.609,
+          "jockey_top3_rate": 0.371,
+          "horse_name": "カンティーユ"
+        },
+        {
+          "horse_number": 6,
+          "jockey_name": "古川吉",
+          "trainer_name": "美浦浅利",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 6.91,
+          "combo_total": 21.248,
+          "jockey_top3_rate": 0.143,
+          "horse_name": "シンバーシア"
+        },
+        {
+          "horse_number": 7,
+          "jockey_name": "横山琉",
+          "trainer_name": "栗東清水久",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 5.85,
+          "combo_total": 18.422,
+          "jockey_top3_rate": 0.074,
+          "horse_name": "ジョーメッドヴィン"
+        },
+        {
+          "horse_number": 1,
+          "jockey_name": "小沢",
+          "trainer_name": "栗東池添",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 5.33,
+          "combo_total": 16.956,
+          "jockey_top3_rate": 0.267,
+          "horse_name": "クファシル"
+        },
+        {
+          "horse_number": 10,
+          "jockey_name": "浜中",
+          "trainer_name": "栗東長谷川",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 5.33,
+          "combo_total": 16.956,
+          "jockey_top3_rate": 0.071,
+          "horse_name": "ナムラクララ"
+        },
+        {
+          "horse_number": 12,
+          "jockey_name": "長浜",
+          "trainer_name": "美浦岩戸",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 3.48,
+          "combo_total": 11.532,
+          "jockey_top3_rate": 0.0,
+          "horse_name": "サウザンサニー"
+        },
+        {
+          "horse_number": 5,
+          "jockey_name": "池添",
+          "trainer_name": "栗東藤原",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 1.9,
+          "combo_total": 6.505,
+          "jockey_top3_rate": 0.111,
+          "horse_name": "ダノンマッキンリー"
+        },
+        {
+          "horse_number": 11,
+          "jockey_name": "和田陽",
+          "trainer_name": "栗東本田",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 1.9,
+          "combo_total": 6.505,
+          "jockey_top3_rate": 0.0,
+          "horse_name": "ダンツエラン"
+        },
+        {
+          "horse_number": 15,
+          "jockey_name": "黛",
+          "trainer_name": "美浦矢嶋",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 1.37,
+          "combo_total": 4.748,
+          "jockey_top3_rate": 0.0,
+          "horse_name": "ウインアイオライト"
+        },
+        {
+          "horse_number": 4,
+          "jockey_name": "川又",
+          "trainer_name": "美浦斎藤誠",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 1.1,
+          "combo_total": 3.855,
+          "jockey_top3_rate": 0.2,
+          "horse_name": "ステークホルダー"
+        }
+      ],
+      "buys": [
+        {
+          "combo": [
+            3,
+            13,
+            14
+          ],
+          "prob": 1.045,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            2,
+            3,
+            14
+          ],
+          "prob": 0.938,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            2,
+            13,
+            14
+          ],
+          "prob": 0.871,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            3,
+            8,
+            14
+          ],
+          "prob": 0.858,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            3,
+            14,
+            16
+          ],
+          "prob": 0.858,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            8,
+            13,
+            14
+          ],
+          "prob": 0.797,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            13,
+            14,
+            16
+          ],
+          "prob": 0.797,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            3,
+            9,
+            14
+          ],
+          "prob": 0.752,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            2,
+            8,
+            14
+          ],
+          "prob": 0.716,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            2,
+            14,
+            16
+          ],
+          "prob": 0.716,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            3,
+            6,
+            14
+          ],
+          "prob": 0.698,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            9,
+            13,
+            14
+          ],
+          "prob": 0.698,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            8,
+            14,
+            16
+          ],
+          "prob": 0.655,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            6,
+            13,
+            14
+          ],
+          "prob": 0.649,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            2,
+            9,
+            14
+          ],
+          "prob": 0.627,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            3,
+            7,
+            14
+          ],
+          "prob": 0.592,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            2,
+            6,
+            14
+          ],
+          "prob": 0.582,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            8,
+            9,
+            14
+          ],
+          "prob": 0.573,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            9,
+            14,
+            16
+          ],
+          "prob": 0.573,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            7,
+            13,
+            14
+          ],
+          "prob": 0.549,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            6,
+            8,
+            14
+          ],
+          "prob": 0.533,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            6,
+            14,
+            16
+          ],
+          "prob": 0.533,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            2,
+            7,
+            14
+          ],
+          "prob": 0.493,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            6,
+            9,
+            14
+          ],
+          "prob": 0.466,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            7,
+            14,
+            16
+          ],
+          "prob": 0.451,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            7,
+            8,
+            14
+          ],
+          "prob": 0.451,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            7,
+            9,
+            14
+          ],
+          "prob": 0.395,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            6,
+            7,
+            14
+          ],
+          "prob": 0.367,
+          "payout_yen": null,
+          "kelly_stake": 0
+        }
+      ],
+      "n_tickets": 28,
+      "total_stake": 2800,
+      "kelly_total_stake": 0,
+      "kelly_n_tickets": 0,
+      "result_top3": [],
+      "result_payout": null,
+      "axis_name": "マーブルパレス"
+    },
+    {
+      "race_id": "202604020607",
+      "race_number": 7,
+      "race_name": "レパードS",
+      "race_class": "OP",
+      "race_level": "OP",
+      "surface": "ダート",
+      "distance_m": 1800,
+      "track_condition": "良",
+      "weather": "曇",
+      "num_runners": 12,
+      "start_time": "15:35",
+      "venue_name": "新潟",
+      "axis": 11,
+      "partners": [
+        6,
+        12,
+        5,
+        8,
+        4,
+        10,
+        2
+      ],
+      "threshold": 5.5,
+      "threshold_reason": "グレード [OP]",
+      "skipped": false,
+      "skip_reason": null,
+      "in_f4": true,
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 0.0,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": false,
+      "horses": [
+        {
+          "horse_number": 11,
+          "jockey_name": "岩田望",
+          "trainer_name": "栗東吉村",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 15.29,
+          "combo_total": 41.511,
+          "jockey_top3_rate": 0.525,
+          "horse_name": "パイロマンサー"
+        },
+        {
+          "horse_number": 6,
+          "jockey_name": "荻野極",
+          "trainer_name": "美浦高木",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 14.33,
+          "combo_total": 39.739,
+          "jockey_top3_rate": 0.253,
+          "horse_name": "ドンエレクトス"
+        },
+        {
+          "horse_number": 12,
+          "jockey_name": "坂井",
+          "trainer_name": "栗東杉山晴",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 13.37,
+          "combo_total": 37.876,
+          "jockey_top3_rate": 0.559,
+          "horse_name": "メルカントゥール"
+        },
+        {
+          "horse_number": 5,
+          "jockey_name": "戸崎圭",
+          "trainer_name": "美浦手塚久",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 12.89,
+          "combo_total": 36.91,
+          "jockey_top3_rate": 0.303,
+          "horse_name": "マクリール"
+        },
+        {
+          "horse_number": 8,
+          "jockey_name": "石川",
+          "trainer_name": "美浦林",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 9.53,
+          "combo_total": 29.431,
+          "jockey_top3_rate": 0.217,
+          "horse_name": "テンカムテキ"
+        },
+        {
+          "horse_number": 4,
+          "jockey_name": "吉村",
+          "trainer_name": "栗東清水久",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 9.05,
+          "combo_total": 28.254,
+          "jockey_top3_rate": 0.167,
+          "horse_name": "チェリヴェント"
+        },
+        {
+          "horse_number": 10,
+          "jockey_name": "菱田",
+          "trainer_name": "栗東角田",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 7.61,
+          "combo_total": 24.547,
+          "jockey_top3_rate": 0.143,
+          "horse_name": "タガノアバンドーネ"
+        },
+        {
+          "horse_number": 2,
+          "jockey_name": "原",
+          "trainer_name": "美浦上原博",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 6.17,
+          "combo_total": 20.566,
+          "jockey_top3_rate": 0.271,
+          "horse_name": "ファイアマン"
+        },
+        {
+          "horse_number": 3,
+          "jockey_name": "佐々木",
+          "trainer_name": "美浦堀",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 5.21,
+          "combo_total": 17.751,
+          "jockey_top3_rate": 0.354,
+          "horse_name": "ヒシアムルーズ"
+        },
+        {
+          "horse_number": 1,
+          "jockey_name": "津村",
+          "trainer_name": "栗東大久保",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 3.3,
+          "combo_total": 11.716,
+          "jockey_top3_rate": 0.308,
+          "horse_name": "オオツカ"
+        },
+        {
+          "horse_number": 9,
+          "jockey_name": "田山",
+          "trainer_name": "栗東松下",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 2.82,
+          "combo_total": 10.119,
+          "jockey_top3_rate": 0.0,
+          "horse_name": "ショウナンバンライ"
+        },
+        {
+          "horse_number": 7,
+          "jockey_name": "石橋脩",
+          "trainer_name": "美浦牧",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 0.42,
+          "combo_total": 1.581,
+          "jockey_top3_rate": 0.175,
+          "horse_name": "パラダイスフェイス"
+        }
+      ],
+      "buys": [
+        {
+          "combo": [
+            6,
+            11,
+            12
+          ],
+          "prob": 2.521,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            5,
+            6,
+            11
+          ],
+          "prob": 2.431,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            5,
+            11,
+            12
+          ],
+          "prob": 2.268,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            6,
+            8,
+            11
+          ],
+          "prob": 1.797,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            4,
+            6,
+            11
+          ],
+          "prob": 1.707,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            8,
+            11,
+            12
+          ],
+          "prob": 1.677,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            5,
+            8,
+            11
+          ],
+          "prob": 1.617,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            4,
+            11,
+            12
+          ],
+          "prob": 1.593,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            4,
+            5,
+            11
+          ],
+          "prob": 1.535,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            6,
+            10,
+            11
+          ],
+          "prob": 1.436,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            10,
+            11,
+            12
+          ],
+          "prob": 1.339,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            5,
+            10,
+            11
+          ],
+          "prob": 1.291,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            2,
+            6,
+            11
+          ],
+          "prob": 1.164,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            4,
+            8,
+            11
+          ],
+          "prob": 1.135,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            2,
+            11,
+            12
+          ],
+          "prob": 1.086,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            2,
+            5,
+            11
+          ],
+          "prob": 1.047,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            8,
+            10,
+            11
+          ],
+          "prob": 0.955,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            4,
+            10,
+            11
+          ],
+          "prob": 0.907,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            2,
+            8,
+            11
+          ],
+          "prob": 0.774,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            2,
+            4,
+            11
+          ],
+          "prob": 0.735,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            2,
+            10,
+            11
+          ],
+          "prob": 0.618,
+          "payout_yen": null,
+          "kelly_stake": 0
+        }
+      ],
+      "n_tickets": 21,
+      "total_stake": 2100,
+      "kelly_total_stake": 0,
+      "kelly_n_tickets": 0,
+      "result_top3": [],
+      "result_payout": null,
+      "axis_name": "パイロマンサー"
+    },
+    {
+      "race_id": "202607020607",
+      "race_number": 7,
+      "race_name": "CBC賞",
+      "race_class": "OP",
+      "race_level": "OP",
+      "surface": "芝",
+      "distance_m": 1200,
+      "track_condition": "良",
+      "weather": "曇",
+      "num_runners": 18,
+      "start_time": "15:45",
+      "venue_name": "中京",
+      "axis": 7,
+      "partners": [
+        13,
+        3,
+        12,
+        17,
+        14,
+        6,
+        16,
+        15
+      ],
+      "threshold": 5.5,
+      "threshold_reason": "グレード [OP]",
+      "skipped": false,
+      "skip_reason": null,
+      "in_f4": true,
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 0.0,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": false,
+      "horses": [
+        {
+          "horse_number": 7,
+          "jockey_name": "川田",
+          "trainer_name": "栗東斉藤崇",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 10.42,
+          "combo_total": 29.152,
+          "jockey_top3_rate": 0.526,
+          "horse_name": "ディアナザール"
+        },
+        {
+          "horse_number": 13,
+          "jockey_name": "丸山",
+          "trainer_name": "美浦鹿戸",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 9.8,
+          "combo_total": 27.781,
+          "jockey_top3_rate": 0.4,
+          "horse_name": "サンアントワーヌ"
+        },
+        {
+          "horse_number": 3,
+          "jockey_name": "横山武",
+          "trainer_name": "栗東中竹",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 9.38,
+          "combo_total": 26.844,
+          "jockey_top3_rate": 0.441,
+          "horse_name": "レイピア"
+        },
+        {
+          "horse_number": 12,
+          "jockey_name": "団野",
+          "trainer_name": "美浦伊藤大",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 8.35,
+          "combo_total": 24.421,
+          "jockey_top3_rate": 0.263,
+          "horse_name": "インビンシブルパパ"
+        },
+        {
+          "horse_number": 17,
+          "jockey_name": "西塚",
+          "trainer_name": "栗東藤岡健",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 8.35,
+          "combo_total": 24.421,
+          "jockey_top3_rate": 0.238,
+          "horse_name": "タマモイカロス"
+        },
+        {
+          "horse_number": 14,
+          "jockey_name": "松山",
+          "trainer_name": "栗東西園翔",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 7.52,
+          "combo_total": 22.395,
+          "jockey_top3_rate": 0.351,
+          "horse_name": "コウセキ"
+        },
+        {
+          "horse_number": 6,
+          "jockey_name": "西村淳",
+          "trainer_name": "栗東東田",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 7.31,
+          "combo_total": 21.877,
+          "jockey_top3_rate": 0.35,
+          "horse_name": "レッドエヴァンス"
+        },
+        {
+          "horse_number": 16,
+          "jockey_name": "コレット",
+          "trainer_name": "栗東坂口",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 7.31,
+          "combo_total": 21.877,
+          "jockey_top3_rate": null,
+          "horse_name": "アブキールベイ"
+        },
+        {
+          "horse_number": 15,
+          "jockey_name": "松若",
+          "trainer_name": "栗東高橋亮",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 6.28,
+          "combo_total": 19.206,
+          "jockey_top3_rate": 0.135,
+          "horse_name": "アンクルクロス"
+        },
+        {
+          "horse_number": 11,
+          "jockey_name": "角田和",
+          "trainer_name": "栗東角田",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 4.62,
+          "combo_total": 14.657,
+          "jockey_top3_rate": 0.182,
+          "horse_name": "タマモブラックタイ"
+        },
+        {
+          "horse_number": 2,
+          "jockey_name": "中井",
+          "trainer_name": "栗東森秀",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 4.42,
+          "combo_total": 14.064,
+          "jockey_top3_rate": 0.182,
+          "horse_name": "フロムダスク"
+        },
+        {
+          "horse_number": 8,
+          "jockey_name": "太宰",
+          "trainer_name": "栗東柴田",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 4.21,
+          "combo_total": 13.465,
+          "jockey_top3_rate": 0.227,
+          "horse_name": "フィオライア"
+        },
+        {
+          "horse_number": 9,
+          "jockey_name": "小崎",
+          "trainer_name": "栗東河嶋",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 3.59,
+          "combo_total": 11.634,
+          "jockey_top3_rate": 0.0,
+          "horse_name": "クラスペディア"
+        },
+        {
+          "horse_number": 5,
+          "jockey_name": "永島",
+          "trainer_name": "栗東浜田",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 2.97,
+          "combo_total": 9.752,
+          "jockey_top3_rate": 0.0,
+          "horse_name": "ジェニファー"
+        },
+        {
+          "horse_number": 10,
+          "jockey_name": "幸",
+          "trainer_name": "栗東羽月",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 2.35,
+          "combo_total": 7.816,
+          "jockey_top3_rate": 0.229,
+          "horse_name": "ナムラローズマリー"
+        },
+        {
+          "horse_number": 1,
+          "jockey_name": "藤懸",
+          "trainer_name": "栗東浜田",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 1.31,
+          "combo_total": 4.469,
+          "jockey_top3_rate": 0.0,
+          "horse_name": "イツモニコニコ"
+        },
+        {
+          "horse_number": 18,
+          "jockey_name": "高倉",
+          "trainer_name": "栗東武英",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 1.11,
+          "combo_total": 3.782,
+          "jockey_top3_rate": 0.0,
+          "horse_name": "ペプチドヤマト"
+        },
+        {
+          "horse_number": 4,
+          "jockey_name": "亀田",
+          "trainer_name": "栗東西村",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 0.69,
+          "combo_total": 2.387,
+          "jockey_top3_rate": 0.0,
+          "horse_name": "プロトポロス"
+        }
+      ],
+      "buys": [
+        {
+          "combo": [
+            3,
+            7,
+            13
+          ],
+          "prob": 0.724,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            7,
+            12,
+            13
+          ],
+          "prob": 0.644,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            7,
+            13,
+            17
+          ],
+          "prob": 0.644,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            3,
+            7,
+            12
+          ],
+          "prob": 0.617,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            3,
+            7,
+            17
+          ],
+          "prob": 0.617,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            7,
+            13,
+            14
+          ],
+          "prob": 0.58,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            6,
+            7,
+            13
+          ],
+          "prob": 0.564,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            7,
+            13,
+            16
+          ],
+          "prob": 0.564,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            3,
+            7,
+            14
+          ],
+          "prob": 0.555,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            7,
+            12,
+            17
+          ],
+          "prob": 0.549,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            3,
+            6,
+            7
+          ],
+          "prob": 0.54,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            3,
+            7,
+            16
+          ],
+          "prob": 0.54,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            7,
+            12,
+            14
+          ],
+          "prob": 0.494,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            7,
+            14,
+            17
+          ],
+          "prob": 0.494,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            7,
+            13,
+            15
+          ],
+          "prob": 0.484,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            6,
+            7,
+            12
+          ],
+          "prob": 0.481,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            7,
+            12,
+            16
+          ],
+          "prob": 0.481,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            6,
+            7,
+            17
+          ],
+          "prob": 0.481,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            7,
+            16,
+            17
+          ],
+          "prob": 0.481,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            3,
+            7,
+            15
+          ],
+          "prob": 0.464,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            6,
+            7,
+            14
+          ],
+          "prob": 0.433,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            7,
+            14,
+            16
+          ],
+          "prob": 0.433,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            6,
+            7,
+            16
+          ],
+          "prob": 0.421,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            7,
+            12,
+            15
+          ],
+          "prob": 0.413,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            7,
+            15,
+            17
+          ],
+          "prob": 0.413,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            7,
+            14,
+            15
+          ],
+          "prob": 0.372,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            6,
+            7,
+            15
+          ],
+          "prob": 0.361,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            7,
+            15,
+            16
+          ],
+          "prob": 0.361,
+          "payout_yen": null,
+          "kelly_stake": 0
+        }
+      ],
+      "n_tickets": 28,
+      "total_stake": 2800,
+      "kelly_total_stake": 0,
+      "kelly_n_tickets": 0,
+      "result_top3": [],
+      "result_payout": null,
+      "axis_name": "ディアナザール"
+    },
+    {
+      "race_id": "202601010612",
+      "race_number": 12,
+      "race_name": "石狩特別",
+      "race_class": null,
+      "race_level": "その他",
+      "surface": "芝",
+      "distance_m": 1800,
+      "track_condition": "良",
+      "weather": "晴",
+      "num_runners": 8,
+      "start_time": "16:01",
+      "venue_name": "札幌",
+      "axis": 8,
+      "partners": [
+        2,
+        4,
+        1
+      ],
+      "threshold": 10.0,
+      "threshold_reason": "芝/ダート×馬場 [芝×良]",
+      "skipped": true,
+      "skip_reason": "相手3頭（4頭以上必要）",
+      "in_f4": true,
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 0.0,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": false,
+      "horses": [
+        {
+          "horse_number": 8,
+          "jockey_name": "北村友",
+          "trainer_name": "美浦木村",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 24.38,
+          "combo_total": 60.263,
+          "jockey_top3_rate": 0.077,
+          "horse_name": "ヴァロアーク"
+        },
+        {
+          "horse_number": 2,
+          "jockey_name": "横山典",
+          "trainer_name": "美浦村田",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 20.98,
+          "combo_total": 56.01,
+          "jockey_top3_rate": 0.562,
+          "horse_name": "ロングミックス"
+        },
+        {
+          "horse_number": 4,
+          "jockey_name": "荻野琢",
+          "trainer_name": "栗東今野",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 15.33,
+          "combo_total": 46.784,
+          "jockey_top3_rate": 0.273,
+          "horse_name": "グレーヌドジョワ"
+        },
+        {
+          "horse_number": 1,
+          "jockey_name": "斎藤",
+          "trainer_name": "美浦武市",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 13.07,
+          "combo_total": 42.129,
+          "jockey_top3_rate": 0.355,
+          "horse_name": "マイネルシンベリン"
+        },
+        {
+          "horse_number": 3,
+          "jockey_name": "吉田隼",
+          "trainer_name": "美浦武井",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 9.67,
+          "combo_total": 33.884,
+          "jockey_top3_rate": 0.267,
+          "horse_name": "ゴーゴータカシ"
+        },
+        {
+          "horse_number": 7,
+          "jockey_name": "浜中",
+          "trainer_name": "栗東緒方",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 8.54,
+          "combo_total": 30.762,
+          "jockey_top3_rate": 0.071,
+          "horse_name": "ディーリライズ"
+        },
+        {
+          "horse_number": 5,
+          "jockey_name": "舟山",
+          "trainer_name": "美浦栗田",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 7.41,
+          "combo_total": 27.438,
+          "jockey_top3_rate": 0.333,
+          "horse_name": "グランセゾン"
+        },
+        {
+          "horse_number": 6,
+          "jockey_name": "小沢",
+          "trainer_name": "栗東矢作",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 0.62,
+          "combo_total": 2.729,
+          "jockey_top3_rate": 0.267,
+          "horse_name": "ドーギッド"
+        }
+      ],
+      "buys": [],
+      "n_tickets": 0,
+      "total_stake": 0,
+      "kelly_total_stake": 0,
+      "kelly_n_tickets": 0,
+      "result_top3": [],
+      "result_payout": null,
+      "axis_name": "ヴァロアーク"
+    },
+    {
+      "race_id": "202604020608",
+      "race_number": 8,
+      "race_name": "驀進特別",
+      "race_class": null,
+      "race_level": "その他",
+      "surface": "芝",
+      "distance_m": 1000,
+      "track_condition": "良",
+      "weather": "曇",
+      "num_runners": 17,
+      "start_time": "16:10",
+      "venue_name": "新潟",
+      "axis": 11,
+      "partners": [
+        12,
+        8
+      ],
+      "threshold": 10.0,
+      "threshold_reason": "芝/ダート×馬場 [芝×良]",
+      "skipped": true,
+      "skip_reason": "相手2頭（4頭以上必要）",
+      "in_f4": true,
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 0.0,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": false,
+      "horses": [
+        {
+          "horse_number": 11,
+          "jockey_name": "菊沢",
+          "trainer_name": "美浦小手川",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 11.24,
+          "combo_total": 31.133,
+          "jockey_top3_rate": 0.217,
+          "horse_name": "ハニーローリエ"
+        },
+        {
+          "horse_number": 12,
+          "jockey_name": "津村",
+          "trainer_name": "美浦鈴木慎",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 10.31,
+          "combo_total": 29.129,
+          "jockey_top3_rate": 0.308,
+          "horse_name": "レジーナローズ"
+        },
+        {
+          "horse_number": 8,
+          "jockey_name": "江田照",
+          "trainer_name": "美浦室井",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 10.07,
+          "combo_total": 28.614,
+          "jockey_top3_rate": 0.208,
+          "horse_name": "カレンデュラ"
+        },
+        {
+          "horse_number": 2,
+          "jockey_name": "坂井",
+          "trainer_name": "栗東吉村",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 9.38,
+          "combo_total": 27.033,
+          "jockey_top3_rate": 0.559,
+          "horse_name": "ラヴェンデル"
+        },
+        {
+          "horse_number": 17,
+          "jockey_name": "岩田望",
+          "trainer_name": "美浦矢野",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 8.44,
+          "combo_total": 24.842,
+          "jockey_top3_rate": 0.525,
+          "horse_name": "クールベイビー"
+        },
+        {
+          "horse_number": 7,
+          "jockey_name": "三浦",
+          "trainer_name": "美浦菊川",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 7.28,
+          "combo_total": 21.963,
+          "jockey_top3_rate": 0.269,
+          "horse_name": "ラトルシェ"
+        },
+        {
+          "horse_number": 15,
+          "jockey_name": "田山",
+          "trainer_name": "栗東長谷川",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 7.28,
+          "combo_total": 21.963,
+          "jockey_top3_rate": 0.0,
+          "horse_name": "キントラダンサー"
+        },
+        {
+          "horse_number": 1,
+          "jockey_name": "佐々木",
+          "trainer_name": "栗東橋田",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 6.58,
+          "combo_total": 20.159,
+          "jockey_top3_rate": 0.354,
+          "horse_name": "クォーツァイト"
+        },
+        {
+          "horse_number": 13,
+          "jockey_name": "吉村",
+          "trainer_name": "栗東清水久",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 5.42,
+          "combo_total": 17.017,
+          "jockey_top3_rate": 0.167,
+          "horse_name": "ロードトレゾール"
+        },
+        {
+          "horse_number": 16,
+          "jockey_name": "菱田",
+          "trainer_name": "美浦辻",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 4.95,
+          "combo_total": 15.712,
+          "jockey_top3_rate": 0.143,
+          "horse_name": "メッエフアパラ"
+        },
+        {
+          "horse_number": 4,
+          "jockey_name": "武藤",
+          "trainer_name": "美浦菊沢",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 4.72,
+          "combo_total": 15.049,
+          "jockey_top3_rate": 0.154,
+          "horse_name": "ミスエル"
+        },
+        {
+          "horse_number": 10,
+          "jockey_name": "石川",
+          "trainer_name": "栗東吉田",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 4.72,
+          "combo_total": 15.049,
+          "jockey_top3_rate": 0.217,
+          "horse_name": "ペイシャヴァルツー"
+        },
+        {
+          "horse_number": 9,
+          "jockey_name": "田辺裕信",
+          "trainer_name": "美浦大和田",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 3.55,
+          "combo_total": 11.626,
+          "jockey_top3_rate": 0.265,
+          "horse_name": "サトノアルペジオ"
+        },
+        {
+          "horse_number": 14,
+          "jockey_name": "石田",
+          "trainer_name": "美浦田中勝",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 1.92,
+          "combo_total": 6.521,
+          "jockey_top3_rate": 0.5,
+          "horse_name": "ラブディーヴァ"
+        },
+        {
+          "horse_number": 3,
+          "jockey_name": "原",
+          "trainer_name": "美浦伊坂",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 1.69,
+          "combo_total": 5.761,
+          "jockey_top3_rate": 0.271,
+          "horse_name": "リュウノタブーク"
+        },
+        {
+          "horse_number": 6,
+          "jockey_name": "杉原",
+          "trainer_name": "美浦中舘",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 1.46,
+          "combo_total": 4.993,
+          "jockey_top3_rate": 0.087,
+          "horse_name": "ゼンダンタカ"
+        },
+        {
+          "horse_number": 5,
+          "jockey_name": "Ｍデムーロ",
+          "trainer_name": "美浦蛯名利",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 0.99,
+          "combo_total": 3.433,
+          "jockey_top3_rate": null,
+          "horse_name": "スペルキャスター"
+        }
+      ],
+      "buys": [],
+      "n_tickets": 0,
+      "total_stake": 0,
+      "kelly_total_stake": 0,
+      "kelly_n_tickets": 0,
+      "result_top3": [],
+      "result_payout": null,
+      "axis_name": "ハニーローリエ"
+    },
+    {
+      "race_id": "202607020608",
+      "race_number": 8,
+      "race_name": "揖斐川特別",
+      "race_class": null,
+      "race_level": "その他",
+      "surface": "ダート",
+      "distance_m": 1800,
+      "track_condition": "良",
+      "weather": "曇",
+      "num_runners": 11,
+      "start_time": "16:20",
+      "venue_name": "中京",
+      "axis": 11,
+      "partners": [
+        2,
+        4,
+        5
+      ],
+      "threshold": 11.0,
+      "threshold_reason": "芝/ダート×馬場 [ダート×良]",
+      "skipped": true,
+      "skip_reason": "相手3頭（4頭以上必要）",
+      "in_f4": true,
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 0.0,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": false,
+      "horses": [
+        {
+          "horse_number": 11,
+          "jockey_name": "川田",
+          "trainer_name": "栗東杉山晴",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 17.73,
+          "combo_total": 46.638,
+          "jockey_top3_rate": 0.526,
+          "horse_name": "リベッチオ"
+        },
+        {
+          "horse_number": 2,
+          "jockey_name": "コレット",
+          "trainer_name": "栗東田中克",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 15.42,
+          "combo_total": 42.708,
+          "jockey_top3_rate": null,
+          "horse_name": "ブルックリンダンス"
+        },
+        {
+          "horse_number": 4,
+          "jockey_name": "横山武",
+          "trainer_name": "美浦千葉",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 14.85,
+          "combo_total": 41.648,
+          "jockey_top3_rate": 0.441,
+          "horse_name": "ケイツーリーブル"
+        },
+        {
+          "horse_number": 5,
+          "jockey_name": "松山",
+          "trainer_name": "栗東吉村",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 12.55,
+          "combo_total": 37.069,
+          "jockey_top3_rate": 0.351,
+          "horse_name": "クロノスバレット"
+        },
+        {
+          "horse_number": 3,
+          "jockey_name": "田口",
+          "trainer_name": "栗東大橋",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 9.67,
+          "combo_total": 30.504,
+          "jockey_top3_rate": 0.229,
+          "horse_name": "タイガースパーク"
+        },
+        {
+          "horse_number": 8,
+          "jockey_name": "中井",
+          "trainer_name": "栗東角田",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 7.94,
+          "combo_total": 26.066,
+          "jockey_top3_rate": 0.182,
+          "horse_name": "キングオブフジ"
+        },
+        {
+          "horse_number": 9,
+          "jockey_name": "西塚",
+          "trainer_name": "栗東森田",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 7.94,
+          "combo_total": 26.066,
+          "jockey_top3_rate": 0.238,
+          "horse_name": "ハイディージェン"
+        },
+        {
+          "horse_number": 6,
+          "jockey_name": "富田",
+          "trainer_name": "美浦牧",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 6.21,
+          "combo_total": 21.221,
+          "jockey_top3_rate": 0.111,
+          "horse_name": "ジェシーテソーロ"
+        },
+        {
+          "horse_number": 7,
+          "jockey_name": "幸",
+          "trainer_name": "栗東大根田",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 4.48,
+          "combo_total": 15.941,
+          "jockey_top3_rate": 0.229,
+          "horse_name": "トモジャザーン"
+        },
+        {
+          "horse_number": 10,
+          "jockey_name": "藤懸",
+          "trainer_name": "栗東羽月",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 2.18,
+          "combo_total": 8.175,
+          "jockey_top3_rate": 0.0,
+          "horse_name": "シュヴァルツリーベ"
+        },
+        {
+          "horse_number": 1,
+          "jockey_name": "角田和",
+          "trainer_name": "栗東飯田",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 1.03,
+          "combo_total": 3.964,
+          "jockey_top3_rate": 0.182,
+          "horse_name": "メイショウジェンマ"
+        }
+      ],
+      "buys": [],
+      "n_tickets": 0,
+      "total_stake": 0,
+      "kelly_total_stake": 0,
+      "kelly_n_tickets": 0,
+      "result_top3": [],
+      "result_payout": null,
+      "axis_name": "リベッチオ"
+    },
+    {
+      "race_id": "202604020609",
+      "race_number": 9,
+      "race_name": "3歳以上2勝クラス",
+      "race_class": "2勝クラス",
+      "race_level": "2勝クラス",
+      "surface": "ダート",
+      "distance_m": 1200,
+      "track_condition": "良",
+      "weather": "曇",
+      "num_runners": 15,
+      "start_time": "16:45",
+      "venue_name": "新潟",
+      "axis": 14,
+      "partners": [
+        5,
+        11
+      ],
+      "threshold": 11.0,
+      "threshold_reason": "芝/ダート×馬場 [ダート×良]",
+      "skipped": true,
+      "skip_reason": "相手2頭（4頭以上必要）",
+      "in_f4": true,
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 0.0,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": false,
+      "horses": [
+        {
+          "horse_number": 14,
+          "jockey_name": "荻野極",
+          "trainer_name": "美浦上原佑",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 13.0,
+          "combo_total": 35.432,
+          "jockey_top3_rate": 0.253,
+          "horse_name": "ピコテンダー"
+        },
+        {
+          "horse_number": 5,
+          "jockey_name": "岩田望",
+          "trainer_name": "栗東中竹",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 12.1,
+          "combo_total": 33.617,
+          "jockey_top3_rate": 0.525,
+          "horse_name": "アスタールフナ"
+        },
+        {
+          "horse_number": 11,
+          "jockey_name": "坂井",
+          "trainer_name": "美浦小笠",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 11.19,
+          "combo_total": 31.719,
+          "jockey_top3_rate": 0.559,
+          "horse_name": "ハッピーウィズユー"
+        },
+        {
+          "horse_number": 3,
+          "jockey_name": "菊沢一樹",
+          "trainer_name": "美浦粕谷",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 9.38,
+          "combo_total": 27.66,
+          "jockey_top3_rate": 0.169,
+          "horse_name": "フォンメイリー"
+        },
+        {
+          "horse_number": 6,
+          "jockey_name": "☆田山",
+          "trainer_name": "栗東茶木",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 9.08,
+          "combo_total": 26.948,
+          "jockey_top3_rate": null,
+          "horse_name": "ダノンモンテローザ"
+        },
+        {
+          "horse_number": 8,
+          "jockey_name": "吉田豊",
+          "trainer_name": "美浦勢司",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 7.87,
+          "combo_total": 23.994,
+          "jockey_top3_rate": 0.176,
+          "horse_name": "キョウエイカンフ"
+        },
+        {
+          "horse_number": 10,
+          "jockey_name": "原",
+          "trainer_name": "美浦和田郎",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 7.27,
+          "combo_total": 22.451,
+          "jockey_top3_rate": 0.271,
+          "horse_name": "フィーチャリング"
+        },
+        {
+          "horse_number": 13,
+          "jockey_name": "▲佐藤",
+          "trainer_name": "美浦伊藤圭",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 6.97,
+          "combo_total": 21.663,
+          "jockey_top3_rate": 0.231,
+          "horse_name": "アルジェンタージョ"
+        },
+        {
+          "horse_number": 15,
+          "jockey_name": "吉村",
+          "trainer_name": "美浦伊坂",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 6.37,
+          "combo_total": 20.052,
+          "jockey_top3_rate": 0.167,
+          "horse_name": "マーゴットゲイン"
+        },
+        {
+          "horse_number": 4,
+          "jockey_name": "木幡巧",
+          "trainer_name": "栗東小椋",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 4.56,
+          "combo_total": 14.934,
+          "jockey_top3_rate": 0.1,
+          "horse_name": "ダズリングダンス"
+        },
+        {
+          "horse_number": 2,
+          "jockey_name": "△石神道",
+          "trainer_name": "栗東吉岡",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 3.65,
+          "combo_total": 12.209,
+          "jockey_top3_rate": null,
+          "horse_name": "プレアデスグループ"
+        },
+        {
+          "horse_number": 7,
+          "jockey_name": "大野",
+          "trainer_name": "美浦村田",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 3.65,
+          "combo_total": 12.209,
+          "jockey_top3_rate": 0.286,
+          "horse_name": "シャンハイナイト"
+        },
+        {
+          "horse_number": 1,
+          "jockey_name": "▲石田",
+          "trainer_name": "美浦新開",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 2.44,
+          "combo_total": 8.394,
+          "jockey_top3_rate": 0.125,
+          "horse_name": "タイセイピューマ"
+        },
+        {
+          "horse_number": 12,
+          "jockey_name": "佐々木",
+          "trainer_name": "美浦矢嶋",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 1.54,
+          "combo_total": 5.394,
+          "jockey_top3_rate": 0.354,
+          "horse_name": "レッドセニョール"
+        },
+        {
+          "horse_number": 9,
+          "jockey_name": "▲上里",
+          "trainer_name": "美浦手塚徳",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 0.94,
+          "combo_total": 3.324,
+          "jockey_top3_rate": 0.056,
+          "horse_name": "シュバルツガイスト"
+        }
+      ],
+      "buys": [],
+      "n_tickets": 0,
+      "total_stake": 0,
+      "kelly_total_stake": 0,
+      "kelly_n_tickets": 0,
+      "result_top3": [],
+      "result_payout": null,
+      "axis_name": "ピコテンダー"
+    },
+    {
+      "race_id": "202604020610",
+      "race_number": 10,
+      "race_name": "3歳以上1勝クラス",
+      "race_class": "1勝クラス",
+      "race_level": "1勝クラス",
+      "surface": "芝",
+      "distance_m": 2000,
+      "track_condition": "良",
+      "weather": "曇",
+      "num_runners": 7,
+      "start_time": "17:20",
+      "venue_name": "新潟",
+      "axis": 5,
+      "partners": [
+        7,
+        4,
+        2,
+        6
+      ],
+      "threshold": 10.0,
+      "threshold_reason": "芝/ダート×馬場 [芝×良]",
+      "skipped": false,
+      "skip_reason": null,
+      "in_f4": true,
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 0.0,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": false,
+      "horses": [
+        {
+          "horse_number": 5,
+          "jockey_name": "津村",
+          "trainer_name": "美浦手塚久",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 27.86,
+          "combo_total": 67.291,
+          "jockey_top3_rate": 0.308,
+          "horse_name": "モートンアイランド"
+        },
+        {
+          "horse_number": 7,
+          "jockey_name": "戸崎圭",
+          "trainer_name": "美浦黒岩",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 23.33,
+          "combo_total": 62.548,
+          "jockey_top3_rate": 0.303,
+          "horse_name": "ウップヘリーア"
+        },
+        {
+          "horse_number": 4,
+          "jockey_name": "田辺",
+          "trainer_name": "美浦栗田",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 15.79,
+          "combo_total": 51.039,
+          "jockey_top3_rate": 0.222,
+          "horse_name": "イスキオス"
+        },
+        {
+          "horse_number": 2,
+          "jockey_name": "杉原",
+          "trainer_name": "美浦松山",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 14.29,
+          "combo_total": 47.974,
+          "jockey_top3_rate": 0.087,
+          "horse_name": "ミッドセンチュリー"
+        },
+        {
+          "horse_number": 6,
+          "jockey_name": "三浦",
+          "trainer_name": "美浦中舘",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 12.78,
+          "combo_total": 44.597,
+          "jockey_top3_rate": 0.269,
+          "horse_name": "オプレントジュエル"
+        },
+        {
+          "horse_number": 3,
+          "jockey_name": "菊沢",
+          "trainer_name": "美浦萱野",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 3.73,
+          "combo_total": 16.402,
+          "jockey_top3_rate": 0.217,
+          "horse_name": "テイキットイージー"
+        },
+        {
+          "horse_number": 1,
+          "jockey_name": "石橋脩",
+          "trainer_name": "美浦高橋文",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 2.22,
+          "combo_total": 10.149,
+          "jockey_top3_rate": 0.175,
+          "horse_name": "トラストモアリズム"
+        }
+      ],
+      "buys": [
+        {
+          "combo": [
+            4,
+            5,
+            7
+          ],
+          "prob": 12.324,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            2,
+            5,
+            7
+          ],
+          "prob": 11.147,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            5,
+            6,
+            7
+          ],
+          "prob": 9.97,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            2,
+            4,
+            5
+          ],
+          "prob": 7.545,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            4,
+            5,
+            6
+          ],
+          "prob": 6.749,
+          "payout_yen": null,
+          "kelly_stake": 0
+        },
+        {
+          "combo": [
+            2,
+            5,
+            6
+          ],
+          "prob": 6.104,
+          "payout_yen": null,
+          "kelly_stake": 0
+        }
+      ],
+      "n_tickets": 6,
+      "total_stake": 600,
+      "kelly_total_stake": 0,
+      "kelly_n_tickets": 0,
+      "result_top3": [],
+      "result_payout": null,
+      "axis_name": "モートンアイランド"
+    },
+    {
+      "race_id": "202607020610",
+      "race_number": 10,
+      "race_name": "3歳以上1勝クラス",
+      "race_class": "1勝クラス",
+      "race_level": "1勝クラス",
+      "surface": "ダート",
+      "distance_m": 1200,
+      "track_condition": "良",
+      "weather": "曇",
+      "num_runners": 16,
+      "start_time": "17:30",
+      "venue_name": "中京",
+      "axis": 2,
+      "partners": [],
+      "threshold": 11.0,
+      "threshold_reason": "芝/ダート×馬場 [ダート×良]",
+      "skipped": true,
+      "skip_reason": "相手0頭（4頭以上必要）",
+      "in_f4": true,
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 0.0,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": false,
+      "horses": [
+        {
+          "horse_number": 2,
+          "jockey_name": "松山",
+          "trainer_name": "栗東渡辺",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 12.19,
+          "combo_total": 33.16,
+          "jockey_top3_rate": 0.351,
+          "horse_name": "ラヴネヴァーダイズ"
+        },
+        {
+          "horse_number": 13,
+          "jockey_name": "▲森田",
+          "trainer_name": "栗東小栗",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 9.55,
+          "combo_total": 27.494,
+          "jockey_top3_rate": 0.087,
+          "horse_name": "ヴォンドゥ"
+        },
+        {
+          "horse_number": 14,
+          "jockey_name": "幸",
+          "trainer_name": "栗東新谷",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 9.02,
+          "combo_total": 26.272,
+          "jockey_top3_rate": 0.229,
+          "horse_name": "リーグナイト"
+        },
+        {
+          "horse_number": 11,
+          "jockey_name": "西塚",
+          "trainer_name": "栗東藤原",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 8.49,
+          "combo_total": 25.019,
+          "jockey_top3_rate": 0.238,
+          "horse_name": "アメリカンビヨンド"
+        },
+        {
+          "horse_number": 12,
+          "jockey_name": "藤懸",
+          "trainer_name": "栗東宮本",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 8.49,
+          "combo_total": 25.019,
+          "jockey_top3_rate": 0.0,
+          "horse_name": "アイファーモービル"
+        },
+        {
+          "horse_number": 4,
+          "jockey_name": "高倉",
+          "trainer_name": "栗東武英",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 7.17,
+          "combo_total": 21.745,
+          "jockey_top3_rate": 0.0,
+          "horse_name": "ワイルドブッター"
+        },
+        {
+          "horse_number": 16,
+          "jockey_name": "田口",
+          "trainer_name": "栗東庄野",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 7.17,
+          "combo_total": 21.745,
+          "jockey_top3_rate": 0.229,
+          "horse_name": "シンギタイ"
+        },
+        {
+          "horse_number": 8,
+          "jockey_name": "小崎",
+          "trainer_name": "栗東寺島",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 6.65,
+          "combo_total": 20.377,
+          "jockey_top3_rate": 0.0,
+          "horse_name": "ナウオアネヴァー"
+        },
+        {
+          "horse_number": 1,
+          "jockey_name": "団野",
+          "trainer_name": "栗東森秀",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 6.38,
+          "combo_total": 19.68,
+          "jockey_top3_rate": 0.263,
+          "horse_name": "プールナバドラ"
+        },
+        {
+          "horse_number": 10,
+          "jockey_name": "松若",
+          "trainer_name": "栗東佐藤悠",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 6.38,
+          "combo_total": 19.68,
+          "jockey_top3_rate": 0.135,
+          "horse_name": "グランデスフィーダ"
+        },
+        {
+          "horse_number": 15,
+          "jockey_name": "川須",
+          "trainer_name": "栗東羽月",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 6.38,
+          "combo_total": 19.68,
+          "jockey_top3_rate": 0.0,
+          "horse_name": "サヨノパララックス"
+        },
+        {
+          "horse_number": 9,
+          "jockey_name": "秋山稔",
+          "trainer_name": "栗東牧田",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 4.01,
+          "combo_total": 13.011,
+          "jockey_top3_rate": 0.211,
+          "horse_name": "ガビーズブラザー"
+        },
+        {
+          "horse_number": 5,
+          "jockey_name": "国分恭",
+          "trainer_name": "栗東安達",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 3.48,
+          "combo_total": 11.428,
+          "jockey_top3_rate": 0.118,
+          "horse_name": "スレッドザニードル"
+        },
+        {
+          "horse_number": 7,
+          "jockey_name": "亀田",
+          "trainer_name": "栗東清水久",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 2.42,
+          "combo_total": 8.146,
+          "jockey_top3_rate": 0.0,
+          "horse_name": "シュネーグロッケン"
+        },
+        {
+          "horse_number": 6,
+          "jockey_name": "▲川端",
+          "trainer_name": "栗東秋山",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 1.9,
+          "combo_total": 6.445,
+          "jockey_top3_rate": 0.0,
+          "horse_name": "リードプリンシパル"
+        },
+        {
+          "horse_number": 3,
+          "jockey_name": "△柴田裕",
+          "trainer_name": "栗東中竹",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 0.31,
+          "combo_total": 1.1,
+          "jockey_top3_rate": 0.059,
+          "horse_name": "メイプルギャング"
+        }
+      ],
+      "buys": [],
+      "n_tickets": 0,
+      "total_stake": 0,
+      "kelly_total_stake": 0,
+      "kelly_n_tickets": 0,
+      "result_top3": [],
+      "result_payout": null,
+      "axis_name": "ラヴネヴァーダイズ"
+    },
+    {
+      "race_id": "202607020611",
+      "race_number": 11,
+      "race_name": "3歳以上1勝クラス",
+      "race_class": "1勝クラス",
+      "race_level": "1勝クラス",
+      "surface": "芝",
+      "distance_m": 1200,
+      "track_condition": "良",
+      "weather": "曇",
+      "num_runners": 18,
+      "start_time": "18:00",
+      "venue_name": "中京",
+      "axis": 1,
+      "partners": [
+        14
+      ],
+      "threshold": 10.0,
+      "threshold_reason": "芝/ダート×馬場 [芝×良]",
+      "skipped": true,
+      "skip_reason": "相手1頭（4頭以上必要）",
+      "in_f4": true,
+      "f4_reason": "F4撤回(撤回後は全レース対象)",
+      "max_ev": 0.0,
+      "race_ev_threshold": 2.5,
+      "passes_ev_filter": false,
+      "horses": [
+        {
+          "horse_number": 1,
+          "jockey_name": "横山武",
+          "trainer_name": "栗東坂口",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 10.42,
+          "combo_total": 29.099,
+          "jockey_top3_rate": 0.441,
+          "horse_name": "フロムレイブン"
+        },
+        {
+          "horse_number": 14,
+          "jockey_name": "松山",
+          "trainer_name": "栗東杉山佳",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 10.42,
+          "combo_total": 29.099,
+          "jockey_top3_rate": 0.351,
+          "horse_name": "マーゴットミスト"
+        },
+        {
+          "horse_number": 15,
+          "jockey_name": "西村淳",
+          "trainer_name": "栗東河嶋",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 8.97,
+          "combo_total": 25.842,
+          "jockey_top3_rate": 0.35,
+          "horse_name": "ウェルカムソング"
+        },
+        {
+          "horse_number": 9,
+          "jockey_name": "◇永島",
+          "trainer_name": "栗東谷",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 8.56,
+          "combo_total": 24.87,
+          "jockey_top3_rate": 0.154,
+          "horse_name": "カラクニダケ"
+        },
+        {
+          "horse_number": 2,
+          "jockey_name": "▲森田",
+          "trainer_name": "栗東加藤公",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 8.14,
+          "combo_total": 23.878,
+          "jockey_top3_rate": 0.087,
+          "horse_name": "パレットフレイバー"
+        },
+        {
+          "horse_number": 16,
+          "jockey_name": "団野",
+          "trainer_name": "栗東中村",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 7.73,
+          "combo_total": 22.867,
+          "jockey_top3_rate": 0.263,
+          "horse_name": "ヤマニンフェイエル"
+        },
+        {
+          "horse_number": 6,
+          "jockey_name": "国分優",
+          "trainer_name": "栗東松下",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 7.31,
+          "combo_total": 21.836,
+          "jockey_top3_rate": 0.031,
+          "horse_name": "アーリントンロウ"
+        },
+        {
+          "horse_number": 7,
+          "jockey_name": "川須",
+          "trainer_name": "栗東小椋",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 6.28,
+          "combo_total": 19.17,
+          "jockey_top3_rate": 0.0,
+          "horse_name": "セクシーマージュ"
+        },
+        {
+          "horse_number": 11,
+          "jockey_name": "田口",
+          "trainer_name": "栗東鈴木孝",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 5.25,
+          "combo_total": 16.372,
+          "jockey_top3_rate": 0.229,
+          "horse_name": "パリコレジェンヌ"
+        },
+        {
+          "horse_number": 3,
+          "jockey_name": "コレット",
+          "trainer_name": "栗東清水久",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 5.04,
+          "combo_total": 15.797,
+          "jockey_top3_rate": null,
+          "horse_name": "モルティフレーバー"
+        },
+        {
+          "horse_number": 18,
+          "jockey_name": "幸",
+          "trainer_name": "栗東加藤公",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 5.04,
+          "combo_total": 15.797,
+          "jockey_top3_rate": 0.229,
+          "horse_name": "フランクスピード"
+        },
+        {
+          "horse_number": 8,
+          "jockey_name": "亀田",
+          "trainer_name": "栗東高柳大",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 3.8,
+          "combo_total": 12.227,
+          "jockey_top3_rate": 0.0,
+          "horse_name": "スピリットライズ"
+        },
+        {
+          "horse_number": 5,
+          "jockey_name": "国分恭",
+          "trainer_name": "栗東渡辺",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 3.38,
+          "combo_total": 10.991,
+          "jockey_top3_rate": 0.118,
+          "horse_name": "マーシーラン"
+        },
+        {
+          "horse_number": 12,
+          "jockey_name": "▲川端",
+          "trainer_name": "栗東井上",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 3.38,
+          "combo_total": 10.991,
+          "jockey_top3_rate": 0.0,
+          "horse_name": "ドレドレ"
+        },
+        {
+          "horse_number": 10,
+          "jockey_name": "秋山稔",
+          "trainer_name": "栗東平田",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 1.93,
+          "combo_total": 6.483,
+          "jockey_top3_rate": 0.211,
+          "horse_name": "アウクソー"
+        },
+        {
+          "horse_number": 17,
+          "jockey_name": "富田",
+          "trainer_name": "栗東野中",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 1.93,
+          "combo_total": 6.483,
+          "jockey_top3_rate": 0.111,
+          "horse_name": "トウカイフルーレ"
+        },
+        {
+          "horse_number": 4,
+          "jockey_name": "松若",
+          "trainer_name": "栗東橋口",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 1.73,
+          "combo_total": 5.815,
+          "jockey_top3_rate": 0.135,
+          "horse_name": "フェリーニ"
+        },
+        {
+          "horse_number": 13,
+          "jockey_name": "酒井",
+          "trainer_name": "栗東西村",
+          "odds_win": null,
+          "popularity": null,
+          "rel_prob": 0.69,
+          "combo_total": 2.382,
+          "jockey_top3_rate": 0.29,
+          "horse_name": "ベランジェール"
+        }
+      ],
+      "buys": [],
+      "n_tickets": 0,
+      "total_stake": 0,
+      "kelly_total_stake": 0,
+      "kelly_n_tickets": 0,
+      "result_top3": [],
+      "result_payout": null,
+      "axis_name": "フロムレイブン"
+    }
+  ]
+}
